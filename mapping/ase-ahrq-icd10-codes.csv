@@ -1,0 +1,2554 @@
+icd_10_cm_code,icd_10_cm_code_description,infectious_category_1
+A150,Tuberculosis of lung,Pulmonary
+A154,Tuberculosis of intrathoracic lymph nodes,Pulmonary
+A155,"Tuberculosis of larynx, trachea and bronchus",Pulmonary
+A156,Tuberculous pleurisy,Pulmonary
+A157,Primary respiratory tuberculosis,Pulmonary
+A158,Other respiratory tuberculosis,Pulmonary
+A159,Respiratory tuberculosis unspecified,Pulmonary
+A170,Tuberculous meningitis,CNS
+A171,Meningeal tuberculoma,CNS
+A1781,Tuberculoma of brain and spinal cord,CNS
+A1782,Tuberculous meningoencephalitis,CNS
+A1783,Tuberculous neuritis,CNS
+A1789,Other tuberculosis of nervous system,CNS
+A179,"Tuberculosis of nervous system, unspecified",CNS
+A1801,Tuberculosis of spine,Bone/Joint
+A1802,Tuberculous arthritis of other joints,Bone/Joint
+A1803,Tuberculosis of other bones,Bone/Joint
+A1809,Other musculoskeletal tuberculosis,Bone/Joint
+A1810,"Tuberculosis of genitourinary system, unspecified",Genitourinary
+A1811,Tuberculosis of kidney and ureter,Genitourinary
+A1812,Tuberculosis of bladder,Genitourinary
+A1813,Tuberculosis of other urinary organs,Genitourinary
+A1814,Tuberculosis of prostate,Genitourinary
+A1815,Tuberculosis of other male genital organs,Genitourinary
+A1816,Tuberculosis of cervix,Obstetric/Gynecologic
+A1817,Tuberculous female pelvic inflammatory disease,Obstetric/Gynecologic
+A1818,Tuberculosis of other female genital organs,Obstetric/Gynecologic
+A182,Tuberculous peripheral lymphadenopathy,Other
+A1831,Tuberculous peritonitis,Intra-abdominal
+A1832,Tuberculous enteritis,Intra-abdominal
+A1839,Retroperitoneal tuberculosis,Intra-abdominal
+A184,Tuberculosis of skin and subcutaneous tissue,Skin/Soft Tissue Infection
+A1850,"Tuberculosis of eye, unspecified",Ocular
+A1851,Tuberculous episcleritis,Ocular
+A1852,Tuberculous keratitis,Ocular
+A1853,Tuberculous chorioretinitis,Ocular
+A1854,Tuberculous iridocyclitis,Ocular
+A1859,Other tuberculosis of eye,Ocular
+A186,Tuberculosis of (inner) (middle) ear,Oral/ENT
+A187,Tuberculosis of adrenal glands,Intra-abdominal
+A1881,Tuberculosis of thyroid gland,Oral/ENT
+A1882,Tuberculosis of other endocrine glands,Other
+A1883,"Tuberculosis of digestive tract organs, NEC",Intra-abdominal
+A1884,Tuberculosis of heart,Cardiac/Mediastinum
+A1885,Tuberculosis of spleen,Intra-abdominal
+A1889,Tuberculosis of other sites,Other
+A190,Acute miliary tuberculosis of a single specified site,Septicemia/Bacteremia
+A191,Acute miliary tuberculosis of multiple sites,Septicemia/Bacteremia
+A192,"Acute miliary tuberculosis, unspecified",Septicemia/Bacteremia
+A198,Other miliary tuberculosis,Septicemia/Bacteremia
+A199,"Miliary tuberculosis, unspecified",Septicemia/Bacteremia
+A021,Salmonella sepsis,Septicemia/Bacteremia
+A207,Septicemic plague,Septicemia/Bacteremia
+A227,Anthrax sepsis,Septicemia/Bacteremia
+A267,Erysipelothrix sepsis,Septicemia/Bacteremia
+A327,Listerial sepsis,Septicemia/Bacteremia
+A392,Acute meningococcemia,Septicemia/Bacteremia
+A393,Chronic meningococcemia,Septicemia/Bacteremia
+A394,"Meningococcemia, unspecified",Septicemia/Bacteremia
+A400,"Sepsis due to streptococcus, group A",Septicemia/Bacteremia
+A401,"Sepsis due to streptococcus, group B",Septicemia/Bacteremia
+A403,Sepsis due to Streptococcus pneumoniae,Septicemia/Bacteremia
+A408,Other streptococcal sepsis,Septicemia/Bacteremia
+A409,"Streptococcal sepsis, unspecified",Septicemia/Bacteremia
+A4101,Sepsis due to Methicillin susceptible Staphylococcus aureus,Septicemia/Bacteremia
+A4102,Sepsis due to Methicillin resistant Staphylococcus aureus,Septicemia/Bacteremia
+A411,Sepsis due to other specified staphylococcus,Septicemia/Bacteremia
+A412,Sepsis due to unspecified staphylococcus,Septicemia/Bacteremia
+A413,Sepsis due to Hemophilus influenzae,Septicemia/Bacteremia
+A414,Sepsis due to anaerobes,Septicemia/Bacteremia
+A4150,"Gram-negative sepsis, unspecified",Septicemia/Bacteremia
+A4151,Sepsis due to Escherichia coli [E. coli],Septicemia/Bacteremia
+A4152,Sepsis due to Pseudomonas,Septicemia/Bacteremia
+A4153,Sepsis due to Serratia,Septicemia/Bacteremia
+A4159,Other Gram-negative sepsis,Septicemia/Bacteremia
+A4181,Sepsis due to Enterococcus,Septicemia/Bacteremia
+A4189,Other specified sepsis,Septicemia/Bacteremia
+A419,"Sepsis, unspecified organism",Septicemia/Bacteremia
+A427,Actinomycotic sepsis,Septicemia/Bacteremia
+A5486,Gonococcal sepsis,Septicemia/Bacteremia
+B007,Disseminated herpesviral disease,Septicemia/Bacteremia
+B377,Candidal sepsis,Septicemia/Bacteremia
+I76,Septic arterial embolism,Septicemia/Bacteremia
+P360,"Sepsis of newborn due to streptococcus, group B",Septicemia/Bacteremia
+P3610,Sepsis of newborn due to unspecified streptococci,Septicemia/Bacteremia
+P3619,Sepsis of newborn due to other streptococci,Septicemia/Bacteremia
+P362,Sepsis of newborn due to Staphylococcus aureus,Septicemia/Bacteremia
+P3630,Sepsis of newborn due to unspecified staphylococci,Septicemia/Bacteremia
+P3639,Sepsis of newborn due to other staphylococci,Septicemia/Bacteremia
+P364,Sepsis of newborn due to Escherichia coli,Septicemia/Bacteremia
+P365,Sepsis of newborn due to anaerobes,Septicemia/Bacteremia
+P368,Other bacterial sepsis of newborn,Septicemia/Bacteremia
+P369,"Bacterial sepsis of newborn, unspecified",Septicemia/Bacteremia
+R6520,Severe sepsis without septic shock,Septicemia/Bacteremia
+A0102,Typhoid fever with heart involvement,Cardiac/Mediastinum
+A200,Bubonic plague,Other
+A208,Other forms of plague,Other
+A209,"Plague, unspecified",Other
+A217,Generalized tularemia,Other
+A218,Other forms of tularemia,Other
+A219,"Tularemia, unspecified",Other
+A228,Other forms of anthrax,Other
+A229,"Anthrax, unspecified",Other
+A230,Brucellosis due to Brucella melitensis,Other
+A231,Brucellosis due to Brucella abortus,Other
+A232,Brucellosis due to Brucella suis,Other
+A233,Brucellosis due to Brucella canis,Other
+A238,Other brucellosis,Other
+A239,"Brucellosis, unspecified",Other
+A240,Glanders,Other
+A241,Acute and fulminating melioidosis,Other
+A242,Subacute and chronic melioidosis,Other
+A243,Other melioidosis,Other
+A249,"Melioidosis, unspecified",Other
+A250,Spirillosis,Other
+A251,Streptobacillosis,Other
+A259,"Rat-bite fever, unspecified",Other
+A260,Cutaneous erysipeloid,Skin/Soft Tissue Infection
+A268,Other forms of erysipeloid,Skin/Soft Tissue Infection
+A269,"Erysipeloid, unspecified",Skin/Soft Tissue Infection
+A320,Cutaneous listeriosis,Skin/Soft Tissue Infection
+A3281,Oculoglandular listeriosis,Oral/ENT
+A3282,Listerial endocarditis,Cardiac/Mediastinum
+A3682,Diphtheritic radiculomyelitis,CNS
+A3683,Diphtheritic polyneuritis,CNS
+A3684,Diphtheritic tubulo-interstitial nephropathy,Genitourinary
+A3700,Whooping cough due to Bordetella pertussis without pneumonia,Pulmonary
+A3710,Whooping cough due to Bordetella parapertussis w/o pneumonia,Pulmonary
+A3780,Whooping cough due to other Bordetella species w/o pneumonia,Pulmonary
+A3781,Whooping cough due to oth Bordetella species with pneumonia,Pulmonary
+A3790,"Whooping cough, unspecified species without pneumonia",Pulmonary
+A3791,"Whooping cough, unspecified species with pneumonia",Pulmonary
+A380,Scarlet fever with otitis media,Oral/ENT
+A388,Scarlet fever with other complications,Oral/ENT
+A389,"Scarlet fever, uncomplicated",Oral/ENT
+A391,Waterhouse-Friderichsen syndrome,Septicemia/Bacteremia
+A3982,Meningococcal retrobulbar neuritis,CNS
+A420,Pulmonary actinomycosis,Pulmonary
+A421,Abdominal actinomycosis,Intra-abdominal
+A422,Cervicofacial actinomycosis,Skin/Soft Tissue Infection
+A4289,Other forms of actinomycosis,Other
+A429,"Actinomycosis, unspecified",Other
+A438,Other forms of nocardiosis,Other
+A439,"Nocardiosis, unspecified",Other
+A440,Systemic bartonellosis,Septicemia/Bacteremia
+A441,Cutaneous and mucocutaneous bartonellosis,Skin/Soft Tissue Infection
+A448,Other forms of bartonellosis,Other
+A449,"Bartonellosis, unspecified",Other
+A480,Gas gangrene,Skin/Soft Tissue Infection
+A482,Nonpneumonic Legionnaires' disease [Pontiac fever],Other
+A483,Toxic shock syndrome,Septicemia/Bacteremia
+A484,Brazilian purpuric fever,Other
+A4852,Wound botulism,Skin/Soft Tissue Infection
+A488,Other specified bacterial diseases,Other
+A4901,"Methicillin suscep staph infection, unsp site",Other
+A4902,"Methicillin resis staph infection, unsp site",Other
+A491,"Streptococcal infection, unspecified site",Other
+A492,"Hemophilus influenzae infection, unspecified site",Other
+A493,"Mycoplasma infection, unspecified site",Other
+A498,Other bacterial infections of unspecified site,Other
+A499,"Bacterial infection, unspecified",Other
+A70,Chlamydia psittaci infections,Other
+A7489,Other chlamydial diseases,Other
+A749,"Chlamydial infection, unspecified",Other
+A78,Q fever,Other
+B471,Actinomycetoma,Skin/Soft Tissue Infection
+B479,"Mycetoma, unspecified",Skin/Soft Tissue Infection
+B950,"Streptococcus, group A, causing diseases classd elswhr",Other
+B951,"Streptococcus, group B, causing diseases classd elswhr",Other
+B952,Enterococcus as the cause of diseases classified elsewhere,Other
+B953,Streptococcus pneumoniae causing diseases classd elswhr,Other
+B954,Oth streptococcus as the cause of diseases classd elswhr,Other
+B955,Unsp streptococcus as the cause of diseases classd elswhr,Other
+B9561,Methicillin suscep staph infct causing dis classd elswhr,Other
+B9562,Methicillin resis staph infct causing diseases classd elswhr,Other
+B957,Oth staphylococcus as the cause of diseases classd elswhr,Other
+B958,Unsp staphylococcus as the cause of diseases classd elswhr,Other
+B960,Mycoplasma pneumoniae as the cause of diseases classd elswhr,Other
+B961,Klebsiella pneumoniae as the cause of diseases classd elswhr,Other
+B9620,Unsp Escherichia coli as the cause of diseases classd elswhr,Other
+B9621,Shiga toxin E coli (STEC) O157 causing dis classd elswhr,Other
+B9622,Oth shiga toxin E coli (STEC) causing diseases classd elswhr,Other
+B9623,Unsp shiga toxin E coli (STEC) causing dis classd elswhr,Other
+B9629,Oth Escherichia coli as the cause of diseases classd elswhr,Other
+B963,Hemophilus influenzae as the cause of diseases classd elswhr,Other
+B964,Proteus (mirabilis) (morganii) causing dis classd elswhr,Other
+B965,Pseudomonas (mallei) causing diseases classd elswhr,Other
+B966,Bacteroides fragilis as the cause of diseases classd elswhr,Other
+B967,Clostridium perfringens causing diseases classd elswhr,Other
+B9682,Vibrio vulnificus as the cause of diseases classd elswhr,Other
+B9689,Oth bacterial agents as the cause of diseases classd elswhr,Other
+I00,Rheumatic fever without heart involvement,Other
+I029,Rheumatic chorea without heart involvement,Other
+K9081,Whipple's disease,Other
+R7881,Bacteremia,Septicemia/Bacteremia
+B3741,Candidal cystitis and urethritis,Genitourinary
+B3742,Candidal balanitis,Genitourinary
+B3749,Other urogenital candidiasis,Genitourinary
+B3781,Candidal esophagitis,Intra-abdominal
+B3782,Candidal enteritis,Intra-abdominal
+B3784,Candidal otitis externa,Oral/ENT
+B3789,Other sites of candidiasis,Other
+B379,"Candidiasis, unspecified",Other
+B383,Cutaneous coccidioidomycosis,Skin/Soft Tissue Infection
+B387,Disseminated coccidioidomycosis,Septicemia/Bacteremia
+B3881,Prostatic coccidioidomycosis,Genitourinary
+B3889,Other forms of coccidioidomycosis,Other
+B389,"Coccidioidomycosis, unspecified",Pulmonary
+B393,Disseminated histoplasmosis capsulati,Septicemia/Bacteremia
+B394,"Histoplasmosis capsulati, unspecified",Pulmonary
+B395,Histoplasmosis duboisii,Pulmonary
+B399,"Histoplasmosis, unspecified",Pulmonary
+B400,Acute pulmonary blastomycosis,Pulmonary
+B401,Chronic pulmonary blastomycosis,Pulmonary
+B402,"Pulmonary blastomycosis, unspecified",Pulmonary
+B403,Cutaneous blastomycosis,Skin/Soft Tissue Infection
+B407,Disseminated blastomycosis,Septicemia/Bacteremia
+B4089,Other forms of blastomycosis,Other
+B409,"Blastomycosis, unspecified",Pulmonary
+B410,Pulmonary paracoccidioidomycosis,Pulmonary
+B417,Disseminated paracoccidioidomycosis,Septicemia/Bacteremia
+B418,Other forms of paracoccidioidomycosis,Other
+B419,"Paracoccidioidomycosis, unspecified",Pulmonary
+B420,Pulmonary sporotrichosis,Pulmonary
+B421,Lymphocutaneous sporotrichosis,Skin/Soft Tissue Infection
+B427,Disseminated sporotrichosis,Septicemia/Bacteremia
+B4281,Cerebral sporotrichosis,CNS
+B4282,Sporotrichosis arthritis,Bone/Joint
+B4289,Other forms of sporotrichosis,Other
+B429,"Sporotrichosis, unspecified",Skin/Soft Tissue Infection
+B430,Cutaneous chromomycosis,Skin/Soft Tissue Infection
+B431,Pheomycotic brain abscess,CNS
+B432,Subcutaneous pheomycotic abscess and cyst,Skin/Soft Tissue Infection
+B438,Other forms of chromomycosis,Other
+B439,"Chromomycosis, unspecified",Skin/Soft Tissue Infection
+B440,Invasive pulmonary aspergillosis,Pulmonary
+B441,Other pulmonary aspergillosis,Pulmonary
+B442,Tonsillar aspergillosis,Oral/ENT
+B447,Disseminated aspergillosis,Septicemia/Bacteremia
+B4489,Other forms of aspergillosis,Other
+B449,"Aspergillosis, unspecified",Pulmonary
+B450,Pulmonary cryptococcosis,Pulmonary
+B452,Cutaneous cryptococcosis,Skin/Soft Tissue Infection
+B453,Osseous cryptococcosis,Bone/Joint
+B457,Disseminated cryptococcosis,Septicemia/Bacteremia
+B458,Other forms of cryptococcosis,Other
+B459,"Cryptococcosis, unspecified",Pulmonary
+B460,Pulmonary mucormycosis,Pulmonary
+B461,Rhinocerebral mucormycosis,Oral/ENT
+B462,Gastrointestinal mucormycosis,Intra-abdominal
+B463,Cutaneous mucormycosis,Skin/Soft Tissue Infection
+B464,Disseminated mucormycosis,Septicemia/Bacteremia
+B465,"Mucormycosis, unspecified",Other
+B468,Other zygomycoses,Other
+B469,"Zygomycosis, unspecified",Other
+B470,Eumycetoma,Other
+B480,Lobomycosis,Other
+B481,Rhinosporidiosis,Oral/ENT
+B482,Allescheriasis,Other
+B483,Geotrichosis,Other
+B484,Penicillosis,Other
+B488,Other specified mycoses,Other
+B49,Unspecified mycosis,Other
+A6000,"Herpesviral infection of urogenital system, unspecified",STI-Related
+A6001,Herpesviral infection of penis,STI-Related
+A6002,Herpesviral infection of other male genital organs,STI-Related
+A6003,Herpesviral cervicitis,STI-Related
+A6004,Herpesviral vulvovaginitis,STI-Related
+A6009,Herpesviral infection of other urogenital tract,STI-Related
+A601,Herpesviral infection of perianal skin and rectum,STI-Related
+A609,"Anogenital herpesviral infection, unspecified",STI-Related
+A630,Anogenital (venereal) warts,STI-Related
+A820,Sylvatic rabies,CNS
+A821,Urban rabies,CNS
+A829,"Rabies, unspecified",CNS
+A90,Dengue fever [classical dengue],Tick/Vector-Borne
+A91,Dengue hemorrhagic fever,Tick/Vector-Borne
+A920,Chikungunya virus disease,Tick/Vector-Borne
+A921,O'nyong-nyong fever,Tick/Vector-Borne
+A9230,"West Nile virus infection, unspecified",Tick/Vector-Borne
+A9232,West Nile virus infection with oth neurologic manifestation,Tick/Vector-Borne
+A9239,West Nile virus infection with other complications,Tick/Vector-Borne
+A924,Rift Valley fever,Tick/Vector-Borne
+A925,Zika virus disease,Tick/Vector-Borne
+A928,Other specified mosquito-borne viral fevers,Tick/Vector-Borne
+A929,"Mosquito-borne viral fever, unspecified",Tick/Vector-Borne
+A930,Oropouche virus disease,Tick/Vector-Borne
+A931,Sandfly fever,Tick/Vector-Borne
+A932,Colorado tick fever,Tick/Vector-Borne
+A938,Other specified arthropod-borne viral fevers,Tick/Vector-Borne
+A94,Unspecified arthropod-borne viral fever,Tick/Vector-Borne
+A950,Sylvatic yellow fever,Tick/Vector-Borne
+A951,Urban yellow fever,Tick/Vector-Borne
+A959,"Yellow fever, unspecified",Tick/Vector-Borne
+A960,Junin hemorrhagic fever,Other
+A961,Machupo hemorrhagic fever,Other
+A962,Lassa fever,Other
+A968,Other arenaviral hemorrhagic fevers,Other
+A969,"Arenaviral hemorrhagic fever, unspecified",Other
+A980,Crimean-Congo hemorrhagic fever,Other
+A981,Omsk hemorrhagic fever,Other
+A982,Kyasanur Forest disease,Other
+A983,Marburg virus disease,Other
+A984,Ebola virus disease,Other
+A985,Hemorrhagic fever with renal syndrome,Other
+A988,Other specified viral hemorrhagic fevers,Other
+A99,Unspecified viral hemorrhagic fever,Other
+B000,Eczema herpeticum,Skin/Soft Tissue Infection
+B001,Herpesviral vesicular dermatitis,Skin/Soft Tissue Infection
+B002,Herpesviral gingivostomatitis and pharyngotonsillitis,Oral/ENT
+B0081,Herpesviral hepatitis,Intra-abdominal
+B0082,Herpes simplex myelitis,CNS
+B0089,Other herpesviral infection,Other
+B009,"Herpesviral infection, unspecified",Other
+B0112,Varicella myelitis,CNS
+B0181,Varicella keratitis,Ocular
+B0189,Other varicella complications,Other
+B019,Varicella without complication,Other
+B0221,Postherpetic geniculate ganglionitis,CNS
+B0222,Postherpetic trigeminal neuralgia,CNS
+B0223,Postherpetic polyneuropathy,CNS
+B0224,Postherpetic myelitis,CNS
+B0229,Other postherpetic nervous system involvement,CNS
+B027,Disseminated zoster,Septicemia/Bacteremia
+B028,Zoster with other complications,Other
+B029,Zoster without complications,Other
+B03,Smallpox,Other
+B04,Monkeypox,Other
+B054,Measles with intestinal complications,Intra-abdominal
+B0589,Other measles complications,Other
+B059,Measles without complication,Other
+B0600,"Rubella with neurological complication, unspecified",CNS
+B0609,Other neurological complications of rubella,CNS
+B0689,Other rubella complications,Other
+B069,Rubella without complication,Other
+B08010,Cowpox,Other
+B08011,Vaccinia not from vaccine,Other
+B0802,Orf virus disease,Other
+B0803,Pseudocowpox [milker's node],Other
+B0804,"Paravaccinia, unspecified",Other
+B0809,Other orthopoxvirus infections,Other
+B0820,"Exanthema subitum [sixth disease], unspecified",Other
+B0821,Exanthema subitum [sixth disease] due to human herpesvirus 6,Other
+B0822,Exanthema subitum [sixth disease] due to human herpesvirus 7,Other
+B083,Erythema infectiosum [fifth disease],Other
+B084,Enteroviral vesicular stomatitis with exanthem,Other
+B085,Enteroviral vesicular pharyngitis,Other
+B0871,Tanapox virus disease,Other
+B0872,Yaba pox virus disease,Other
+B0879,Other yatapoxvirus infections,Other
+B088,Oth viral infections with skin and mucous membrane lesions,Other
+B09,Unsp viral infection with skin and mucous membrane lesions,Other
+B1081,Human herpesvirus 6 infection,Other
+B1082,Human herpesvirus 7 infection,Other
+B1089,Other human herpesvirus infection,Other
+B252,Cytomegaloviral pancreatitis,Intra-abdominal
+B258,Other cytomegaloviral diseases,Other
+B259,"Cytomegaloviral disease, unspecified",Other
+B260,Mumps orchitis,Genitourinary
+B263,Mumps pancreatitis,Intra-abdominal
+B2684,Mumps polyneuropathy,CNS
+B2689,Other mumps complications,Other
+B269,Mumps without complication,Other
+B2700,Gammaherpesviral mononucleosis without complication,Other
+B2709,Gammaherpesviral mononucleosis with other complications,Other
+B2710,Cytomegaloviral mononucleosis without complications,Other
+B2719,Cytomegaloviral mononucleosis with other complication,Other
+B2780,Other infectious mononucleosis without complication,Other
+B2789,Other infectious mononucleosis with other complication,Other
+B2790,"Infectious mononucleosis, unspecified without complication",Other
+B2799,"Infectious mononucleosis, unsp with other complication",Other
+B330,Epidemic myalgia,Other
+B331,Ross River disease,Other
+B334,Hantavirus (cardio)-pulmonary syndrome [HPS] [HCPS],Pulmonary
+B338,Other specified viral diseases,Other
+B340,"Adenovirus infection, unspecified",Other
+B341,"Enterovirus infection, unspecified",Other
+B342,"Coronavirus infection, unspecified",Other
+B343,"Parvovirus infection, unspecified",Other
+B348,Other viral infections of unspecified site,Other
+B349,"Viral infection, unspecified",Other
+B970,Adenovirus as the cause of diseases classified elsewhere,Other
+B9710,Unsp enterovirus as the cause of diseases classd elswhr,Other
+B9711,Coxsackievirus as the cause of diseases classified elsewhere,Other
+B9712,Echovirus as the cause of diseases classified elsewhere,Other
+B9719,Oth enterovirus as the cause of diseases classd elswhr,Other
+B9721,SARS-associated coronavirus causing diseases classd elswhr,Other
+B9729,Oth coronavirus as the cause of diseases classd elswhr,Other
+B9730,Unsp retrovirus as the cause of diseases classd elswhr,Other
+B9731,Lentivirus as the cause of diseases classified elsewhere,Other
+B9732,Oncovirus as the cause of diseases classified elsewhere,Other
+B9739,Oth retrovirus as the cause of diseases classified elsewhere,Other
+B974,Respiratory syncytial virus causing diseases classd elswhr,Other
+B975,Reovirus as the cause of diseases classified elsewhere,Other
+B976,Parvovirus as the cause of diseases classified elsewhere,Other
+B9781,Human metapneumovirus as the cause of diseases classd elswhr,Other
+B9789,Oth viral agents as the cause of diseases classd elswhr,Other
+A270,Leptospirosis icterohemorrhagica,Other
+A279,"Leptospirosis, unspecified",Other
+A5900,"Urogenital trichomoniasis, unspecified",STI-Related
+A5901,Trichomonal vulvovaginitis,STI-Related
+A5902,Trichomonal prostatitis,STI-Related
+A5903,Trichomonal cystitis and urethritis,STI-Related
+A5909,Other urogenital trichomoniasis,STI-Related
+A598,Trichomoniasis of other sites,STI-Related
+A599,"Trichomoniasis, unspecified",STI-Related
+A65,Nonvenereal syphilis,STI-Related
+A660,Initial lesions of yaws,Skin/Soft Tissue Infection
+A661,Multiple papillomata and wet crab yaws,Skin/Soft Tissue Infection
+A662,Other early skin lesions of yaws,Skin/Soft Tissue Infection
+A663,Hyperkeratosis of yaws,Skin/Soft Tissue Infection
+A664,Gummata and ulcers of yaws,Skin/Soft Tissue Infection
+A665,Gangosa,Skin/Soft Tissue Infection
+A666,Bone and joint lesions of yaws,Bone/Joint
+A667,Other manifestations of yaws,Other
+A669,"Yaws, unspecified",Skin/Soft Tissue Infection
+A670,Primary lesions of pinta,Skin/Soft Tissue Infection
+A671,Intermediate lesions of pinta,Skin/Soft Tissue Infection
+A672,Late lesions of pinta,Skin/Soft Tissue Infection
+A673,Mixed lesions of pinta,Skin/Soft Tissue Infection
+A679,"Pinta, unspecified",Skin/Soft Tissue Infection
+A680,Louse-borne relapsing fever,Tick/Vector-Borne
+A681,Tick-borne relapsing fever,Tick/Vector-Borne
+A689,"Relapsing fever, unspecified",Tick/Vector-Borne
+A690,Necrotizing ulcerative stomatitis,Oral/ENT
+A691,Other Vincent's infections,Oral/ENT
+A6920,"Lyme disease, unspecified",Tick/Vector-Borne
+A6922,Other neurologic disorders in Lyme disease,Tick/Vector-Borne
+A6929,Other conditions associated with Lyme disease,Tick/Vector-Borne
+A698,Other specified spirochetal infections,Other
+A699,"Spirochetal infection, unspecified",Other
+A750,Epidemic louse-borne typhus fever d/t Rickettsia prowazekii,Tick/Vector-Borne
+A751,Recrudescent typhus [Brill's disease],Tick/Vector-Borne
+A752,Typhus fever due to Rickettsia typhi,Tick/Vector-Borne
+A753,Typhus fever due to Rickettsia tsutsugamushi,Tick/Vector-Borne
+A759,"Typhus fever, unspecified",Tick/Vector-Borne
+A770,Spotted fever due to Rickettsia rickettsii,Tick/Vector-Borne
+A771,Spotted fever due to Rickettsia conorii,Tick/Vector-Borne
+A772,Spotted fever due to Rickettsia siberica,Tick/Vector-Borne
+A773,Spotted fever due to Rickettsia australis,Tick/Vector-Borne
+A7740,"Ehrlichiosis, unspecified",Tick/Vector-Borne
+A7741,Ehrlichiosis chafeensis [E. chafeensis],Tick/Vector-Borne
+A7749,Other ehrlichiosis,Tick/Vector-Borne
+A778,Other spotted fevers,Tick/Vector-Borne
+A779,"Spotted fever, unspecified",Tick/Vector-Borne
+A790,Trench fever,Tick/Vector-Borne
+A791,Rickettsialpox due to Rickettsia akari,Tick/Vector-Borne
+A7981,Rickettsiosis due to Ehrlichia sennetsu,Tick/Vector-Borne
+A7989,Other specified rickettsioses,Tick/Vector-Borne
+A799,"Rickettsiosis, unspecified",Tick/Vector-Borne
+B500,Plasmodium falciparum malaria with cerebral complications,Septicemia/Bacteremia
+B508,Other severe and complicated Plasmodium falciparum malaria,Septicemia/Bacteremia
+B509,"Plasmodium falciparum malaria, unspecified",Septicemia/Bacteremia
+B510,Plasmodium vivax malaria with rupture of spleen,Septicemia/Bacteremia
+B518,Plasmodium vivax malaria with other complications,Septicemia/Bacteremia
+B519,Plasmodium vivax malaria without complication,Septicemia/Bacteremia
+B520,Plasmodium malariae malaria with nephropathy,Septicemia/Bacteremia
+B528,Plasmodium malariae malaria with other complications,Septicemia/Bacteremia
+B529,Plasmodium malariae malaria without complication,Septicemia/Bacteremia
+B530,Plasmodium ovale malaria,Septicemia/Bacteremia
+B531,Malaria due to simian plasmodia,Septicemia/Bacteremia
+B538,"Other malaria, not elsewhere classified",Septicemia/Bacteremia
+B54,Unspecified malaria,Septicemia/Bacteremia
+B550,Visceral leishmaniasis,Septicemia/Bacteremia
+B551,Cutaneous leishmaniasis,Skin/Soft Tissue Infection
+B552,Mucocutaneous leishmaniasis,Skin/Soft Tissue Infection
+B559,"Leishmaniasis, unspecified",Septicemia/Bacteremia
+B560,Gambiense trypanosomiasis,Septicemia/Bacteremia
+B561,Rhodesiense trypanosomiasis,Septicemia/Bacteremia
+B569,"African trypanosomiasis, unspecified",Septicemia/Bacteremia
+B570,Acute Chagas' disease with heart involvement,Cardiac/Mediastinum
+B571,Acute Chagas' disease without heart involvement,Other
+B572,Chagas' disease (chronic) with heart involvement,Cardiac/Mediastinum
+B5730,"Chagas' disease with digestive system involvement, unsp",Intra-abdominal
+B5739,Other digestive system involvement in Chagas' disease,Intra-abdominal
+B5740,"Chagas' disease with nervous system involvement, unspecified",CNS
+B5749,Other nervous system involvement in Chagas' disease,CNS
+B575,Chagas' disease (chronic) with other organ involvement,Other
+B5800,"Toxoplasma oculopathy, unspecified",Ocular
+B5882,Toxoplasma myositis,Cardiac/Mediastinum
+B5883,Toxoplasma tubulo-interstitial nephropathy,Genitourinary
+B5889,Toxoplasmosis with other organ involvement,Other
+B589,"Toxoplasmosis, unspecified",Other
+B600,Babesiosis,Septicemia/Bacteremia
+B6010,"Acanthamebiasis, unspecified",CNS
+B6012,Conjunctivitis due to Acanthamoeba,Ocular
+B6013,Keratoconjunctivitis due to Acanthamoeba,Ocular
+B6019,Other acanthamebic disease,Other
+B602,Naegleriasis,CNS
+B608,Other specified protozoal diseases,Other
+B64,Unspecified protozoal disease,Other
+B650,Schistosomiasis due to Schistosoma haematobium,Other
+B651,Schistosomiasis due to Schistosoma mansoni,Other
+B652,Schistosomiasis due to Schistosoma japonicum,Other
+B658,Other schistosomiasis,Other
+B659,"Schistosomiasis, unspecified",Other
+B660,Opisthorchiasis,Other
+B661,Clonorchiasis,Other
+B662,Dicroceliasis,Other
+B663,Fascioliasis,Other
+B664,Paragonimiasis,Pulmonary
+B665,Fasciolopsiasis,Other
+B668,Other specified fluke infections,Other
+B669,"Fluke infection, unspecified",Other
+B670,Echinococcus granulosus infection of liver,Intra-abdominal
+B671,Echinococcus granulosus infection of lung,Pulmonary
+B672,Echinococcus granulosus infection of bone,Bone/Joint
+B6731,"Echinococcus granulosus infection, thyroid gland",Oral/ENT
+B6732,"Echinococcus granulosus infection, multiple sites",Other
+B6739,"Echinococcus granulosus infection, other sites",Other
+B674,"Echinococcus granulosus infection, unspecified",Other
+B675,Echinococcus multilocularis infection of liver,Intra-abdominal
+B6761,"Echinococcus multilocularis infection, multiple sites",Other
+B6769,"Echinococcus multilocularis infection, other sites",Other
+B677,"Echinococcus multilocularis infection, unspecified",Other
+B678,"Echinococcosis, unspecified, of liver",Intra-abdominal
+B6790,"Echinococcosis, unspecified",Other
+B6799,Other echinococcosis,Other
+B680,Taenia solium taeniasis,Other
+B681,Taenia saginata taeniasis,Other
+B689,"Taeniasis, unspecified",Other
+B690,Cysticercosis of central nervous system,CNS
+B691,Cysticercosis of eye,Ocular
+B6981,Myositis in cysticercosis,Cardiac/Mediastinum
+B6989,Cysticercosis of other sites,Other
+B699,"Cysticercosis, unspecified",Other
+B700,Diphyllobothriasis,Other
+B701,Sparganosis,Other
+B710,Hymenolepiasis,Other
+B711,Dipylidiasis,Other
+B718,Other specified cestode infections,Other
+B719,"Cestode infection, unspecified",Other
+B72,Dracunculiasis,Other
+B7300,"Onchocerciasis with eye involvement, unspecified",Ocular
+B7301,Onchocerciasis with endophthalmitis,Ocular
+B7302,Onchocerciasis with glaucoma,Ocular
+B7309,Onchocerciasis with other eye involvement,Ocular
+B731,Onchocerciasis without eye disease,Other
+B740,Filariasis due to Wuchereria bancrofti,Other
+B741,Filariasis due to Brugia malayi,Other
+B742,Filariasis due to Brugia timori,Other
+B743,Loiasis,Other
+B744,Mansonelliasis,Other
+B748,Other filariases,Other
+B749,"Filariasis, unspecified",Other
+B75,Trichinellosis,Other
+B760,Ancylostomiasis,Other
+B761,Necatoriasis,Other
+B768,Other hookworm diseases,Other
+B769,"Hookworm disease, unspecified",Other
+B770,Ascariasis with intestinal complications,Intra-abdominal
+B7789,Ascariasis with other complications,Other
+B779,"Ascariasis, unspecified",Other
+B780,Intestinal strongyloidiasis,Intra-abdominal
+B781,Cutaneous strongyloidiasis,Skin/Soft Tissue Infection
+B787,Disseminated strongyloidiasis,Septicemia/Bacteremia
+B789,"Strongyloidiasis, unspecified",Other
+B79,Trichuriasis,Other
+B80,Enterobiasis,Other
+B810,Anisakiasis,Other
+B811,Intestinal capillariasis,Intra-abdominal
+B812,Trichostrongyliasis,Other
+B813,Intestinal angiostrongyliasis,Intra-abdominal
+B814,Mixed intestinal helminthiases,Intra-abdominal
+B818,Other specified intestinal helminthiases,Intra-abdominal
+B820,"Intestinal helminthiasis, unspecified",Intra-abdominal
+B829,"Intestinal parasitism, unspecified",Intra-abdominal
+B830,Visceral larva migrans,Other
+B831,Gnathostomiasis,Other
+B832,Angiostrongyliasis due to Parastrongylus cantonensis,Other
+B833,Syngamiasis,Other
+B838,Other specified helminthiases,Other
+B839,"Helminthiasis, unspecified",Other
+B854,Mixed pediculosis and phthiriasis,Other
+B870,Cutaneous myiasis,Skin/Soft Tissue Infection
+B871,Wound myiasis,Skin/Soft Tissue Infection
+B872,Ocular myiasis,Ocular
+B873,Nasopharyngeal myiasis,Oral/ENT
+B874,Aural myiasis,Oral/ENT
+B8781,Genitourinary myiasis,Genitourinary
+B8782,Intestinal myiasis,Intra-abdominal
+B8789,Myiasis of other sites,Other
+B879,"Myiasis, unspecified",Other
+B880,Other acariasis,Other
+B881,Tungiasis [sandflea infestation],Other
+B888,Other specified infestations,Other
+B889,"Infestation, unspecified",Other
+B89,Unspecified parasitic disease,Other
+A510,Primary genital syphilis,STI-Related
+A511,Primary anal syphilis,STI-Related
+A512,Primary syphilis of other sites,STI-Related
+A5131,Condyloma latum,STI-Related
+A5132,Syphilitic alopecia,STI-Related
+A5139,Other secondary syphilis of skin,STI-Related
+A5141,Secondary syphilitic meningitis,STI-Related
+A5142,Secondary syphilitic female pelvic disease,STI-Related
+A5143,Secondary syphilitic oculopathy,STI-Related
+A5144,Secondary syphilitic nephritis,STI-Related
+A5145,Secondary syphilitic hepatitis,STI-Related
+A5146,Secondary syphilitic osteopathy,STI-Related
+A5149,Other secondary syphilitic conditions,STI-Related
+A515,"Early syphilis, latent",STI-Related
+A519,"Early syphilis, unspecified",STI-Related
+A5200,"Cardiovascular syphilis, unspecified",STI-Related
+A5201,Syphilitic aneurysm of aorta,STI-Related
+A5202,Syphilitic aortitis,STI-Related
+A5203,Syphilitic endocarditis,STI-Related
+A5204,Syphilitic cerebral arteritis,STI-Related
+A5205,Other cerebrovascular syphilis,STI-Related
+A5206,Other syphilitic heart involvement,STI-Related
+A5209,Other cardiovascular syphilis,STI-Related
+A5210,"Symptomatic neurosyphilis, unspecified",STI-Related
+A5211,Tabes dorsalis,STI-Related
+A5212,Other cerebrospinal syphilis,STI-Related
+A5213,Late syphilitic meningitis,STI-Related
+A5214,Late syphilitic encephalitis,STI-Related
+A5215,Late syphilitic neuropathy,STI-Related
+A5219,Other symptomatic neurosyphilis,STI-Related
+A522,Asymptomatic neurosyphilis,STI-Related
+A523,"Neurosyphilis, unspecified",STI-Related
+A5271,Late syphilitic oculopathy,STI-Related
+A5272,Syphilis of lung and bronchus,STI-Related
+A5273,Symptomatic late syphilis of other respiratory organs,STI-Related
+A5274,Syphilis of liver and other viscera,STI-Related
+A5275,Syphilis of kidney and ureter,STI-Related
+A5276,Other genitourinary symptomatic late syphilis,STI-Related
+A5277,Syphilis of bone and joint,STI-Related
+A5278,Syphilis of other musculoskeletal tissue,STI-Related
+A5279,Other symptomatic late syphilis,STI-Related
+A528,"Late syphilis, latent",STI-Related
+A529,"Late syphilis, unspecified",STI-Related
+A530,"Latent syphilis, unspecified as early or late",STI-Related
+A539,"Syphilis, unspecified",STI-Related
+A5400,"Gonococcal infection of lower genitourinary tract, unsp",STI-Related
+A5401,"Gonococcal cystitis and urethritis, unspecified",STI-Related
+A5402,"Gonococcal vulvovaginitis, unspecified",STI-Related
+A5403,"Gonococcal cervicitis, unspecified",STI-Related
+A5409,Other gonococcal infection of lower genitourinary tract,STI-Related
+A541,Gonocl infct of lower GU tract w periureth and acc glnd abcs,STI-Related
+A5421,Gonococcal infection of kidney and ureter,STI-Related
+A5422,Gonococcal prostatitis,STI-Related
+A5423,Gonococcal infection of other male genital organs,STI-Related
+A5424,Gonococcal female pelvic inflammatory disease,STI-Related
+A5429,Other gonococcal genitourinary infections,STI-Related
+A5430,"Gonococcal infection of eye, unspecified",Ocular
+A5431,Gonococcal conjunctivitis,Ocular
+A5432,Gonococcal iridocyclitis,Ocular
+A5433,Gonococcal keratitis,Ocular
+A5439,Other gonococcal eye infection,Ocular
+A5440,"Gonococcal infection of musculoskeletal system, unspecified",Skin/Soft Tissue Infection
+A5441,Gonococcal spondylopathy,Bone/Joint
+A5442,Gonococcal arthritis,Bone/Joint
+A5443,Gonococcal osteomyelitis,Bone/Joint
+A5449,Gonococcal infection of other musculoskeletal tissue,Skin/Soft Tissue Infection
+A545,Gonococcal pharyngitis,STI-Related
+A546,Gonococcal infection of anus and rectum,STI-Related
+A5481,Gonococcal meningitis,CNS
+A5482,Gonococcal brain abscess,CNS
+A5483,Gonococcal heart infection,Cardiac/Mediastinum
+A5484,Gonococcal pneumonia,Pulmonary
+A5485,Gonococcal peritonitis,Intra-abdominal
+A5489,Other gonococcal infections,STI-Related
+A549,"Gonococcal infection, unspecified",STI-Related
+A55,Chlamydial lymphogranuloma (venereum),STI-Related
+A5600,"Chlamydial infection of lower genitourinary tract, unsp",STI-Related
+A5601,Chlamydial cystitis and urethritis,STI-Related
+A5602,Chlamydial vulvovaginitis,STI-Related
+A5609,Other chlamydial infection of lower genitourinary tract,STI-Related
+A5611,Chlamydial female pelvic inflammatory disease,STI-Related
+A5619,Other chlamydial genitourinary infection,STI-Related
+A562,"Chlamydial infection of genitourinary tract, unspecified",STI-Related
+A563,Chlamydial infection of anus and rectum,STI-Related
+A564,Chlamydial infection of pharynx,STI-Related
+A568,Sexually transmitted chlamydial infection of other sites,STI-Related
+A57,Chancroid,STI-Related
+A58,Granuloma inguinale,STI-Related
+A638,Other specified predominantly sexually transmitted diseases,STI-Related
+A64,Unspecified sexually transmitted disease,STI-Related
+A0101,Typhoid meningitis,CNS
+A0221,Salmonella meningitis,CNS
+A203,Plague meningitis,CNS
+A2781,Aseptic meningitis in leptospirosis,CNS
+A3211,Listerial meningitis,CNS
+A390,Meningococcal meningitis,CNS
+A4281,Actinomycotic meningitis,CNS
+A6921,Meningitis due to Lyme disease,CNS
+A870,Enteroviral meningitis,CNS
+A871,Adenoviral meningitis,CNS
+A872,Lymphocytic choriomeningitis,CNS
+A878,Other viral meningitis,CNS
+A879,"Viral meningitis, unspecified",CNS
+B003,Herpesviral meningitis,CNS
+B010,Varicella meningitis,CNS
+B021,Zoster meningitis,CNS
+B051,Measles complicated by meningitis,CNS
+B0602,Rubella meningitis,CNS
+B261,Mumps meningitis,CNS
+B2702,Gammaherpesviral mononucleosis with meningitis,CNS
+B2712,Cytomegaloviral mononucleosis with meningitis,CNS
+B2782,Other infectious mononucleosis with meningitis,CNS
+B2792,"Infectious mononucleosis, unspecified with meningitis",CNS
+B375,Candidal meningitis,CNS
+B384,Coccidioidomycosis meningitis,CNS
+B451,Cerebral cryptococcosis,CNS
+B5741,Meningitis in Chagas' disease,CNS
+G000,Hemophilus meningitis,CNS
+G001,Pneumococcal meningitis,CNS
+G002,Streptococcal meningitis,CNS
+G003,Staphylococcal meningitis,CNS
+G008,Other bacterial meningitis,CNS
+G009,"Bacterial meningitis, unspecified",CNS
+G01,Meningitis in bacterial diseases classified elsewhere,CNS
+G02,Meningitis in oth infec/parastc diseases classd elswhr,CNS
+G030,Nonpyogenic meningitis,CNS
+G031,Chronic meningitis,CNS
+G039,"Meningitis, unspecified",CNS
+A3212,Listerial meningoencephalitis,CNS
+A3981,Meningococcal encephalitis,CNS
+A4282,Actinomycotic encephalitis,CNS
+A811,Subacute sclerosing panencephalitis,CNS
+A830,Japanese encephalitis,CNS
+A831,Western equine encephalitis,CNS
+A832,Eastern equine encephalitis,CNS
+A833,St Louis encephalitis,CNS
+A834,Australian encephalitis,CNS
+A835,California encephalitis,CNS
+A836,Rocio virus disease,CNS
+A838,Other mosquito-borne viral encephalitis,CNS
+A839,"Mosquito-borne viral encephalitis, unspecified",CNS
+A840,Far Eastern tick-borne encephalitis,CNS
+A841,Central European tick-borne encephalitis,CNS
+A848,Other tick-borne viral encephalitis,CNS
+A849,"Tick-borne viral encephalitis, unspecified",CNS
+A850,Enteroviral encephalitis,CNS
+A851,Adenoviral encephalitis,CNS
+A852,"Arthropod-borne viral encephalitis, unspecified",CNS
+A858,Other specified viral encephalitis,CNS
+A86,Unspecified viral encephalitis,CNS
+A89,Unspecified viral infection of central nervous system,CNS
+A922,Venezuelan equine fever,CNS
+A9231,West Nile virus infection with encephalitis,CNS
+B004,Herpesviral encephalitis,CNS
+B0111,Varicella encephalitis and encephalomyelitis,CNS
+B020,Zoster encephalitis,CNS
+B050,Measles complicated by encephalitis,CNS
+B0601,Rubella encephalitis,CNS
+B1001,Human herpesvirus 6 encephalitis,CNS
+B1009,Other human herpesvirus encephalitis,CNS
+B262,Mumps encephalitis,CNS
+B4081,Blastomycotic meningoencephalitis,CNS
+B5742,Meningoencephalitis in Chagas' disease,CNS
+B582,Toxoplasma meningoencephalitis,CNS
+B6011,Meningoencephalitis due to Acanthamoeba (culbertsoni),CNS
+G0400,"Acute disseminated encephalitis and encephalomyelitis, unsp",CNS
+G0402,"Postimmun ac dissem encphlts, myelitis and encephalomyelitis",CNS
+G042,"Bacterial meningoencephalitis and meningomyelitis, NEC",CNS
+G0481,Other encephalitis and encephalomyelitis,CNS
+G0489,Other myelitis,CNS
+G0490,"Encephalitis and encephalomyelitis, unspecified",CNS
+G0491,"Myelitis, unspecified",CNS
+G053,Encephalitis and encephalomyelitis in diseases classd elswhr,CNS
+G054,Myelitis in diseases classified elsewhere,CNS
+A812,Progressive multifocal leukoencephalopathy,CNS
+A8189,Other atypical virus infections of central nervous system,CNS
+A819,"Atypical virus infection of central nervous system, unsp",CNS
+A880,Enteroviral exanthematous fever [Boston exanthem],Other
+A888,Other specified viral infections of central nervous system,CNS
+G060,Intracranial abscess and granuloma,CNS
+G061,Intraspinal abscess and granuloma,CNS
+G062,"Extradural and subdural abscess, unspecified",CNS
+G07,Intcrn & intraspinal abscs & granuloma in dis classd elswhr,CNS
+A211,Oculoglandular tularemia,Ocular
+A3686,Diphtheritic conjunctivitis,Ocular
+A710,Initial stage of trachoma,Ocular
+A711,Active stage of trachoma,Ocular
+A719,"Trachoma, unspecified",Ocular
+A740,Chlamydial conjunctivitis,Ocular
+B0050,"Herpesviral ocular disease, unspecified",Ocular
+B0051,Herpesviral iridocyclitis,Ocular
+B0052,Herpesviral keratitis,Ocular
+B0053,Herpesviral conjunctivitis,Ocular
+B0059,Other herpesviral disease of eye,Ocular
+B0230,"Zoster ocular disease, unspecified",Ocular
+B0231,Zoster conjunctivitis,Ocular
+B0232,Zoster iridocyclitis,Ocular
+B0233,Zoster keratitis,Ocular
+B0234,Zoster scleritis,Ocular
+B0239,Other herpes zoster eye disease,Ocular
+B0581,Measles keratitis and keratoconjunctivitis,Ocular
+B300,Keratoconjunctivitis due to adenovirus,Ocular
+B301,Conjunctivitis due to adenovirus,Ocular
+B302,Viral pharyngoconjunctivitis,Ocular
+B303,Acute epidemic hemorrhagic conjunctivitis (enteroviral),Ocular
+B308,Other viral conjunctivitis,Ocular
+B309,"Viral conjunctivitis, unspecified",Ocular
+B5801,Toxoplasma chorioretinitis,Ocular
+B5809,Other toxoplasma oculopathy,Ocular
+B940,Sequelae of trachoma,Ocular
+H00011,Hordeolum externum right upper eyelid,Ocular
+H00012,Hordeolum externum right lower eyelid,Ocular
+H00013,"Hordeolum externum right eye, unspecified eyelid",Ocular
+H00014,Hordeolum externum left upper eyelid,Ocular
+H00015,Hordeolum externum left lower eyelid,Ocular
+H00016,"Hordeolum externum left eye, unspecified eyelid",Ocular
+H00019,"Hordeolum externum unspecified eye, unspecified eyelid",Ocular
+H00021,Hordeolum internum right upper eyelid,Ocular
+H00022,Hordeolum internum right lower eyelid,Ocular
+H00023,"Hordeolum internum right eye, unspecified eyelid",Ocular
+H00024,Hordeolum internum left upper eyelid,Ocular
+H00025,Hordeolum internum left lower eyelid,Ocular
+H00026,"Hordeolum internum left eye, unspecified eyelid",Ocular
+H00029,"Hordeolum internum unspecified eye, unspecified eyelid",Ocular
+H00031,Abscess of right upper eyelid,Ocular
+H00032,Abscess of right lower eyelid,Ocular
+H00033,"Abscess of eyelid right eye, unspecified eyelid",Ocular
+H00034,Abscess of left upper eyelid,Ocular
+H00035,Abscess of left lower eyelid,Ocular
+H00036,"Abscess of eyelid left eye, unspecified eyelid",Ocular
+H00039,"Abscess of eyelid unspecified eye, unspecified eyelid",Ocular
+H01001,Unspecified blepharitis right upper eyelid,Ocular
+H01002,Unspecified blepharitis right lower eyelid,Ocular
+H01003,"Unspecified blepharitis right eye, unspecified eyelid",Ocular
+H01004,Unspecified blepharitis left upper eyelid,Ocular
+H01005,Unspecified blepharitis left lower eyelid,Ocular
+H01006,"Unspecified blepharitis left eye, unspecified eyelid",Ocular
+H01009,"Unspecified blepharitis unspecified eye, unspecified eyelid",Ocular
+H01011,Ulcerative blepharitis right upper eyelid,Ocular
+H01012,Ulcerative blepharitis right lower eyelid,Ocular
+H01013,"Ulcerative blepharitis right eye, unspecified eyelid",Ocular
+H01014,Ulcerative blepharitis left upper eyelid,Ocular
+H01015,Ulcerative blepharitis left lower eyelid,Ocular
+H01016,"Ulcerative blepharitis left eye, unspecified eyelid",Ocular
+H01019,"Ulcerative blepharitis unspecified eye, unspecified eyelid",Ocular
+H04001,"Unspecified dacryoadenitis, right lacrimal gland",Ocular
+H04002,"Unspecified dacryoadenitis, left lacrimal gland",Ocular
+H04003,"Unspecified dacryoadenitis, bilateral lacrimal glands",Ocular
+H04009,"Unspecified dacryoadenitis, unspecified lacrimal gland",Ocular
+H04011,"Acute dacryoadenitis, right lacrimal gland",Ocular
+H04012,"Acute dacryoadenitis, left lacrimal gland",Ocular
+H04013,"Acute dacryoadenitis, bilateral lacrimal glands",Ocular
+H04019,"Acute dacryoadenitis, unspecified lacrimal gland",Ocular
+H04301,Unspecified dacryocystitis of right lacrimal passage,Ocular
+H04302,Unspecified dacryocystitis of left lacrimal passage,Ocular
+H04303,Unspecified dacryocystitis of bilateral lacrimal passages,Ocular
+H04309,Unspecified dacryocystitis of unspecified lacrimal passage,Ocular
+H04311,Phlegmonous dacryocystitis of right lacrimal passage,Ocular
+H04312,Phlegmonous dacryocystitis of left lacrimal passage,Ocular
+H04313,Phlegmonous dacryocystitis of bilateral lacrimal passages,Ocular
+H04319,Phlegmonous dacryocystitis of unspecified lacrimal passage,Ocular
+H04321,Acute dacryocystitis of right lacrimal passage,Ocular
+H04322,Acute dacryocystitis of left lacrimal passage,Ocular
+H04323,Acute dacryocystitis of bilateral lacrimal passages,Ocular
+H04329,Acute dacryocystitis of unspecified lacrimal passage,Ocular
+H04331,Acute lacrimal canaliculitis of right lacrimal passage,Ocular
+H04332,Acute lacrimal canaliculitis of left lacrimal passage,Ocular
+H04333,Acute lacrimal canaliculitis of bilateral lacrimal passages,Ocular
+H04339,Acute lacrimal canaliculitis of unspecified lacrimal passage,Ocular
+H05011,Cellulitis of right orbit,Ocular
+H05012,Cellulitis of left orbit,Ocular
+H05013,Cellulitis of bilateral orbits,Ocular
+H05019,Cellulitis of unspecified orbit,Ocular
+H05021,Osteomyelitis of right orbit,Ocular
+H05022,Osteomyelitis of left orbit,Ocular
+H05023,Osteomyelitis of bilateral orbits,Ocular
+H05029,Osteomyelitis of unspecified orbit,Ocular
+H05031,Periostitis of right orbit,Ocular
+H05032,Periostitis of left orbit,Ocular
+H05033,Periostitis of bilateral orbits,Ocular
+H05039,Periostitis of unspecified orbit,Ocular
+H05041,Tenonitis of right orbit,Ocular
+H05042,Tenonitis of left orbit,Ocular
+H05043,Tenonitis of bilateral orbits,Ocular
+H05049,Tenonitis of unspecified orbit,Ocular
+H10011,"Acute follicular conjunctivitis, right eye",Ocular
+H10012,"Acute follicular conjunctivitis, left eye",Ocular
+H10013,"Acute follicular conjunctivitis, bilateral",Ocular
+H10019,"Acute follicular conjunctivitis, unspecified eye",Ocular
+H10021,"Other mucopurulent conjunctivitis, right eye",Ocular
+H10022,"Other mucopurulent conjunctivitis, left eye",Ocular
+H10023,"Other mucopurulent conjunctivitis, bilateral",Ocular
+H10029,"Other mucopurulent conjunctivitis, unspecified eye",Ocular
+H10221,"Pseudomembranous conjunctivitis, right eye",Ocular
+H10222,"Pseudomembranous conjunctivitis, left eye",Ocular
+H10223,"Pseudomembranous conjunctivitis, bilateral",Ocular
+H10229,"Pseudomembranous conjunctivitis, unspecified eye",Ocular
+H10231,"Serous conjunctivitis, except viral, right eye",Ocular
+H10239,"Serous conjunctivitis, except viral, unspecified eye",Ocular
+H1030,"Unspecified acute conjunctivitis, unspecified eye",Ocular
+H1031,"Unspecified acute conjunctivitis, right eye",Ocular
+H1032,"Unspecified acute conjunctivitis, left eye",Ocular
+H1033,"Unspecified acute conjunctivitis, bilateral",Ocular
+H10501,"Unspecified blepharoconjunctivitis, right eye",Ocular
+H10502,"Unspecified blepharoconjunctivitis, left eye",Ocular
+H10503,"Unspecified blepharoconjunctivitis, bilateral",Ocular
+H10509,"Unspecified blepharoconjunctivitis, unspecified eye",Ocular
+H10511,"Ligneous conjunctivitis, right eye",Ocular
+H10512,"Ligneous conjunctivitis, left eye",Ocular
+H10513,"Ligneous conjunctivitis, bilateral",Ocular
+H10519,"Ligneous conjunctivitis, unspecified eye",Ocular
+H10521,"Angular blepharoconjunctivitis, right eye",Ocular
+H10522,"Angular blepharoconjunctivitis, left eye",Ocular
+H10523,"Angular blepharoconjunctivitis, bilateral",Ocular
+H10529,"Angular blepharoconjunctivitis, unspecified eye",Ocular
+H1089,Other conjunctivitis,Ocular
+H109,Unspecified conjunctivitis,Ocular
+H15001,"Unspecified scleritis, right eye",Ocular
+H15002,"Unspecified scleritis, left eye",Ocular
+H15003,"Unspecified scleritis, bilateral",Ocular
+H15009,"Unspecified scleritis, unspecified eye",Ocular
+H16311,"Corneal abscess, right eye",Ocular
+H16312,"Corneal abscess, left eye",Ocular
+H16313,"Corneal abscess, bilateral",Ocular
+H16319,"Corneal abscess, unspecified eye",Ocular
+H20031,"Secondary infectious iridocyclitis, right eye",Ocular
+H20032,"Secondary infectious iridocyclitis, left eye",Ocular
+H20033,"Secondary infectious iridocyclitis, bilateral",Ocular
+H20039,"Secondary infectious iridocyclitis, unspecified eye",Ocular
+H21331,"Parastc cyst of iris, ciliary body or ant chamber, right eye",Ocular
+H21332,"Parastc cyst of iris, ciliary body or ant chamber, left eye",Ocular
+H21333,"Parasitic cyst of iris, ciliary body or ant chamber, bi",Ocular
+H21339,"Parastc cyst of iris, ciliary body or ant chamber, unsp eye",Ocular
+H33121,"Parasitic cyst of retina, right eye",Ocular
+H33122,"Parasitic cyst of retina, left eye",Ocular
+H33123,"Parasitic cyst of retina, bilateral",Ocular
+H33129,"Parasitic cyst of retina, unspecified eye",Ocular
+H44001,"Unspecified purulent endophthalmitis, right eye",Ocular
+H44002,"Unspecified purulent endophthalmitis, left eye",Ocular
+H44003,"Unspecified purulent endophthalmitis, bilateral",Ocular
+H44009,"Unspecified purulent endophthalmitis, unspecified eye",Ocular
+H44021,"Vitreous abscess (chronic), right eye",Ocular
+H44022,"Vitreous abscess (chronic), left eye",Ocular
+H44023,"Vitreous abscess (chronic), bilateral",Ocular
+H44029,"Vitreous abscess (chronic), unspecified eye",Ocular
+H44121,"Parasitic endophthalmitis, unspecified, right eye",Ocular
+H44122,"Parasitic endophthalmitis, unspecified, left eye",Ocular
+H44123,"Parasitic endophthalmitis, unspecified, bilateral",Ocular
+H44129,"Parasitic endophthalmitis, unspecified, unspecified eye",Ocular
+H4419,Other endophthalmitis,Ocular
+B053,Measles complicated by otitis media,Oral/ENT
+H66001,"Acute suppr otitis media w/o spon rupt ear drum, right ear",Oral/ENT
+H66002,"Acute suppr otitis media w/o spon rupt ear drum, left ear",Oral/ENT
+H66003,"Acute suppr otitis media w/o spon rupt ear drum, bilateral",Oral/ENT
+H66004,"Ac suppr otitis media w/o spon rupt ear drum, recur, r ear",Oral/ENT
+H66005,"Ac suppr otitis media w/o spon rupt ear drum, recur, l ear",Oral/ENT
+H66006,"Acute suppr otitis media w/o spon rupt ear drum, recur, bi",Oral/ENT
+H66007,"Ac suppr otitis media w/o spon rupt ear drum,recur, unsp ear",Oral/ENT
+H66009,"Acute suppr otitis media w/o spon rupt ear drum, unsp ear",Oral/ENT
+H66011,"Acute suppr otitis media w spon rupt ear drum, right ear",Oral/ENT
+H66012,"Acute suppr otitis media w spon rupt ear drum, left ear",Oral/ENT
+H66013,"Acute suppr otitis media w spon rupt ear drum, bilateral",Oral/ENT
+H66014,"Acute suppr otitis media w spon rupt ear drum, recur, r ear",Oral/ENT
+H66015,"Acute suppr otitis media w spon rupt ear drum, recur, l ear",Oral/ENT
+H66016,"Acute suppr otitis media w spon rupt ear drum, recurrent, bi",Oral/ENT
+H66017,"Ac suppr otitis media w spon rupt ear drum, recur, unsp ear",Oral/ENT
+H66019,"Acute suppr otitis media w spon rupt ear drum, unsp ear",Oral/ENT
+H6640,"Suppurative otitis media, unspecified, unspecified ear",Oral/ENT
+H6641,"Suppurative otitis media, unspecified, right ear",Oral/ENT
+H6642,"Suppurative otitis media, unspecified, left ear",Oral/ENT
+H6643,"Suppurative otitis media, unspecified, bilateral",Oral/ENT
+H6690,"Otitis media, unspecified, unspecified ear",Oral/ENT
+H6691,"Otitis media, unspecified, right ear",Oral/ENT
+H6692,"Otitis media, unspecified, left ear",Oral/ENT
+H6693,"Otitis media, unspecified, bilateral",Oral/ENT
+H671,"Otitis media in diseases classified elsewhere, right ear",Oral/ENT
+H672,"Otitis media in diseases classified elsewhere, left ear",Oral/ENT
+H673,"Otitis media in diseases classified elsewhere, bilateral",Oral/ENT
+H679,"Otitis media in diseases classified elsewhere, unsp ear",Oral/ENT
+H68001,"Unspecified Eustachian salpingitis, right ear",Oral/ENT
+H68002,"Unspecified Eustachian salpingitis, left ear",Oral/ENT
+H68003,"Unspecified Eustachian salpingitis, bilateral",Oral/ENT
+H68009,"Unspecified Eustachian salpingitis, unspecified ear",Oral/ENT
+H68011,"Acute Eustachian salpingitis, right ear",Oral/ENT
+H68012,"Acute Eustachian salpingitis, left ear",Oral/ENT
+H68013,"Acute Eustachian salpingitis, bilateral",Oral/ENT
+H68019,"Acute Eustachian salpingitis, unspecified ear",Oral/ENT
+H70003,"Acute mastoiditis without complications, bilateral",Oral/ENT
+H70009,"Acute mastoiditis without complications, unspecified ear",Oral/ENT
+H70011,"Subperiosteal abscess of mastoid, right ear",Oral/ENT
+H70012,"Subperiosteal abscess of mastoid, left ear",Oral/ENT
+H70013,"Subperiosteal abscess of mastoid, bilateral",Oral/ENT
+H70019,"Subperiosteal abscess of mastoid, unspecified ear",Oral/ENT
+H70091,"Acute mastoiditis with other complications, right ear",Oral/ENT
+H70092,"Acute mastoiditis with other complications, left ear",Oral/ENT
+H70093,"Acute mastoiditis with other complications, bilateral",Oral/ENT
+H70099,"Acute mastoiditis with other complications, unspecified ear",Oral/ENT
+H70201,"Unspecified petrositis, right ear",Oral/ENT
+H70202,"Unspecified petrositis, left ear",Oral/ENT
+H70203,"Unspecified petrositis, bilateral",Oral/ENT
+H70209,"Unspecified petrositis, unspecified ear",Oral/ENT
+H70211,"Acute petrositis, right ear",Oral/ENT
+H70212,"Acute petrositis, left ear",Oral/ENT
+H70213,"Acute petrositis, bilateral",Oral/ENT
+H70219,"Acute petrositis, unspecified ear",Oral/ENT
+H70891,"Other mastoiditis and related conditions, right ear",Oral/ENT
+H70892,"Other mastoiditis and related conditions, left ear",Oral/ENT
+H70893,"Other mastoiditis and related conditions, bilateral",Oral/ENT
+H70899,"Other mastoiditis and related conditions, unspecified ear",Oral/ENT
+H7090,"Unspecified mastoiditis, unspecified ear",Oral/ENT
+H7091,"Unspecified mastoiditis, right ear",Oral/ENT
+H7092,"Unspecified mastoiditis, left ear",Oral/ENT
+H7093,"Unspecified mastoiditis, bilateral",Oral/ENT
+H7500,"Mastoiditis in infec/parastc dis classd elswhr, unsp ear",Oral/ENT
+H7501,"Mastoiditis in infec/parastc diseases classd elswhr, r ear",Oral/ENT
+H7502,"Mastoiditis in infec/parastc dis classd elswhr, left ear",Oral/ENT
+H7503,"Mastoiditis in infec/parastc diseases classd elswhr, bi",Oral/ENT
+J1083,Influenza due to oth ident influenza virus w otitis media,Pulmonary
+H6000,"Abscess of external ear, unspecified ear",Oral/ENT
+H6001,Abscess of right external ear,Oral/ENT
+H6002,Abscess of left external ear,Oral/ENT
+H6003,"Abscess of external ear, bilateral",Oral/ENT
+H6010,"Cellulitis of external ear, unspecified ear",Oral/ENT
+H6011,Cellulitis of right external ear,Oral/ENT
+H6012,Cellulitis of left external ear,Oral/ENT
+H6013,"Cellulitis of external ear, bilateral",Oral/ENT
+H6020,"Malignant otitis externa, unspecified ear",Oral/ENT
+H6021,"Malignant otitis externa, right ear",Oral/ENT
+H6022,"Malignant otitis externa, left ear",Oral/ENT
+H6023,"Malignant otitis externa, bilateral",Oral/ENT
+H60311,"Diffuse otitis externa, right ear",Oral/ENT
+H60312,"Diffuse otitis externa, left ear",Oral/ENT
+H60313,"Diffuse otitis externa, bilateral",Oral/ENT
+H60319,"Diffuse otitis externa, unspecified ear",Oral/ENT
+H60321,"Hemorrhagic otitis externa, right ear",Oral/ENT
+H60322,"Hemorrhagic otitis externa, left ear",Oral/ENT
+H60323,"Hemorrhagic otitis externa, bilateral",Oral/ENT
+H60329,"Hemorrhagic otitis externa, unspecified ear",Oral/ENT
+H60331,"Swimmer's ear, right ear",Oral/ENT
+H60332,"Swimmer's ear, left ear",Oral/ENT
+H60333,"Swimmer's ear, bilateral",Oral/ENT
+H60339,"Swimmer's ear, unspecified ear",Oral/ENT
+H60391,"Other infective otitis externa, right ear",Oral/ENT
+H60392,"Other infective otitis externa, left ear",Oral/ENT
+H60393,"Other infective otitis externa, bilateral",Oral/ENT
+H60399,"Other infective otitis externa, unspecified ear",Oral/ENT
+H60511,"Acute actinic otitis externa, right ear",Oral/ENT
+H60512,"Acute actinic otitis externa, left ear",Oral/ENT
+H60513,"Acute actinic otitis externa, bilateral",Oral/ENT
+H60519,"Acute actinic otitis externa, unspecified ear",Oral/ENT
+J1081,Influenza due to oth ident influenza virus w encephalopathy,CNS
+A3681,Diphtheritic cardiomyopathy,Cardiac/Mediastinum
+A381,Scarlet fever with myocarditis,Cardiac/Mediastinum
+A3950,"Meningococcal carditis, unspecified",Cardiac/Mediastinum
+A3951,Meningococcal endocarditis,Cardiac/Mediastinum
+A3952,Meningococcal myocarditis,Cardiac/Mediastinum
+A3953,Meningococcal pericarditis,Cardiac/Mediastinum
+B2682,Mumps myocarditis,Cardiac/Mediastinum
+B3320,"Viral carditis, unspecified",Cardiac/Mediastinum
+B3321,Viral endocarditis,Cardiac/Mediastinum
+B3322,Viral myocarditis,Cardiac/Mediastinum
+B3323,Viral pericarditis,Cardiac/Mediastinum
+B3324,Viral cardiomyopathy,Cardiac/Mediastinum
+B376,Candidal endocarditis,Cardiac/Mediastinum
+B5881,Toxoplasma myocarditis,Cardiac/Mediastinum
+I301,Infective pericarditis,Cardiac/Mediastinum
+I330,Acute and subacute infective endocarditis,Cardiac/Mediastinum
+I339,"Acute and subacute endocarditis, unspecified",Cardiac/Mediastinum
+I38,"Endocarditis, valve unspecified",Cardiac/Mediastinum
+I39,Endocarditis and heart valve disord in dis classd elswhr,Cardiac/Mediastinum
+I400,Infective myocarditis,Cardiac/Mediastinum
+J1082,Influenza due to oth ident influenza virus w myocarditis,Cardiac/Mediastinum
+A0103,Typhoid pneumonia,Pulmonary
+A0222,Salmonella pneumonia,Pulmonary
+A202,Pneumonic plague,Pulmonary
+A212,Pulmonary tularemia,Pulmonary
+A221,Pulmonary anthrax,Pulmonary
+A310,Pulmonary mycobacterial infection,Pulmonary
+A3701,Whooping cough due to Bordetella pertussis with pneumonia,Pulmonary
+A3711,Whooping cough due to Bordetella parapertussis w pneumonia,Pulmonary
+A430,Pulmonary nocardiosis,Pulmonary
+A481,Legionnaires' disease,Pulmonary
+B012,Varicella pneumonia,Pulmonary
+B052,Measles complicated by pneumonia,Pulmonary
+B0681,Rubella pneumonia,Pulmonary
+B250,Cytomegaloviral pneumonitis,Pulmonary
+B371,Pulmonary candidiasis,Pulmonary
+B380,Acute pulmonary coccidioidomycosis,Pulmonary
+B381,Chronic pulmonary coccidioidomycosis,Pulmonary
+B382,"Pulmonary coccidioidomycosis, unspecified",Pulmonary
+B390,Acute pulmonary histoplasmosis capsulati,Pulmonary
+B391,Chronic pulmonary histoplasmosis capsulati,Pulmonary
+B392,"Pulmonary histoplasmosis capsulati, unspecified",Pulmonary
+B583,Pulmonary toxoplasmosis,Pulmonary
+B59,Pneumocystosis,Pulmonary
+B7781,Ascariasis pneumonia,Pulmonary
+J120,Adenoviral pneumonia,Pulmonary
+J121,Respiratory syncytial virus pneumonia,Pulmonary
+J122,Parainfluenza virus pneumonia,Pulmonary
+J123,Human metapneumovirus pneumonia,Pulmonary
+J1281,Pneumonia due to SARS-associated coronavirus,Pulmonary
+J1289,Other viral pneumonia,Pulmonary
+J129,"Viral pneumonia, unspecified",Pulmonary
+J13,Pneumonia due to Streptococcus pneumoniae,Pulmonary
+J14,Pneumonia due to Hemophilus influenzae,Pulmonary
+J150,Pneumonia due to Klebsiella pneumoniae,Pulmonary
+J151,Pneumonia due to Pseudomonas,Pulmonary
+J1520,"Pneumonia due to staphylococcus, unspecified",Pulmonary
+J15211,Pneumonia due to methicillin suscep staph,Pulmonary
+J15212,Pneumonia due to Methicillin resistant Staphylococcus aureus,Pulmonary
+J1529,Pneumonia due to other staphylococcus,Pulmonary
+J153,"Pneumonia due to streptococcus, group B",Pulmonary
+J154,Pneumonia due to other streptococci,Pulmonary
+J155,Pneumonia due to Escherichia coli,Pulmonary
+J156,Pneumonia due to other Gram-negative bacteria,Pulmonary
+J157,Pneumonia due to Mycoplasma pneumoniae,Pulmonary
+J158,Pneumonia due to other specified bacteria,Pulmonary
+J159,Unspecified bacterial pneumonia,Pulmonary
+J160,Chlamydial pneumonia,Pulmonary
+J168,Pneumonia due to other specified infectious organisms,Pulmonary
+J17,Pneumonia in diseases classified elsewhere,Pulmonary
+J180,"Bronchopneumonia, unspecified organism",Pulmonary
+J181,"Lobar pneumonia, unspecified organism",Pulmonary
+J188,"Other pneumonia, unspecified organism",Pulmonary
+J189,"Pneumonia, unspecified organism",Pulmonary
+J851,Abscess of lung with pneumonia,Pulmonary
+J09X1,Influenza due to ident novel influenza A virus w pneumonia,Pulmonary
+J09X2,Flu due to ident novel influenza A virus w oth resp manifest,Pulmonary
+J09X3,Influenza due to ident novel influenza A virus w GI manifest,Pulmonary
+J09X9,Flu due to ident novel influenza A virus w oth manifest,Pulmonary
+J1000,Flu due to oth ident flu virus w unsp type of pneumonia,Pulmonary
+J1001,Flu due to oth ident flu virus w same oth ident flu virus pn,Pulmonary
+J1008,Influenza due to oth ident influenza virus w oth pneumonia,Pulmonary
+J101,Flu due to oth ident influenza virus w oth resp manifest,Pulmonary
+J102,Influenza due to oth ident influenza virus w GI manifest,Pulmonary
+J1089,Influenza due to oth ident influenza virus w oth manifest,Pulmonary
+J1100,Flu due to unidentified flu virus w unsp type of pneumonia,Pulmonary
+J1108,Flu due to unidentified flu virus w specified pneumonia,Pulmonary
+J111,Flu due to unidentified influenza virus w oth resp manifest,Pulmonary
+J112,Influenza due to unidentified influenza virus w GI manifest,Pulmonary
+J1181,Flu due to unidentified influenza virus w encephalopathy,Pulmonary
+J1182,Influenza due to unidentified influenza virus w myocarditis,Cardiac/Mediastinum
+J1183,Influenza due to unidentified influenza virus w otitis media,Pulmonary
+J1189,Influenza due to unidentified influenza virus w oth manifest,Pulmonary
+J0380,Acute tonsillitis due to other specified organisms,Oral/ENT
+J0381,Acute recurrent tonsillitis due to other specified organisms,Oral/ENT
+J0390,"Acute tonsillitis, unspecified",Oral/ENT
+J0391,"Acute recurrent tonsillitis, unspecified",Oral/ENT
+J3501,Chronic tonsillitis,Oral/ENT
+J3502,Chronic adenoiditis,Oral/ENT
+J3503,Chronic tonsillitis and adenoiditis,Oral/ENT
+J36,Peritonsillar abscess,Oral/ENT
+J200,Acute bronchitis due to Mycoplasma pneumoniae,Pulmonary
+J201,Acute bronchitis due to Hemophilus influenzae,Pulmonary
+J202,Acute bronchitis due to streptococcus,Pulmonary
+J203,Acute bronchitis due to coxsackievirus,Pulmonary
+J204,Acute bronchitis due to parainfluenza virus,Pulmonary
+J205,Acute bronchitis due to respiratory syncytial virus,Pulmonary
+J206,Acute bronchitis due to rhinovirus,Pulmonary
+J207,Acute bronchitis due to echovirus,Pulmonary
+J208,Acute bronchitis due to other specified organisms,Pulmonary
+J209,"Acute bronchitis, unspecified",Pulmonary
+J210,Acute bronchiolitis due to respiratory syncytial virus,Pulmonary
+J211,Acute bronchiolitis due to human metapneumovirus,Pulmonary
+J218,Acute bronchiolitis due to other specified organisms,Pulmonary
+J219,"Acute bronchiolitis, unspecified",Pulmonary
+A360,Pharyngeal diphtheria,Oral/ENT
+A361,Nasopharyngeal diphtheria,Oral/ENT
+A362,Laryngeal diphtheria,Oral/ENT
+J00,Acute nasopharyngitis [common cold],Oral/ENT
+J0100,"Acute maxillary sinusitis, unspecified",Oral/ENT
+J0101,Acute recurrent maxillary sinusitis,Oral/ENT
+J0110,"Acute frontal sinusitis, unspecified",Oral/ENT
+J0111,Acute recurrent frontal sinusitis,Oral/ENT
+J0120,"Acute ethmoidal sinusitis, unspecified",Oral/ENT
+J0121,Acute recurrent ethmoidal sinusitis,Oral/ENT
+J0130,"Acute sphenoidal sinusitis, unspecified",Oral/ENT
+J0131,Acute recurrent sphenoidal sinusitis,Oral/ENT
+J0140,"Acute pansinusitis, unspecified",Oral/ENT
+J0141,Acute recurrent pansinusitis,Oral/ENT
+J0180,Other acute sinusitis,Oral/ENT
+J0181,Other acute recurrent sinusitis,Oral/ENT
+J0190,"Acute sinusitis, unspecified",Oral/ENT
+J0191,"Acute recurrent sinusitis, unspecified",Oral/ENT
+J020,Streptococcal pharyngitis,Oral/ENT
+J028,Acute pharyngitis due to other specified organisms,Oral/ENT
+J029,"Acute pharyngitis, unspecified",Oral/ENT
+J0300,"Acute streptococcal tonsillitis, unspecified",Oral/ENT
+J0301,Acute recurrent streptococcal tonsillitis,Oral/ENT
+J040,Acute laryngitis,Oral/ENT
+J0410,Acute tracheitis without obstruction,Oral/ENT
+J0411,Acute tracheitis with obstruction,Oral/ENT
+J042,Acute laryngotracheitis,Oral/ENT
+J0430,"Supraglottitis, unspecified, without obstruction",Oral/ENT
+J0431,"Supraglottitis, unspecified, with obstruction",Oral/ENT
+J050,Acute obstructive laryngitis [croup],Oral/ENT
+J0510,Acute epiglottitis without obstruction,Oral/ENT
+J0511,Acute epiglottitis with obstruction,Oral/ENT
+J060,Acute laryngopharyngitis,Oral/ENT
+J069,"Acute upper respiratory infection, unspecified",Oral/ENT
+J320,Chronic maxillary sinusitis,Oral/ENT
+J321,Chronic frontal sinusitis,Oral/ENT
+J322,Chronic ethmoidal sinusitis,Oral/ENT
+J323,Chronic sphenoidal sinusitis,Oral/ENT
+J324,Chronic pansinusitis,Oral/ENT
+J328,Other chronic sinusitis,Oral/ENT
+J329,"Chronic sinusitis, unspecified",Oral/ENT
+J40,"Bronchitis, not specified as acute or chronic",Pulmonary
+J440,Chronic obstructive pulmon disease w acute lower resp infct,Pulmonary
+J441,Chronic obstructive pulmonary disease w (acute) exacerbation,Pulmonary
+J470,Bronchiectasis with acute lower respiratory infection,Pulmonary
+J471,Bronchiectasis with (acute) exacerbation,Pulmonary
+J690,Pneumonitis due to inhalation of food and vomit,Pulmonary
+J860,Pyothorax with fistula,Pulmonary
+J869,Pyothorax without fistula,Pulmonary
+J182,"Hypostatic pneumonia, unspecified organism",Pulmonary
+J22,Unspecified acute lower respiratory infection,Pulmonary
+J852,Abscess of lung without pneumonia,Pulmonary
+J853,Abscess of mediastinum,Cardiac/Mediastinum
+J390,Retropharyngeal and parapharyngeal abscess,Oral/ENT
+J391,Other abscess of pharynx,Oral/ENT
+J9851,Mediastinitis,Cardiac/Mediastinum
+A000,"Cholera due to Vibrio cholerae 01, biovar cholerae",Intra-abdominal
+A001,"Cholera due to Vibrio cholerae 01, biovar eltor",Intra-abdominal
+A009,"Cholera, unspecified",Intra-abdominal
+A0100,"Typhoid fever, unspecified",Intra-abdominal
+A0109,Typhoid fever with other complications,Intra-abdominal
+A011,Paratyphoid fever A,Intra-abdominal
+A012,Paratyphoid fever B,Intra-abdominal
+A013,Paratyphoid fever C,Intra-abdominal
+A014,"Paratyphoid fever, unspecified",Intra-abdominal
+A020,Salmonella enteritis,Intra-abdominal
+A0220,"Localized salmonella infection, unspecified",Intra-abdominal
+A0225,Salmonella pyelonephritis,Intra-abdominal
+A0229,Salmonella with other localized infection,Intra-abdominal
+A028,Other specified salmonella infections,Intra-abdominal
+A029,"Salmonella infection, unspecified",Intra-abdominal
+A030,Shigellosis due to Shigella dysenteriae,Intra-abdominal
+A031,Shigellosis due to Shigella flexneri,Intra-abdominal
+A032,Shigellosis due to Shigella boydii,Intra-abdominal
+A033,Shigellosis due to Shigella sonnei,Intra-abdominal
+A038,Other shigellosis,Intra-abdominal
+A039,"Shigellosis, unspecified",Intra-abdominal
+A040,Enteropathogenic Escherichia coli infection,Intra-abdominal
+A041,Enterotoxigenic Escherichia coli infection,Intra-abdominal
+A042,Enteroinvasive Escherichia coli infection,Intra-abdominal
+A043,Enterohemorrhagic Escherichia coli infection,Intra-abdominal
+A044,Other intestinal Escherichia coli infections,Intra-abdominal
+A045,Campylobacter enteritis,Intra-abdominal
+A046,Enteritis due to Yersinia enterocolitica,Intra-abdominal
+A047,Enterocolitis due to Clostridium difficile,Intra-abdominal
+A0471,"Enterocolitis due to Clostridium difficile, recurrent",Intra-abdominal
+A0472,"Enterocolitis d/t Clostridium difficile, not spcf as recur",Intra-abdominal
+A048,Other specified bacterial intestinal infections,Intra-abdominal
+A049,"Bacterial intestinal infection, unspecified",Intra-abdominal
+A050,Foodborne staphylococcal intoxication,Intra-abdominal
+A051,Botulism food poisoning,Intra-abdominal
+A052,Foodborne Clostridium perfringens intoxication,Intra-abdominal
+A053,Foodborne Vibrio parahaemolyticus intoxication,Intra-abdominal
+A054,Foodborne Bacillus cereus intoxication,Intra-abdominal
+A055,Foodborne Vibrio vulnificus intoxication,Intra-abdominal
+A058,Other specified bacterial foodborne intoxications,Intra-abdominal
+A059,"Bacterial foodborne intoxication, unspecified",Intra-abdominal
+A060,Acute amebic dysentery,Intra-abdominal
+A061,Chronic intestinal amebiasis,Intra-abdominal
+A062,Amebic nondysenteric colitis,Intra-abdominal
+A063,Ameboma of intestine,Intra-abdominal
+A064,Amebic liver abscess,Intra-abdominal
+A065,Amebic lung abscess,Pulmonary
+A066,Amebic brain abscess,CNS
+A067,Cutaneous amebiasis,Skin/Soft Tissue Infection
+A0681,Amebic cystitis,Genitourinary
+A0682,Other amebic genitourinary infections,Genitourinary
+A0689,Other amebic infections,Other
+A069,"Amebiasis, unspecified",Intra-abdominal
+A070,Balantidiasis,Intra-abdominal
+A071,Giardiasis [lambliasis],Intra-abdominal
+A072,Cryptosporidiosis,Intra-abdominal
+A073,Isosporiasis,Intra-abdominal
+A074,Cyclosporiasis,Intra-abdominal
+A078,Other specified protozoal intestinal diseases,Intra-abdominal
+A079,"Protozoal intestinal disease, unspecified",Intra-abdominal
+A080,Rotaviral enteritis,Intra-abdominal
+A0811,Acute gastroenteropathy due to Norwalk agent,Intra-abdominal
+A0819,Acute gastroenteropathy due to other small round viruses,Intra-abdominal
+A082,Adenoviral enteritis,Intra-abdominal
+A0831,Calicivirus enteritis,Intra-abdominal
+A0832,Astrovirus enteritis,Intra-abdominal
+A0839,Other viral enteritis,Intra-abdominal
+A084,"Viral intestinal infection, unspecified",Intra-abdominal
+A088,Other specified intestinal infections,Intra-abdominal
+A09,"Infectious gastroenteritis and colitis, unspecified",Intra-abdominal
+A213,Gastrointestinal tularemia,Intra-abdominal
+A222,Gastrointestinal anthrax,Intra-abdominal
+K046,Periapical abscess with sinus,Oral/ENT
+K047,Periapical abscess without sinus,Oral/ENT
+K1120,"Sialoadenitis, unspecified",Oral/ENT
+K1121,Acute sialoadenitis,Oral/ENT
+K1122,Acute recurrent sialoadenitis,Oral/ENT
+K113,Abscess of salivary gland,Oral/ENT
+K122,Cellulitis and abscess of mouth,Oral/ENT
+K251,Acute gastric ulcer with perforation,Intra-abdominal
+K255,Chronic or unspecified gastric ulcer with perforation,Intra-abdominal
+K261,Acute duodenal ulcer with perforation,Intra-abdominal
+K265,Chronic or unspecified duodenal ulcer with perforation,Intra-abdominal
+K271,"Acute peptic ulcer, site unspecified, with perforation",Intra-abdominal
+K275,"Chronic or unsp peptic ulcer, site unsp, with perforation",Intra-abdominal
+K281,Acute gastrojejunal ulcer with perforation,Intra-abdominal
+K285,Chronic or unspecified gastrojejunal ulcer with perforation,Intra-abdominal
+K352,Acute appendicitis with generalized peritonitis,Intra-abdominal
+K353,Acute appendicitis with localized peritonitis,Intra-abdominal
+K3580,Unspecified acute appendicitis,Intra-abdominal
+K3589,Other acute appendicitis,Intra-abdominal
+K36,Other appendicitis,Intra-abdominal
+K37,Unspecified appendicitis,Intra-abdominal
+K4010,"Bi inguinal hernia, w gangrene, not specified as recurrent",Intra-abdominal
+K4011,"Bilateral inguinal hernia, with gangrene, recurrent",Intra-abdominal
+K4040,"Unil inguinal hernia, w gangrene, not specified as recurrent",Intra-abdominal
+K4041,"Unilateral inguinal hernia, with gangrene, recurrent",Intra-abdominal
+K4110,"Bi femoral hernia, w gangrene, not specified as recurrent",Intra-abdominal
+K4111,"Bilateral femoral hernia, with gangrene, recurrent",Intra-abdominal
+K4140,"Unil femoral hernia, w gangrene, not specified as recurrent",Intra-abdominal
+K4141,"Unilateral femoral hernia, with gangrene, recurrent",Intra-abdominal
+K421,Umbilical hernia with gangrene,Intra-abdominal
+K431,Incisional hernia with gangrene,Intra-abdominal
+K434,Parastomal hernia with gangrene,Intra-abdominal
+K437,Other and unspecified ventral hernia with gangrene,Intra-abdominal
+K441,Diaphragmatic hernia with gangrene,Intra-abdominal
+K451,Other specified abdominal hernia with gangrene,Intra-abdominal
+K461,Unspecified abdominal hernia with gangrene,Intra-abdominal
+K50014,Crohn's disease of small intestine with abscess,Intra-abdominal
+K50114,Crohn's disease of large intestine with abscess,Intra-abdominal
+K50814,Crohn's disease of both small and large intestine w abscess,Intra-abdominal
+K50914,"Crohn's disease, unspecified, with abscess",Intra-abdominal
+K51014,Ulcerative (chronic) pancolitis with abscess,Intra-abdominal
+K51214,Ulcerative (chronic) proctitis with abscess,Intra-abdominal
+K51314,Ulcerative (chronic) rectosigmoiditis with abscess,Intra-abdominal
+K51414,Inflammatory polyps of colon with abscess,Intra-abdominal
+K51514,Left sided colitis with abscess,Intra-abdominal
+K51814,Other ulcerative colitis with abscess,Intra-abdominal
+K51914,"Ulcerative colitis, unspecified with abscess",Intra-abdominal
+K5700,Dvtrcli of sm int w perforation and abscess w/o bleeding,Intra-abdominal
+K5701,Dvtrcli of sm int w perforation and abscess w bleeding,Intra-abdominal
+K5712,Dvtrcli of sm int w/o perforation or abscess w/o bleeding,Intra-abdominal
+K5713,Dvtrcli of sm int w/o perforation or abscess w bleeding,Intra-abdominal
+K5720,Dvtrcli of lg int w perforation and abscess w/o bleeding,Intra-abdominal
+K5721,Dvtrcli of lg int w perforation and abscess w bleeding,Intra-abdominal
+K5732,Dvtrcli of lg int w/o perforation or abscess w/o bleeding,Intra-abdominal
+K5733,Dvtrcli of lg int w/o perforation or abscess w bleeding,Intra-abdominal
+K5740,Dvtrcli of both small and lg int w perf and abscs w/o bleed,Intra-abdominal
+K5741,Dvtrcli of both small and lg int w perf and abscess w bleed,Intra-abdominal
+K5752,Dvtrcli of both small and lg int w/o perf or abscs w/o bleed,Intra-abdominal
+K5753,Dvtrcli of both small and lg int w/o perf or abscess w bleed,Intra-abdominal
+K5780,"Dvtrcli of intest, part unsp, w perf and abscess w/o bleed",Intra-abdominal
+K5781,"Dvtrcli of intest, part unsp, w perf and abscess w bleeding",Intra-abdominal
+K5792,"Dvtrcli of intest, part unsp, w/o perf or abscess w/o bleed",Intra-abdominal
+K5793,"Dvtrcli of intest, part unsp, w/o perf or abscess w bleeding",Intra-abdominal
+K610,Anal abscess,Intra-abdominal
+K611,Rectal abscess,Intra-abdominal
+K612,Anorectal abscess,Intra-abdominal
+K613,Ischiorectal abscess,Intra-abdominal
+K614,Intrasphincteric abscess,Intra-abdominal
+A7481,Chlamydial peritonitis,Intra-abdominal
+K630,Abscess of intestine,Intra-abdominal
+K650,Generalized (acute) peritonitis,Intra-abdominal
+K651,Peritoneal abscess,Intra-abdominal
+K652,Spontaneous bacterial peritonitis,Intra-abdominal
+K653,Choleperitonitis,Intra-abdominal
+K658,Other peritonitis,Intra-abdominal
+K659,"Peritonitis, unspecified",Intra-abdominal
+K67,Disorders of peritoneum in infectious diseases classd elswhr,Intra-abdominal
+K6819,Other retroperitoneal abscess,Intra-abdominal
+K8000,Calculus of gallbladder w acute cholecyst w/o obstruction,Intra-abdominal
+K8001,Calculus of gallbladder w acute cholecystitis w obstruction,Intra-abdominal
+K8010,Calculus of gallbladder w chronic cholecyst w/o obstruction,Intra-abdominal
+K8011,Calculus of gallbladder w chronic cholecyst w obstruction,Intra-abdominal
+K8012,Calculus of GB w acute and chronic cholecyst w/o obstruction,Intra-abdominal
+K8013,Calculus of GB w acute and chronic cholecyst w obstruction,Intra-abdominal
+K8018,Calculus of gallbladder w oth cholecystitis w/o obstruction,Intra-abdominal
+K8019,Calculus of gallbladder w oth cholecystitis with obstruction,Intra-abdominal
+K8030,"Calculus of bile duct w cholangitis, unsp, w/o obstruction",Intra-abdominal
+K8031,"Calculus of bile duct w cholangitis, unsp, with obstruction",Intra-abdominal
+K8032,Calculus of bile duct with acute cholangitis w/o obstruction,Intra-abdominal
+K8033,Calculus of bile duct w acute cholangitis with obstruction,Intra-abdominal
+K8034,Calculus of bile duct w chronic cholangitis w/o obstruction,Intra-abdominal
+K8035,Calculus of bile duct w chronic cholangitis with obstruction,Intra-abdominal
+K8036,Calculus of bile duct w acute and chr cholangitis w/o obst,Intra-abdominal
+K8037,Calculus of bile duct w acute and chronic cholangitis w obst,Intra-abdominal
+K8040,"Calculus of bile duct w cholecystitis, unsp, w/o obstruction",Intra-abdominal
+K8041,"Calculus of bile duct w cholecystitis, unsp, w obstruction",Intra-abdominal
+K8042,Calculus of bile duct w acute cholecystitis w/o obstruction,Intra-abdominal
+K8043,Calculus of bile duct w acute cholecystitis with obstruction,Intra-abdominal
+K8044,Calculus of bile duct w chronic cholecyst w/o obstruction,Intra-abdominal
+K8045,Calculus of bile duct w chronic cholecystitis w obstruction,Intra-abdominal
+K8046,Calculus of bile duct w acute and chronic cholecyst w/o obst,Intra-abdominal
+K8047,Calculus of bile duct w acute and chronic cholecyst w obst,Intra-abdominal
+K8060,"Calculus of GB and bile duct w cholecyst, unsp, w/o obst",Intra-abdominal
+K8061,"Calculus of GB and bile duct w cholecyst, unsp, w obst",Intra-abdominal
+K8062,Calculus of GB and bile duct w acute cholecyst w/o obst,Intra-abdominal
+K8063,Calculus of GB and bile duct w acute cholecyst w obstruction,Intra-abdominal
+K8064,Calculus of GB and bile duct w chronic cholecyst w/o obst,Intra-abdominal
+K8065,Calculus of GB and bile duct w chronic cholecyst w obst,Intra-abdominal
+K8066,Calculus of GB and bile duct w ac and chr cholecyst w/o obst,Intra-abdominal
+K8067,Calculus of GB and bile duct w ac and chr cholecyst w obst,Intra-abdominal
+K8081,Other cholelithiasis with obstruction,Intra-abdominal
+K810,Acute cholecystitis,Intra-abdominal
+K811,Chronic cholecystitis,Intra-abdominal
+K812,Acute cholecystitis with chronic cholecystitis,Intra-abdominal
+K819,"Cholecystitis, unspecified",Intra-abdominal
+K820,Obstruction of gallbladder,Intra-abdominal
+K822,Perforation of gallbladder,Intra-abdominal
+K823,Fistula of gallbladder,Intra-abdominal
+K830,Cholangitis,Intra-abdominal
+K831,Obstruction of bile duct,Intra-abdominal
+K832,Perforation of bile duct,Intra-abdominal
+K833,Fistula of bile duct,Intra-abdominal
+K834,Spasm of sphincter of Oddi,Intra-abdominal
+K750,Abscess of liver,Intra-abdominal
+K8502,Idiopathic acute pancreatitis with infected necrosis,Intra-abdominal
+K8512,Biliary acute pancreatitis with infected necrosis,Intra-abdominal
+K8522,Alcohol induced acute pancreatitis with infected necrosis,Intra-abdominal
+K8532,Drug induced acute pancreatitis with infected necrosis,Intra-abdominal
+K8582,Other acute pancreatitis with infected necrosis,Intra-abdominal
+K8592,"Acute pancreatitis with infected necrosis, unspecified",Intra-abdominal
+K252,Acute gastric ulcer with both hemorrhage and perforation,Intra-abdominal
+K262,Acute duodenal ulcer with both hemorrhage and perforation,Intra-abdominal
+K266,Chronic or unsp duodenal ulcer w both hemorrhage and perf,Intra-abdominal
+K272,"Acute peptic ulcer, site unsp, w both hemorrhage and perf",Intra-abdominal
+K276,"Chr or unsp peptic ulcer, site unsp, w both hemor and perf",Intra-abdominal
+K282,Acute gastrojejunal ulcer w both hemorrhage and perforation,Intra-abdominal
+K286,Chronic or unsp gastrojejunal ulcer w both hemor and perf,Intra-abdominal
+K521,Toxic gastroenteritis and colitis,Intra-abdominal
+K5530,"Necrotizing enterocolitis, unspecified",Intra-abdominal
+K5531,Stage 1 necrotizing enterocolitis,Intra-abdominal
+K5532,Stage 2 necrotizing enterocolitis,Intra-abdominal
+K5533,Stage 3 necrotizing enterocolitis,Intra-abdominal
+K5931,Toxic megacolon,Intra-abdominal
+K631,Perforation of intestine (nontraumatic),Intra-abdominal
+B2683,Mumps nephritis,Genitourinary
+A3685,Diphtheritic cystitis,Genitourinary
+N10,Acute pyelonephritis,Genitourinary
+N110,Nonobstructive reflux-associated chronic pyelonephritis,Genitourinary
+N111,Chronic obstructive pyelonephritis,Genitourinary
+N136,Pyonephrosis,Genitourinary
+N151,Renal and perinephric abscess,Genitourinary
+N3000,Acute cystitis without hematuria,Genitourinary
+N3001,Acute cystitis with hematuria,Genitourinary
+N3010,Interstitial cystitis (chronic) without hematuria,Genitourinary
+N3011,Interstitial cystitis (chronic) with hematuria,Genitourinary
+N3020,Other chronic cystitis without hematuria,Genitourinary
+N3021,Other chronic cystitis with hematuria,Genitourinary
+N3030,Trigonitis without hematuria,Genitourinary
+N3031,Trigonitis with hematuria,Genitourinary
+N3080,Other cystitis without hematuria,Genitourinary
+N3081,Other cystitis with hematuria,Genitourinary
+N3090,"Cystitis, unspecified without hematuria",Genitourinary
+N3091,"Cystitis, unspecified with hematuria",Genitourinary
+N340,Urethral abscess,Genitourinary
+N341,Nonspecific urethritis,Genitourinary
+N342,Other urethritis,Genitourinary
+N390,"Urinary tract infection, site not specified",Genitourinary
+N410,Acute prostatitis,Genitourinary
+N411,Chronic prostatitis,Genitourinary
+N412,Abscess of prostate,Genitourinary
+N413,Prostatocystitis,Genitourinary
+N414,Granulomatous prostatitis,Genitourinary
+N418,Other inflammatory diseases of prostate,Genitourinary
+N419,"Inflammatory disease of prostate, unspecified",Genitourinary
+N431,Infected hydrocele,Genitourinary
+N451,Epididymitis,Genitourinary
+N452,Orchitis,Genitourinary
+N453,Epididymo-orchitis,Genitourinary
+N454,Abscess of epididymis or testis,Genitourinary
+N476,Balanoposthitis,Genitourinary
+N481,Balanitis,Genitourinary
+N4821,Abscess of corpus cavernosum and penis,Skin/Soft Tissue Infection
+N4822,Cellulitis of corpus cavernosum and penis,Skin/Soft Tissue Infection
+N493,Fournier gangrene,Skin/Soft Tissue Infection
+N610,Mastitis without abscess,Skin/Soft Tissue Infection
+N611,Abscess of the breast and nipple,Skin/Soft Tissue Infection
+N7001,Acute salpingitis,Obstetric/Gynecologic
+N7002,Acute oophoritis,Obstetric/Gynecologic
+N7003,Acute salpingitis and oophoritis,Obstetric/Gynecologic
+N7011,Chronic salpingitis,Obstetric/Gynecologic
+N7012,Chronic oophoritis,Obstetric/Gynecologic
+N7013,Chronic salpingitis and oophoritis,Obstetric/Gynecologic
+N7091,"Salpingitis, unspecified",Obstetric/Gynecologic
+N7092,"Oophoritis, unspecified",Obstetric/Gynecologic
+N7093,"Salpingitis and oophoritis, unspecified",Obstetric/Gynecologic
+N710,Acute inflammatory disease of uterus,Obstetric/Gynecologic
+N711,Chronic inflammatory disease of uterus,Obstetric/Gynecologic
+N719,"Inflammatory disease of uterus, unspecified",Obstetric/Gynecologic
+N72,Inflammatory disease of cervix uteri,Obstetric/Gynecologic
+N730,Acute parametritis and pelvic cellulitis,Obstetric/Gynecologic
+N731,Chronic parametritis and pelvic cellulitis,Obstetric/Gynecologic
+N732,Unspecified parametritis and pelvic cellulitis,Obstetric/Gynecologic
+N733,Female acute pelvic peritonitis,Obstetric/Gynecologic
+N734,Female chronic pelvic peritonitis,Obstetric/Gynecologic
+N735,"Female pelvic peritonitis, unspecified",Obstetric/Gynecologic
+N736,Female pelvic peritoneal adhesions (postinfective),Obstetric/Gynecologic
+N738,Other specified female pelvic inflammatory diseases,Obstetric/Gynecologic
+N739,"Female pelvic inflammatory disease, unspecified",Obstetric/Gynecologic
+N74,Female pelvic inflam disorders in diseases classd elswhr,Obstetric/Gynecologic
+N750,Cyst of Bartholin's gland,Obstetric/Gynecologic
+N751,Abscess of Bartholin's gland,Obstetric/Gynecologic
+N758,Other diseases of Bartholin's gland,Obstetric/Gynecologic
+N759,"Disease of Bartholin's gland, unspecified",Obstetric/Gynecologic
+N760,Acute vaginitis,Obstetric/Gynecologic
+N761,Subacute and chronic vaginitis,Obstetric/Gynecologic
+N762,Acute vulvitis,Obstetric/Gynecologic
+N763,Subacute and chronic vulvitis,Obstetric/Gynecologic
+N764,Abscess of vulva,Obstetric/Gynecologic
+N765,Ulceration of vagina,Obstetric/Gynecologic
+N766,Ulceration of vulva,Obstetric/Gynecologic
+N7681,Mucositis (ulcerative) of vagina and vulva,Obstetric/Gynecologic
+N7689,Other specified inflammation of vagina and vulva,Obstetric/Gynecologic
+N770,Ulceration of vulva in diseases classified elsewhere,Obstetric/Gynecologic
+N771,"Vaginitis, vulvitis and vulvovaginitis in dis classd elswhr",Obstetric/Gynecologic
+O030,Genitl trct and pelvic infection fol incmpl spon abortion,Obstetric/Gynecologic
+O0337,Sepsis following incomplete spontaneous abortion,Obstetric/Gynecologic
+O0338,Urinary tract infection following incomplete spon abortion,Genitourinary
+O035,Genitl trct and pelvic infct fol complete or unsp spon abort,Obstetric/Gynecologic
+O0387,Sepsis following complete or unsp spontaneous abortion,Obstetric/Gynecologic
+O0388,Urinary tract infection fol complete or unsp spon abortion,Genitourinary
+O045,Genitl trct and pelvic infct fol (induced) term of pregnancy,Obstetric/Gynecologic
+O0487,Sepsis following (induced) termination of pregnancy,Obstetric/Gynecologic
+O0488,Urinary tract infection fol (induced) term of pregnancy,Genitourinary
+O070,Genitl trct and pelvic infct fol failed attempt term of preg,Obstetric/Gynecologic
+O0737,Sepsis following failed attempted termination of pregnancy,Obstetric/Gynecologic
+O0738,Urinary tract infection fol failed attempt term of pregnancy,Genitourinary
+O0882,Sepsis following ectopic and molar pregnancy,Obstetric/Gynecologic
+O0883,Urinary tract infection fol an ectopic and molar pregnancy,Genitourinary
+O2300,"Infections of kidney in pregnancy, unspecified trimester",Genitourinary
+O2301,"Infections of kidney in pregnancy, first trimester",Genitourinary
+O2302,"Infections of kidney in pregnancy, second trimester",Genitourinary
+O2303,"Infections of kidney in pregnancy, third trimester",Genitourinary
+O2310,"Infections of bladder in pregnancy, unspecified trimester",Genitourinary
+O2311,"Infections of bladder in pregnancy, first trimester",Genitourinary
+O2312,"Infections of bladder in pregnancy, second trimester",Genitourinary
+O2313,"Infections of bladder in pregnancy, third trimester",Genitourinary
+O2320,"Infections of urethra in pregnancy, unspecified trimester",Genitourinary
+O2321,"Infections of urethra in pregnancy, first trimester",Genitourinary
+O2322,"Infections of urethra in pregnancy, second trimester",Genitourinary
+O2323,"Infections of urethra in pregnancy, third trimester",Genitourinary
+O2330,"Infections of prt urinary tract in pregnancy, unsp trimester",Genitourinary
+O2331,"Infect of prt urinary tract in pregnancy, first trimester",Genitourinary
+O2332,"Infect of prt urinary tract in pregnancy, second trimester",Genitourinary
+O2333,"Infect of prt urinary tract in pregnancy, third trimester",Genitourinary
+O2340,"Unsp infection of urinary tract in pregnancy, unsp trimester",Genitourinary
+O2341,"Unsp infct of urinary tract in pregnancy, first trimester",Genitourinary
+O2342,"Unsp infct of urinary tract in pregnancy, second trimester",Genitourinary
+O2343,"Unsp infct of urinary tract in pregnancy, third trimester",Genitourinary
+O23511,"Infections of cervix in pregnancy, first trimester",Obstetric/Gynecologic
+O23512,"Infections of cervix in pregnancy, second trimester",Obstetric/Gynecologic
+O23513,"Infections of cervix in pregnancy, third trimester",Obstetric/Gynecologic
+O23519,"Infections of cervix in pregnancy, unspecified trimester",Obstetric/Gynecologic
+O23521,"Salpingo-oophoritis in pregnancy, first trimester",Obstetric/Gynecologic
+O23522,"Salpingo-oophoritis in pregnancy, second trimester",Obstetric/Gynecologic
+O23523,"Salpingo-oophoritis in pregnancy, third trimester",Obstetric/Gynecologic
+O23529,"Salpingo-oophoritis in pregnancy, unspecified trimester",Obstetric/Gynecologic
+O23591,"Infection oth prt genitl trct in pregnancy, first trimester",Obstetric/Gynecologic
+O23592,"Infection oth prt genitl trct in pregnancy, second trimester",Obstetric/Gynecologic
+O23593,"Infection oth prt genitl trct in pregnancy, third trimester",Obstetric/Gynecologic
+O23599,"Infection oth prt genital tract in pregnancy, unsp trimester",Obstetric/Gynecologic
+O2390,"Unsp GU tract infection in pregnancy, unsp trimester",Genitourinary
+O2391,"Unsp GU tract infection in pregnancy, first trimester",Genitourinary
+O2392,"Unsp GU tract infection in pregnancy, second trimester",Genitourinary
+O2393,"Unsp GU tract infection in pregnancy, third trimester",Genitourinary
+O88311,"Pyemic and septic embolism in pregnancy, first trimester",Obstetric/Gynecologic
+O88312,"Pyemic and septic embolism in pregnancy, second trimester",Obstetric/Gynecologic
+O88313,"Pyemic and septic embolism in pregnancy, third trimester",Obstetric/Gynecologic
+O88319,"Pyemic and septic embolism in pregnancy, unsp trimester",Obstetric/Gynecologic
+O91011,"Infection of nipple associated w pregnancy, first trimester",Skin/Soft Tissue Infection
+O91012,"Infection of nipple associated w pregnancy, second trimester",Skin/Soft Tissue Infection
+O91013,"Infection of nipple associated w pregnancy, third trimester",Skin/Soft Tissue Infection
+O91019,"Infection of nipple associated w pregnancy, unsp trimester",Skin/Soft Tissue Infection
+O91111,"Abscess of breast associated with pregnancy, first trimester",Skin/Soft Tissue Infection
+O91112,"Abscess of breast associated w pregnancy, second trimester",Skin/Soft Tissue Infection
+O91113,"Abscess of breast associated with pregnancy, third trimester",Skin/Soft Tissue Infection
+O91119,"Abscess of breast associated with pregnancy, unsp trimester",Skin/Soft Tissue Infection
+O91211,"Nonpurulent mastitis associated w pregnancy, first trimester",Skin/Soft Tissue Infection
+O91212,"Nonpurulent mastitis assoc w pregnancy, second trimester",Skin/Soft Tissue Infection
+O91213,"Nonpurulent mastitis associated w pregnancy, third trimester",Skin/Soft Tissue Infection
+O91219,"Nonpurulent mastitis associated w pregnancy, unsp trimester",Skin/Soft Tissue Infection
+O98011,"Tuberculosis complicating pregnancy, first trimester",Pulmonary
+O98012,"Tuberculosis complicating pregnancy, second trimester",Pulmonary
+O98013,"Tuberculosis complicating pregnancy, third trimester",Pulmonary
+O98019,"Tuberculosis complicating pregnancy, unspecified trimester",Pulmonary
+O98111,"Syphilis complicating pregnancy, first trimester",STI-Related
+O98112,"Syphilis complicating pregnancy, second trimester",STI-Related
+O98113,"Syphilis complicating pregnancy, third trimester",STI-Related
+O98119,"Syphilis complicating pregnancy, unspecified trimester",STI-Related
+O98211,"Gonorrhea complicating pregnancy, first trimester",STI-Related
+O98212,"Gonorrhea complicating pregnancy, second trimester",STI-Related
+O98213,"Gonorrhea complicating pregnancy, third trimester",STI-Related
+O98219,"Gonorrhea complicating pregnancy, unspecified trimester",STI-Related
+O98311,"Oth infect w sexl mode of transmiss comp preg, first tri",STI-Related
+O98312,"Oth infect w sexl mode of transmiss comp preg, second tri",STI-Related
+O98313,"Oth infect w sexl mode of transmiss comp preg, third tri",STI-Related
+O98319,"Oth infect w sexl mode of transmiss comp preg, unsp tri",STI-Related
+O98511,"Other viral diseases complicating pregnancy, first trimester",Other
+O98512,"Oth viral diseases complicating pregnancy, second trimester",Other
+O98513,"Other viral diseases complicating pregnancy, third trimester",Other
+O98519,"Other viral diseases complicating pregnancy, unsp trimester",Other
+O98611,"Protozoal diseases complicating pregnancy, first trimester",Other
+O98612,"Protozoal diseases complicating pregnancy, second trimester",Other
+O98613,"Protozoal diseases complicating pregnancy, third trimester",Other
+O98619,"Protozoal diseases complicating pregnancy, unsp trimester",Other
+O411010,"Infct of amniotic sac and membrns, unsp, first tri, unsp",Obstetric/Gynecologic
+O411011,"Infct of amniotic sac and membrns, unsp, first tri, fetus 1",Obstetric/Gynecologic
+O411012,"Infct of amniotic sac and membrns, unsp, first tri, fetus 2",Obstetric/Gynecologic
+O411013,"Infct of amniotic sac and membrns, unsp, first tri, fetus 3",Obstetric/Gynecologic
+O411014,"Infct of amniotic sac and membrns, unsp, first tri, fetus 4",Obstetric/Gynecologic
+O411015,"Infct of amniotic sac and membrns, unsp, first tri, fetus 5",Obstetric/Gynecologic
+O411019,"Infct of amniotic sac and membrns, unsp, first tri, oth",Obstetric/Gynecologic
+O411020,"Infct of amniotic sac and membrns, unsp, second tri, unsp",Obstetric/Gynecologic
+O411021,"Infct of amniotic sac and membrns, unsp, second tri, fetus 1",Obstetric/Gynecologic
+O411022,"Infct of amniotic sac and membrns, unsp, second tri, fetus 2",Obstetric/Gynecologic
+O411023,"Infct of amniotic sac and membrns, unsp, second tri, fetus 3",Obstetric/Gynecologic
+O411024,"Infct of amniotic sac and membrns, unsp, second tri, fetus 4",Obstetric/Gynecologic
+O411025,"Infct of amniotic sac and membrns, unsp, second tri, fetus 5",Obstetric/Gynecologic
+O411029,"Infct of amniotic sac and membrns, unsp, second tri, oth",Obstetric/Gynecologic
+O411030,"Infct of amniotic sac and membrns, unsp, third tri, unsp",Obstetric/Gynecologic
+O411031,"Infct of amniotic sac and membrns, unsp, third tri, fetus 1",Obstetric/Gynecologic
+O411032,"Infct of amniotic sac and membrns, unsp, third tri, fetus 2",Obstetric/Gynecologic
+O411033,"Infct of amniotic sac and membrns, unsp, third tri, fetus 3",Obstetric/Gynecologic
+O411034,"Infct of amniotic sac and membrns, unsp, third tri, fetus 4",Obstetric/Gynecologic
+O411035,"Infct of amniotic sac and membrns, unsp, third tri, fetus 5",Obstetric/Gynecologic
+O411039,"Infct of amniotic sac and membrns, unsp, third tri, oth",Obstetric/Gynecologic
+O411090,"Infct of amniotic sac and membrns, unsp, unsp tri, unsp",Obstetric/Gynecologic
+O411091,"Infct of amniotic sac and membrns, unsp, unsp tri, fetus 1",Obstetric/Gynecologic
+O411092,"Infct of amniotic sac and membrns, unsp, unsp tri, fetus 2",Obstetric/Gynecologic
+O411093,"Infct of amniotic sac and membrns, unsp, unsp tri, fetus 3",Obstetric/Gynecologic
+O411094,"Infct of amniotic sac and membrns, unsp, unsp tri, fetus 4",Obstetric/Gynecologic
+O411095,"Infct of amniotic sac and membrns, unsp, unsp tri, fetus 5",Obstetric/Gynecologic
+O411099,"Infct of amniotic sac and membrns, unsp, unsp trimester, oth",Obstetric/Gynecologic
+O411210,"Chorioamnionitis, first trimester, not applicable or unsp",Obstetric/Gynecologic
+O411211,"Chorioamnionitis, first trimester, fetus 1",Obstetric/Gynecologic
+O411212,"Chorioamnionitis, first trimester, fetus 2",Obstetric/Gynecologic
+O411213,"Chorioamnionitis, first trimester, fetus 3",Obstetric/Gynecologic
+O411214,"Chorioamnionitis, first trimester, fetus 4",Obstetric/Gynecologic
+O411215,"Chorioamnionitis, first trimester, fetus 5",Obstetric/Gynecologic
+O411219,"Chorioamnionitis, first trimester, other fetus",Obstetric/Gynecologic
+O411220,"Chorioamnionitis, second trimester, not applicable or unsp",Obstetric/Gynecologic
+O411221,"Chorioamnionitis, second trimester, fetus 1",Obstetric/Gynecologic
+O411222,"Chorioamnionitis, second trimester, fetus 2",Obstetric/Gynecologic
+O411223,"Chorioamnionitis, second trimester, fetus 3",Obstetric/Gynecologic
+O411224,"Chorioamnionitis, second trimester, fetus 4",Obstetric/Gynecologic
+O411225,"Chorioamnionitis, second trimester, fetus 5",Obstetric/Gynecologic
+O411229,"Chorioamnionitis, second trimester, other fetus",Obstetric/Gynecologic
+O411230,"Chorioamnionitis, third trimester, not applicable or unsp",Obstetric/Gynecologic
+O411231,"Chorioamnionitis, third trimester, fetus 1",Obstetric/Gynecologic
+O411232,"Chorioamnionitis, third trimester, fetus 2",Obstetric/Gynecologic
+O411233,"Chorioamnionitis, third trimester, fetus 3",Obstetric/Gynecologic
+O411234,"Chorioamnionitis, third trimester, fetus 4",Obstetric/Gynecologic
+O411235,"Chorioamnionitis, third trimester, fetus 5",Obstetric/Gynecologic
+O411239,"Chorioamnionitis, third trimester, other fetus",Obstetric/Gynecologic
+O411290,"Chorioamnionitis, unsp trimester, not applicable or unsp",Obstetric/Gynecologic
+O411291,"Chorioamnionitis, unspecified trimester, fetus 1",Obstetric/Gynecologic
+O411292,"Chorioamnionitis, unspecified trimester, fetus 2",Obstetric/Gynecologic
+O411293,"Chorioamnionitis, unspecified trimester, fetus 3",Obstetric/Gynecologic
+O411294,"Chorioamnionitis, unspecified trimester, fetus 4",Obstetric/Gynecologic
+O411295,"Chorioamnionitis, unspecified trimester, fetus 5",Obstetric/Gynecologic
+O411299,"Chorioamnionitis, unspecified trimester, other fetus",Obstetric/Gynecologic
+O411410,"Placentitis, first trimester, not applicable or unspecified",Obstetric/Gynecologic
+O411411,"Placentitis, first trimester, fetus 1",Obstetric/Gynecologic
+O411412,"Placentitis, first trimester, fetus 2",Obstetric/Gynecologic
+O411413,"Placentitis, first trimester, fetus 3",Obstetric/Gynecologic
+O411414,"Placentitis, first trimester, fetus 4",Obstetric/Gynecologic
+O411415,"Placentitis, first trimester, fetus 5",Obstetric/Gynecologic
+O411419,"Placentitis, first trimester, other fetus",Obstetric/Gynecologic
+O411420,"Placentitis, second trimester, not applicable or unspecified",Obstetric/Gynecologic
+O411421,"Placentitis, second trimester, fetus 1",Obstetric/Gynecologic
+O411422,"Placentitis, second trimester, fetus 2",Obstetric/Gynecologic
+O411423,"Placentitis, second trimester, fetus 3",Obstetric/Gynecologic
+O411424,"Placentitis, second trimester, fetus 4",Obstetric/Gynecologic
+O411425,"Placentitis, second trimester, fetus 5",Obstetric/Gynecologic
+O411429,"Placentitis, second trimester, other fetus",Obstetric/Gynecologic
+O411430,"Placentitis, third trimester, not applicable or unspecified",Obstetric/Gynecologic
+O411431,"Placentitis, third trimester, fetus 1",Obstetric/Gynecologic
+O411432,"Placentitis, third trimester, fetus 2",Obstetric/Gynecologic
+O411433,"Placentitis, third trimester, fetus 3",Obstetric/Gynecologic
+O411434,"Placentitis, third trimester, fetus 4",Obstetric/Gynecologic
+O411435,"Placentitis, third trimester, fetus 5",Obstetric/Gynecologic
+O411439,"Placentitis, third trimester, other fetus",Obstetric/Gynecologic
+O411490,"Placentitis, unsp trimester, not applicable or unspecified",Obstetric/Gynecologic
+O411491,"Placentitis, unspecified trimester, fetus 1",Obstetric/Gynecologic
+O411492,"Placentitis, unspecified trimester, fetus 2",Obstetric/Gynecologic
+O411493,"Placentitis, unspecified trimester, fetus 3",Obstetric/Gynecologic
+O411494,"Placentitis, unspecified trimester, fetus 4",Obstetric/Gynecologic
+O411495,"Placentitis, unspecified trimester, fetus 5",Obstetric/Gynecologic
+O411499,"Placentitis, unspecified trimester, other fetus",Obstetric/Gynecologic
+O753,Other infection during labor,Obstetric/Gynecologic
+O85,Puerperal sepsis,Obstetric/Gynecologic
+O860,Infection of obstetric surgical wound,Obstetric/Gynecologic
+O8611,Cervicitis following delivery,Obstetric/Gynecologic
+O8612,Endometritis following delivery,Obstetric/Gynecologic
+O8613,Vaginitis following delivery,Obstetric/Gynecologic
+O8619,Other infection of genital tract following delivery,Obstetric/Gynecologic
+O8620,"Urinary tract infection following delivery, unspecified",Genitourinary
+O8621,Infection of kidney following delivery,Genitourinary
+O8622,Infection of bladder following delivery,Genitourinary
+O8629,Other urinary tract infection following delivery,Genitourinary
+O8681,Puerperal septic thrombophlebitis,Obstetric/Gynecologic
+O8689,Other specified puerperal infections,Obstetric/Gynecologic
+O8832,Pyemic and septic embolism in childbirth,Obstetric/Gynecologic
+O8833,Pyemic and septic embolism in the puerperium,Obstetric/Gynecologic
+O9102,Infection of nipple associated with the puerperium,Skin/Soft Tissue Infection
+O9103,Infection of nipple associated with lactation,Skin/Soft Tissue Infection
+O9112,Abscess of breast associated with the puerperium,Skin/Soft Tissue Infection
+O9113,Abscess of breast associated with lactation,Skin/Soft Tissue Infection
+O9122,Nonpurulent mastitis associated with the puerperium,Skin/Soft Tissue Infection
+O9123,Nonpurulent mastitis associated with lactation,Skin/Soft Tissue Infection
+O9802,Tuberculosis complicating childbirth,Other
+O9803,Tuberculosis complicating the puerperium,Other
+O9812,Syphilis complicating childbirth,STI-Related
+O9813,Syphilis complicating the puerperium,STI-Related
+O9822,Gonorrhea complicating childbirth,STI-Related
+O9823,Gonorrhea complicating the puerperium,STI-Related
+O9832,Oth infections w sexl mode of transmiss comp childbirth,STI-Related
+O9833,Oth infections w sexl mode of transmiss comp the puerperium,STI-Related
+A201,Cellulocutaneous plague,Skin/Soft Tissue Infection
+A210,Ulceroglandular tularemia,Skin/Soft Tissue Infection
+A220,Cutaneous anthrax,Skin/Soft Tissue Infection
+A311,Cutaneous mycobacterial infection,Skin/Soft Tissue Infection
+A363,Cutaneous diphtheria,Skin/Soft Tissue Infection
+A431,Cutaneous nocardiosis,Skin/Soft Tissue Infection
+A46,Erysipelas,Skin/Soft Tissue Infection
+L0100,"Impetigo, unspecified",Skin/Soft Tissue Infection
+L0101,Non-bullous impetigo,Skin/Soft Tissue Infection
+L0102,Bockhart's impetigo,Skin/Soft Tissue Infection
+L0103,Bullous impetigo,Skin/Soft Tissue Infection
+L0109,Other impetigo,Skin/Soft Tissue Infection
+L011,Impetiginization of other dermatoses,Skin/Soft Tissue Infection
+L0201,Cutaneous abscess of face,Skin/Soft Tissue Infection
+L0202,Furuncle of face,Skin/Soft Tissue Infection
+L0203,Carbuncle of face,Skin/Soft Tissue Infection
+L0211,Cutaneous abscess of neck,Skin/Soft Tissue Infection
+L0212,Furuncle of neck,Skin/Soft Tissue Infection
+L0213,Carbuncle of neck,Skin/Soft Tissue Infection
+L02211,Cutaneous abscess of abdominal wall,Skin/Soft Tissue Infection
+L02212,"Cutaneous abscess of back [any part, except buttock]",Skin/Soft Tissue Infection
+L02213,Cutaneous abscess of chest wall,Skin/Soft Tissue Infection
+L02214,Cutaneous abscess of groin,Skin/Soft Tissue Infection
+L02215,Cutaneous abscess of perineum,Skin/Soft Tissue Infection
+L02216,Cutaneous abscess of umbilicus,Skin/Soft Tissue Infection
+L02219,"Cutaneous abscess of trunk, unspecified",Skin/Soft Tissue Infection
+L02221,Furuncle of abdominal wall,Skin/Soft Tissue Infection
+L02222,"Furuncle of back [any part, except buttock]",Skin/Soft Tissue Infection
+L02223,Furuncle of chest wall,Skin/Soft Tissue Infection
+L02224,Furuncle of groin,Skin/Soft Tissue Infection
+L02225,Furuncle of perineum,Skin/Soft Tissue Infection
+L02226,Furuncle of umbilicus,Skin/Soft Tissue Infection
+L02229,"Furuncle of trunk, unspecified",Skin/Soft Tissue Infection
+L02231,Carbuncle of abdominal wall,Skin/Soft Tissue Infection
+L02232,"Carbuncle of back [any part, except buttock]",Skin/Soft Tissue Infection
+L02233,Carbuncle of chest wall,Skin/Soft Tissue Infection
+L02234,Carbuncle of groin,Skin/Soft Tissue Infection
+L02235,Carbuncle of perineum,Skin/Soft Tissue Infection
+L02236,Carbuncle of umbilicus,Skin/Soft Tissue Infection
+L02239,"Carbuncle of trunk, unspecified",Skin/Soft Tissue Infection
+L0231,Cutaneous abscess of buttock,Skin/Soft Tissue Infection
+L0232,Furuncle of buttock,Skin/Soft Tissue Infection
+L0233,Carbuncle of buttock,Skin/Soft Tissue Infection
+L02411,Cutaneous abscess of right axilla,Skin/Soft Tissue Infection
+L02412,Cutaneous abscess of left axilla,Skin/Soft Tissue Infection
+L02413,Cutaneous abscess of right upper limb,Skin/Soft Tissue Infection
+L02414,Cutaneous abscess of left upper limb,Skin/Soft Tissue Infection
+L02415,Cutaneous abscess of right lower limb,Skin/Soft Tissue Infection
+L02416,Cutaneous abscess of left lower limb,Skin/Soft Tissue Infection
+L02419,"Cutaneous abscess of limb, unspecified",Skin/Soft Tissue Infection
+L02421,Furuncle of right axilla,Skin/Soft Tissue Infection
+L02422,Furuncle of left axilla,Skin/Soft Tissue Infection
+L02423,Furuncle of right upper limb,Skin/Soft Tissue Infection
+L02424,Furuncle of left upper limb,Skin/Soft Tissue Infection
+L02425,Furuncle of right lower limb,Skin/Soft Tissue Infection
+L02426,Furuncle of left lower limb,Skin/Soft Tissue Infection
+L02429,"Furuncle of limb, unspecified",Skin/Soft Tissue Infection
+L02431,Carbuncle of right axilla,Skin/Soft Tissue Infection
+L02432,Carbuncle of left axilla,Skin/Soft Tissue Infection
+L02433,Carbuncle of right upper limb,Skin/Soft Tissue Infection
+L02434,Carbuncle of left upper limb,Skin/Soft Tissue Infection
+L02435,Carbuncle of right lower limb,Skin/Soft Tissue Infection
+L02436,Carbuncle of left lower limb,Skin/Soft Tissue Infection
+L02439,"Carbuncle of limb, unspecified",Skin/Soft Tissue Infection
+L02511,Cutaneous abscess of right hand,Skin/Soft Tissue Infection
+L02512,Cutaneous abscess of left hand,Skin/Soft Tissue Infection
+L02519,Cutaneous abscess of unspecified hand,Skin/Soft Tissue Infection
+L02521,Furuncle right hand,Skin/Soft Tissue Infection
+L02522,Furuncle left hand,Skin/Soft Tissue Infection
+L02529,Furuncle unspecified hand,Skin/Soft Tissue Infection
+L02531,Carbuncle of right hand,Skin/Soft Tissue Infection
+L02532,Carbuncle of left hand,Skin/Soft Tissue Infection
+L02539,Carbuncle of unspecified hand,Skin/Soft Tissue Infection
+L02611,Cutaneous abscess of right foot,Skin/Soft Tissue Infection
+L02612,Cutaneous abscess of left foot,Skin/Soft Tissue Infection
+L02619,Cutaneous abscess of unspecified foot,Skin/Soft Tissue Infection
+L02621,Furuncle of right foot,Skin/Soft Tissue Infection
+L02622,Furuncle of left foot,Skin/Soft Tissue Infection
+L02629,Furuncle of unspecified foot,Skin/Soft Tissue Infection
+L02631,Carbuncle of right foot,Skin/Soft Tissue Infection
+L02632,Carbuncle of left foot,Skin/Soft Tissue Infection
+L02639,Carbuncle of unspecified foot,Skin/Soft Tissue Infection
+L02811,"Cutaneous abscess of head [any part, except face]",Skin/Soft Tissue Infection
+L02818,Cutaneous abscess of other sites,Skin/Soft Tissue Infection
+L02821,"Furuncle of head [any part, except face]",Skin/Soft Tissue Infection
+L02828,Furuncle of other sites,Skin/Soft Tissue Infection
+L02831,"Carbuncle of head [any part, except face]",Skin/Soft Tissue Infection
+L02838,Carbuncle of other sites,Skin/Soft Tissue Infection
+L0291,"Cutaneous abscess, unspecified",Skin/Soft Tissue Infection
+L0292,"Furuncle, unspecified",Skin/Soft Tissue Infection
+L0293,"Carbuncle, unspecified",Skin/Soft Tissue Infection
+L03011,Cellulitis of right finger,Skin/Soft Tissue Infection
+L03012,Cellulitis of left finger,Skin/Soft Tissue Infection
+L03019,Cellulitis of unspecified finger,Skin/Soft Tissue Infection
+L03021,Acute lymphangitis of right finger,Skin/Soft Tissue Infection
+L03022,Acute lymphangitis of left finger,Skin/Soft Tissue Infection
+L03029,Acute lymphangitis of unspecified finger,Skin/Soft Tissue Infection
+L03031,Cellulitis of right toe,Skin/Soft Tissue Infection
+L03032,Cellulitis of left toe,Skin/Soft Tissue Infection
+L03039,Cellulitis of unspecified toe,Skin/Soft Tissue Infection
+L03041,Acute lymphangitis of right toe,Skin/Soft Tissue Infection
+L03042,Acute lymphangitis of left toe,Skin/Soft Tissue Infection
+L03049,Acute lymphangitis of unspecified toe,Skin/Soft Tissue Infection
+L03111,Cellulitis of right axilla,Skin/Soft Tissue Infection
+L03112,Cellulitis of left axilla,Skin/Soft Tissue Infection
+L03113,Cellulitis of right upper limb,Skin/Soft Tissue Infection
+L03114,Cellulitis of left upper limb,Skin/Soft Tissue Infection
+L03115,Cellulitis of right lower limb,Skin/Soft Tissue Infection
+L03116,Cellulitis of left lower limb,Skin/Soft Tissue Infection
+L03119,Cellulitis of unspecified part of limb,Skin/Soft Tissue Infection
+L03121,Acute lymphangitis of right axilla,Skin/Soft Tissue Infection
+L03122,Acute lymphangitis of left axilla,Skin/Soft Tissue Infection
+L03123,Acute lymphangitis of right upper limb,Skin/Soft Tissue Infection
+L03124,Acute lymphangitis of left upper limb,Skin/Soft Tissue Infection
+L03125,Acute lymphangitis of right lower limb,Skin/Soft Tissue Infection
+L03126,Acute lymphangitis of left lower limb,Skin/Soft Tissue Infection
+L03129,Acute lymphangitis of unspecified part of limb,Skin/Soft Tissue Infection
+L03211,Cellulitis of face,Skin/Soft Tissue Infection
+L03212,Acute lymphangitis of face,Skin/Soft Tissue Infection
+L03213,Periorbital cellulitis,Skin/Soft Tissue Infection
+L03221,Cellulitis of neck,Skin/Soft Tissue Infection
+L03222,Acute lymphangitis of neck,Skin/Soft Tissue Infection
+L03311,Cellulitis of abdominal wall,Skin/Soft Tissue Infection
+L03312,Cellulitis of back [any part except buttock],Skin/Soft Tissue Infection
+L03313,Cellulitis of chest wall,Skin/Soft Tissue Infection
+L03314,Cellulitis of groin,Skin/Soft Tissue Infection
+L03315,Cellulitis of perineum,Skin/Soft Tissue Infection
+L03316,Cellulitis of umbilicus,Skin/Soft Tissue Infection
+L03317,Cellulitis of buttock,Skin/Soft Tissue Infection
+L03319,"Cellulitis of trunk, unspecified",Skin/Soft Tissue Infection
+L03321,Acute lymphangitis of abdominal wall,Skin/Soft Tissue Infection
+L03322,Acute lymphangitis of back [any part except buttock],Skin/Soft Tissue Infection
+L03323,Acute lymphangitis of chest wall,Skin/Soft Tissue Infection
+L03324,Acute lymphangitis of groin,Skin/Soft Tissue Infection
+L03325,Acute lymphangitis of perineum,Skin/Soft Tissue Infection
+L03326,Acute lymphangitis of umbilicus,Skin/Soft Tissue Infection
+L03327,Acute lymphangitis of buttock,Skin/Soft Tissue Infection
+L03329,"Acute lymphangitis of trunk, unspecified",Skin/Soft Tissue Infection
+L03811,"Cellulitis of head [any part, except face]",Skin/Soft Tissue Infection
+L03818,Cellulitis of other sites,Skin/Soft Tissue Infection
+L03891,"Acute lymphangitis of head [any part, except face]",Skin/Soft Tissue Infection
+L03898,Acute lymphangitis of other sites,Skin/Soft Tissue Infection
+L0390,"Cellulitis, unspecified",Skin/Soft Tissue Infection
+L0391,"Acute lymphangitis, unspecified",Skin/Soft Tissue Infection
+L0501,Pilonidal cyst with abscess,Skin/Soft Tissue Infection
+L0502,Pilonidal sinus with abscess,Skin/Soft Tissue Infection
+L0591,Pilonidal cyst without abscess,Skin/Soft Tissue Infection
+L0592,Pilonidal sinus without abscess,Skin/Soft Tissue Infection
+L080,Pyoderma,Skin/Soft Tissue Infection
+L081,Erythrasma,Skin/Soft Tissue Infection
+L0881,Pyoderma vegetans,Skin/Soft Tissue Infection
+L0882,Omphalitis not of newborn,Skin/Soft Tissue Infection
+L0889,Oth local infections of the skin and subcutaneous tissue,Skin/Soft Tissue Infection
+L089,"Local infection of the skin and subcutaneous tissue, unsp",Skin/Soft Tissue Infection
+L00,Staphylococcal scalded skin syndrome,Skin/Soft Tissue Infection
+L303,Infective dermatitis,Skin/Soft Tissue Infection
+A0104,Typhoid arthritis,Bone/Joint
+A0105,Typhoid osteomyelitis,Bone/Joint
+A0223,Salmonella arthritis,Bone/Joint
+A0224,Salmonella osteomyelitis,Bone/Joint
+A3983,Meningococcal arthritis,Bone/Joint
+A3984,Postmeningococcal arthritis,Bone/Joint
+A6923,Arthritis due to Lyme disease,Tick/Vector-Borne
+B0682,Rubella arthritis,Bone/Joint
+B2685,Mumps arthritis,Bone/Joint
+M0000,"Staphylococcal arthritis, unspecified joint",Bone/Joint
+M00011,"Staphylococcal arthritis, right shoulder",Bone/Joint
+M00012,"Staphylococcal arthritis, left shoulder",Bone/Joint
+M00019,"Staphylococcal arthritis, unspecified shoulder",Bone/Joint
+M00021,"Staphylococcal arthritis, right elbow",Bone/Joint
+M00022,"Staphylococcal arthritis, left elbow",Bone/Joint
+M00029,"Staphylococcal arthritis, unspecified elbow",Bone/Joint
+M00031,"Staphylococcal arthritis, right wrist",Bone/Joint
+M00032,"Staphylococcal arthritis, left wrist",Bone/Joint
+M00039,"Staphylococcal arthritis, unspecified wrist",Bone/Joint
+M00041,"Staphylococcal arthritis, right hand",Bone/Joint
+M00042,"Staphylococcal arthritis, left hand",Bone/Joint
+M00049,"Staphylococcal arthritis, unspecified hand",Bone/Joint
+M00051,"Staphylococcal arthritis, right hip",Bone/Joint
+M00052,"Staphylococcal arthritis, left hip",Bone/Joint
+M00059,"Staphylococcal arthritis, unspecified hip",Bone/Joint
+M00061,"Staphylococcal arthritis, right knee",Bone/Joint
+M00062,"Staphylococcal arthritis, left knee",Bone/Joint
+M00069,"Staphylococcal arthritis, unspecified knee",Bone/Joint
+M00071,"Staphylococcal arthritis, right ankle and foot",Bone/Joint
+M00072,"Staphylococcal arthritis, left ankle and foot",Bone/Joint
+M00079,"Staphylococcal arthritis, unspecified ankle and foot",Bone/Joint
+M0008,"Staphylococcal arthritis, vertebrae",Bone/Joint
+M0009,Staphylococcal polyarthritis,Bone/Joint
+M0010,"Pneumococcal arthritis, unspecified joint",Bone/Joint
+M00111,"Pneumococcal arthritis, right shoulder",Bone/Joint
+M00112,"Pneumococcal arthritis, left shoulder",Bone/Joint
+M00119,"Pneumococcal arthritis, unspecified shoulder",Bone/Joint
+M00121,"Pneumococcal arthritis, right elbow",Bone/Joint
+M00122,"Pneumococcal arthritis, left elbow",Bone/Joint
+M00129,"Pneumococcal arthritis, unspecified elbow",Bone/Joint
+M00131,"Pneumococcal arthritis, right wrist",Bone/Joint
+M00132,"Pneumococcal arthritis, left wrist",Bone/Joint
+M00139,"Pneumococcal arthritis, unspecified wrist",Bone/Joint
+M00141,"Pneumococcal arthritis, right hand",Bone/Joint
+M00142,"Pneumococcal arthritis, left hand",Bone/Joint
+M00149,"Pneumococcal arthritis, unspecified hand",Bone/Joint
+M00151,"Pneumococcal arthritis, right hip",Bone/Joint
+M00152,"Pneumococcal arthritis, left hip",Bone/Joint
+M00159,"Pneumococcal arthritis, unspecified hip",Bone/Joint
+M00161,"Pneumococcal arthritis, right knee",Bone/Joint
+M00162,"Pneumococcal arthritis, left knee",Bone/Joint
+M00169,"Pneumococcal arthritis, unspecified knee",Bone/Joint
+M00171,"Pneumococcal arthritis, right ankle and foot",Bone/Joint
+M00172,"Pneumococcal arthritis, left ankle and foot",Bone/Joint
+M00179,"Pneumococcal arthritis, unspecified ankle and foot",Bone/Joint
+M0018,"Pneumococcal arthritis, vertebrae",Bone/Joint
+M0019,Pneumococcal polyarthritis,Bone/Joint
+M0020,"Other streptococcal arthritis, unspecified joint",Bone/Joint
+M00211,"Other streptococcal arthritis, right shoulder",Bone/Joint
+M00212,"Other streptococcal arthritis, left shoulder",Bone/Joint
+M00219,"Other streptococcal arthritis, unspecified shoulder",Bone/Joint
+M00221,"Other streptococcal arthritis, right elbow",Bone/Joint
+M00222,"Other streptococcal arthritis, left elbow",Bone/Joint
+M00229,"Other streptococcal arthritis, unspecified elbow",Bone/Joint
+M00231,"Other streptococcal arthritis, right wrist",Bone/Joint
+M00232,"Other streptococcal arthritis, left wrist",Bone/Joint
+M00239,"Other streptococcal arthritis, unspecified wrist",Bone/Joint
+M00241,"Other streptococcal arthritis, right hand",Bone/Joint
+M00242,"Other streptococcal arthritis, left hand",Bone/Joint
+M00249,"Other streptococcal arthritis, unspecified hand",Bone/Joint
+M00251,"Other streptococcal arthritis, right hip",Bone/Joint
+M00252,"Other streptococcal arthritis, left hip",Bone/Joint
+M00259,"Other streptococcal arthritis, unspecified hip",Bone/Joint
+M00261,"Other streptococcal arthritis, right knee",Bone/Joint
+M00262,"Other streptococcal arthritis, left knee",Bone/Joint
+M00269,"Other streptococcal arthritis, unspecified knee",Bone/Joint
+M00271,"Other streptococcal arthritis, right ankle and foot",Bone/Joint
+M00272,"Other streptococcal arthritis, left ankle and foot",Bone/Joint
+M00279,"Other streptococcal arthritis, unspecified ankle and foot",Bone/Joint
+M0028,"Other streptococcal arthritis, vertebrae",Bone/Joint
+M0029,Other streptococcal polyarthritis,Bone/Joint
+M0080,"Arthritis due to other bacteria, unspecified joint",Bone/Joint
+M00811,"Arthritis due to other bacteria, right shoulder",Bone/Joint
+M00812,"Arthritis due to other bacteria, left shoulder",Bone/Joint
+M00819,"Arthritis due to other bacteria, unspecified shoulder",Bone/Joint
+M00821,"Arthritis due to other bacteria, right elbow",Bone/Joint
+M00822,"Arthritis due to other bacteria, left elbow",Bone/Joint
+M00829,"Arthritis due to other bacteria, unspecified elbow",Bone/Joint
+M00831,"Arthritis due to other bacteria, right wrist",Bone/Joint
+M00832,"Arthritis due to other bacteria, left wrist",Bone/Joint
+M00839,"Arthritis due to other bacteria, unspecified wrist",Bone/Joint
+M00841,"Arthritis due to other bacteria, right hand",Bone/Joint
+M00842,"Arthritis due to other bacteria, left hand",Bone/Joint
+M00849,"Arthritis due to other bacteria, unspecified hand",Bone/Joint
+M00851,"Arthritis due to other bacteria, right hip",Bone/Joint
+M00852,"Arthritis due to other bacteria, left hip",Bone/Joint
+M00859,"Arthritis due to other bacteria, unspecified hip",Bone/Joint
+M00861,"Arthritis due to other bacteria, right knee",Bone/Joint
+M00862,"Arthritis due to other bacteria, left knee",Bone/Joint
+M00869,"Arthritis due to other bacteria, unspecified knee",Bone/Joint
+M00871,"Arthritis due to other bacteria, right ankle and foot",Bone/Joint
+M00872,"Arthritis due to other bacteria, left ankle and foot",Bone/Joint
+M00879,"Arthritis due to other bacteria, unspecified ankle and foot",Bone/Joint
+M0088,"Arthritis due to other bacteria, vertebrae",Bone/Joint
+M0089,Polyarthritis due to other bacteria,Bone/Joint
+M009,"Pyogenic arthritis, unspecified",Bone/Joint
+M01X0,Dir infct of unsp joint in infec/parastc dis classd elswhr,Bone/Joint
+M01X11,Direct infct of r shldr in infec/parastc dis classd elswhr,Bone/Joint
+M01X12,Direct infct of l shldr in infec/parastc dis classd elswhr,Bone/Joint
+M01X19,Dir infct of unsp shldr in infec/parastc dis classd elswhr,Bone/Joint
+M01X21,Direct infct of r elbow in infec/parastc dis classd elswhr,Bone/Joint
+M01X22,Direct infct of l elbow in infec/parastc dis classd elswhr,Bone/Joint
+M01X29,Dir infct of unsp elbow in infec/parastc dis classd elswhr,Bone/Joint
+M01X31,Direct infct of r wrist in infec/parastc dis classd elswhr,Bone/Joint
+M01X32,Direct infct of l wrist in infec/parastc dis classd elswhr,Bone/Joint
+M01X39,Dir infct of unsp wrist in infec/parastc dis classd elswhr,Bone/Joint
+M01X41,Direct infct of r hand in infec/parastc dis classd elswhr,Bone/Joint
+M01X42,Direct infct of l hand in infec/parastc dis classd elswhr,Bone/Joint
+M01X49,Direct infct of unsp hand in infec/parastc dis classd elswhr,Bone/Joint
+M01X51,Direct infct of r hip in infec/parastc dis classd elswhr,Bone/Joint
+M01X52,Direct infct of left hip in infec/parastc dis classd elswhr,Bone/Joint
+M01X59,Direct infct of unsp hip in infec/parastc dis classd elswhr,Bone/Joint
+M01X61,Direct infct of r knee in infec/parastc dis classd elswhr,Bone/Joint
+M01X62,Direct infct of l knee in infec/parastc dis classd elswhr,Bone/Joint
+M01X69,Direct infct of unsp knee in infec/parastc dis classd elswhr,Bone/Joint
+M01X71,Dir infct of right ank/ft in infec/parastc dis classd elswhr,Bone/Joint
+M01X72,Dir infct of left ank/ft in infec/parastc dis classd elswhr,Bone/Joint
+M01X79,Dir infct of unsp ank/ft in infec/parastc dis classd elswhr,Bone/Joint
+M01X8,Direct infct of verteb in infec/parastc dis classd elswhr,Bone/Joint
+M01X9,Dir infct of mult joints in infec/parastc dis classd elswhr,Bone/Joint
+M4620,"Osteomyelitis of vertebra, site unspecified",Bone/Joint
+M4621,"Osteomyelitis of vertebra, occipito-atlanto-axial region",Bone/Joint
+M4622,"Osteomyelitis of vertebra, cervical region",Bone/Joint
+M4623,"Osteomyelitis of vertebra, cervicothoracic region",Bone/Joint
+M4624,"Osteomyelitis of vertebra, thoracic region",Bone/Joint
+M4625,"Osteomyelitis of vertebra, thoracolumbar region",Bone/Joint
+M4626,"Osteomyelitis of vertebra, lumbar region",Bone/Joint
+M4627,"Osteomyelitis of vertebra, lumbosacral region",Bone/Joint
+M4628,"Osteomyelitis of vertebra, sacral and sacrococcygeal region",Bone/Joint
+M8600,"Acute hematogenous osteomyelitis, unspecified site",Bone/Joint
+M86011,"Acute hematogenous osteomyelitis, right shoulder",Bone/Joint
+M86012,"Acute hematogenous osteomyelitis, left shoulder",Bone/Joint
+M86019,"Acute hematogenous osteomyelitis, unspecified shoulder",Bone/Joint
+M86021,"Acute hematogenous osteomyelitis, right humerus",Bone/Joint
+M86022,"Acute hematogenous osteomyelitis, left humerus",Bone/Joint
+M86029,"Acute hematogenous osteomyelitis, unspecified humerus",Bone/Joint
+M86031,"Acute hematogenous osteomyelitis, right radius and ulna",Bone/Joint
+M86032,"Acute hematogenous osteomyelitis, left radius and ulna",Bone/Joint
+M86039,"Acute hematogenous osteomyelitis, unsp radius and ulna",Bone/Joint
+M86041,"Acute hematogenous osteomyelitis, right hand",Bone/Joint
+M86042,"Acute hematogenous osteomyelitis, left hand",Bone/Joint
+M86049,"Acute hematogenous osteomyelitis, unspecified hand",Bone/Joint
+M86051,"Acute hematogenous osteomyelitis, right femur",Bone/Joint
+M86052,"Acute hematogenous osteomyelitis, left femur",Bone/Joint
+M86059,"Acute hematogenous osteomyelitis, unspecified femur",Bone/Joint
+M86061,"Acute hematogenous osteomyelitis, right tibia and fibula",Bone/Joint
+M86062,"Acute hematogenous osteomyelitis, left tibia and fibula",Bone/Joint
+M86069,"Acute hematogenous osteomyelitis, unsp tibia and fibula",Bone/Joint
+M86071,"Acute hematogenous osteomyelitis, right ankle and foot",Bone/Joint
+M86072,"Acute hematogenous osteomyelitis, left ankle and foot",Bone/Joint
+M86079,"Acute hematogenous osteomyelitis, unspecified ankle and foot",Bone/Joint
+M8608,"Acute hematogenous osteomyelitis, other sites",Bone/Joint
+M8609,"Acute hematogenous osteomyelitis, multiple sites",Bone/Joint
+M8610,"Other acute osteomyelitis, unspecified site",Bone/Joint
+M86111,"Other acute osteomyelitis, right shoulder",Bone/Joint
+M86112,"Other acute osteomyelitis, left shoulder",Bone/Joint
+M86119,"Other acute osteomyelitis, unspecified shoulder",Bone/Joint
+M86121,"Other acute osteomyelitis, right humerus",Bone/Joint
+M86122,"Other acute osteomyelitis, left humerus",Bone/Joint
+M86129,"Other acute osteomyelitis, unspecified humerus",Bone/Joint
+M86131,"Other acute osteomyelitis, right radius and ulna",Bone/Joint
+M86132,"Other acute osteomyelitis, left radius and ulna",Bone/Joint
+M86139,"Other acute osteomyelitis, unspecified radius and ulna",Bone/Joint
+M86141,"Other acute osteomyelitis, right hand",Bone/Joint
+M86142,"Other acute osteomyelitis, left hand",Bone/Joint
+M86149,"Other acute osteomyelitis, unspecified hand",Bone/Joint
+M86151,"Other acute osteomyelitis, right femur",Bone/Joint
+M86152,"Other acute osteomyelitis, left femur",Bone/Joint
+M86159,"Other acute osteomyelitis, unspecified femur",Bone/Joint
+M86161,"Other acute osteomyelitis, right tibia and fibula",Bone/Joint
+M86162,"Other acute osteomyelitis, left tibia and fibula",Bone/Joint
+M86169,"Other acute osteomyelitis, unspecified tibia and fibula",Bone/Joint
+M86171,"Other acute osteomyelitis, right ankle and foot",Bone/Joint
+M86172,"Other acute osteomyelitis, left ankle and foot",Bone/Joint
+M86179,"Other acute osteomyelitis, unspecified ankle and foot",Bone/Joint
+M8618,"Other acute osteomyelitis, other site",Bone/Joint
+M8619,"Other acute osteomyelitis, multiple sites",Bone/Joint
+M8620,"Subacute osteomyelitis, unspecified site",Bone/Joint
+M86211,"Subacute osteomyelitis, right shoulder",Bone/Joint
+M86212,"Subacute osteomyelitis, left shoulder",Bone/Joint
+M86219,"Subacute osteomyelitis, unspecified shoulder",Bone/Joint
+M86221,"Subacute osteomyelitis, right humerus",Bone/Joint
+M86222,"Subacute osteomyelitis, left humerus",Bone/Joint
+M86229,"Subacute osteomyelitis, unspecified humerus",Bone/Joint
+M86231,"Subacute osteomyelitis, right radius and ulna",Bone/Joint
+M86232,"Subacute osteomyelitis, left radius and ulna",Bone/Joint
+M86239,"Subacute osteomyelitis, unspecified radius and ulna",Bone/Joint
+M86241,"Subacute osteomyelitis, right hand",Bone/Joint
+M86242,"Subacute osteomyelitis, left hand",Bone/Joint
+M86249,"Subacute osteomyelitis, unspecified hand",Bone/Joint
+M86251,"Subacute osteomyelitis, right femur",Bone/Joint
+M86252,"Subacute osteomyelitis, left femur",Bone/Joint
+M86259,"Subacute osteomyelitis, unspecified femur",Bone/Joint
+M86261,"Subacute osteomyelitis, right tibia and fibula",Bone/Joint
+M86262,"Subacute osteomyelitis, left tibia and fibula",Bone/Joint
+M86269,"Subacute osteomyelitis, unspecified tibia and fibula",Bone/Joint
+M86271,"Subacute osteomyelitis, right ankle and foot",Bone/Joint
+M86272,"Subacute osteomyelitis, left ankle and foot",Bone/Joint
+M86279,"Subacute osteomyelitis, unspecified ankle and foot",Bone/Joint
+M8628,"Subacute osteomyelitis, other site",Bone/Joint
+M8629,"Subacute osteomyelitis, multiple sites",Bone/Joint
+M8630,"Chronic multifocal osteomyelitis, unspecified site",Bone/Joint
+M86311,"Chronic multifocal osteomyelitis, right shoulder",Bone/Joint
+M86312,"Chronic multifocal osteomyelitis, left shoulder",Bone/Joint
+M86319,"Chronic multifocal osteomyelitis, unspecified shoulder",Bone/Joint
+M86321,"Chronic multifocal osteomyelitis, right humerus",Bone/Joint
+M86322,"Chronic multifocal osteomyelitis, left humerus",Bone/Joint
+M86329,"Chronic multifocal osteomyelitis, unspecified humerus",Bone/Joint
+M86331,"Chronic multifocal osteomyelitis, right radius and ulna",Bone/Joint
+M86332,"Chronic multifocal osteomyelitis, left radius and ulna",Bone/Joint
+M86339,"Chronic multifocal osteomyelitis, unsp radius and ulna",Bone/Joint
+M86341,"Chronic multifocal osteomyelitis, right hand",Bone/Joint
+M86342,"Chronic multifocal osteomyelitis, left hand",Bone/Joint
+M86349,"Chronic multifocal osteomyelitis, unspecified hand",Bone/Joint
+M86351,"Chronic multifocal osteomyelitis, right femur",Bone/Joint
+M86352,"Chronic multifocal osteomyelitis, left femur",Bone/Joint
+M86359,"Chronic multifocal osteomyelitis, unspecified femur",Bone/Joint
+M86361,"Chronic multifocal osteomyelitis, right tibia and fibula",Bone/Joint
+M86362,"Chronic multifocal osteomyelitis, left tibia and fibula",Bone/Joint
+M86369,"Chronic multifocal osteomyelitis, unsp tibia and fibula",Bone/Joint
+M86371,"Chronic multifocal osteomyelitis, right ankle and foot",Bone/Joint
+M86372,"Chronic multifocal osteomyelitis, left ankle and foot",Bone/Joint
+M86379,"Chronic multifocal osteomyelitis, unspecified ankle and foot",Bone/Joint
+M8638,"Chronic multifocal osteomyelitis, other site",Bone/Joint
+M8639,"Chronic multifocal osteomyelitis, multiple sites",Bone/Joint
+M8640,"Chronic osteomyelitis with draining sinus, unspecified site",Bone/Joint
+M86411,"Chronic osteomyelitis with draining sinus, right shoulder",Bone/Joint
+M86412,"Chronic osteomyelitis with draining sinus, left shoulder",Bone/Joint
+M86419,"Chronic osteomyelitis with draining sinus, unsp shoulder",Bone/Joint
+M86421,"Chronic osteomyelitis with draining sinus, right humerus",Bone/Joint
+M86422,"Chronic osteomyelitis with draining sinus, left humerus",Bone/Joint
+M86429,"Chronic osteomyelitis with draining sinus, unsp humerus",Bone/Joint
+M86431,"Chronic osteomyelit w draining sinus, right radius and ulna",Bone/Joint
+M86432,"Chronic osteomyelitis w draining sinus, left radius and ulna",Bone/Joint
+M86439,"Chronic osteomyelitis w draining sinus, unsp radius and ulna",Bone/Joint
+M86441,"Chronic osteomyelitis with draining sinus, right hand",Bone/Joint
+M86442,"Chronic osteomyelitis with draining sinus, left hand",Bone/Joint
+M86449,"Chronic osteomyelitis with draining sinus, unspecified hand",Bone/Joint
+M86451,"Chronic osteomyelitis with draining sinus, right femur",Bone/Joint
+M86452,"Chronic osteomyelitis with draining sinus, left femur",Bone/Joint
+M86459,"Chronic osteomyelitis with draining sinus, unspecified femur",Bone/Joint
+M86461,"Chronic osteomyelit w draining sinus, right tibia and fibula",Bone/Joint
+M86462,"Chronic osteomyelit w draining sinus, left tibia and fibula",Bone/Joint
+M86469,"Chronic osteomyelit w draining sinus, unsp tibia and fibula",Bone/Joint
+M86471,"Chronic osteomyelitis w draining sinus, right ankle and foot",Bone/Joint
+M86472,"Chronic osteomyelitis w draining sinus, left ankle and foot",Bone/Joint
+M86479,"Chronic osteomyelitis w draining sinus, unsp ankle and foot",Bone/Joint
+M8648,"Chronic osteomyelitis with draining sinus, other site",Bone/Joint
+M8649,"Chronic osteomyelitis with draining sinus, multiple sites",Bone/Joint
+M8650,"Other chronic hematogenous osteomyelitis, unspecified site",Bone/Joint
+M86511,"Other chronic hematogenous osteomyelitis, right shoulder",Bone/Joint
+M86512,"Other chronic hematogenous osteomyelitis, left shoulder",Bone/Joint
+M86519,"Other chronic hematogenous osteomyelitis, unsp shoulder",Bone/Joint
+M86521,"Other chronic hematogenous osteomyelitis, right humerus",Bone/Joint
+M86522,"Other chronic hematogenous osteomyelitis, left humerus",Bone/Joint
+M86529,"Other chronic hematogenous osteomyelitis, unsp humerus",Bone/Joint
+M86531,"Oth chronic hematogenous osteomyelit, right radius and ulna",Bone/Joint
+M86532,"Oth chronic hematogenous osteomyelitis, left radius and ulna",Bone/Joint
+M86539,"Oth chronic hematogenous osteomyelitis, unsp radius and ulna",Bone/Joint
+M86541,"Other chronic hematogenous osteomyelitis, right hand",Bone/Joint
+M86542,"Other chronic hematogenous osteomyelitis, left hand",Bone/Joint
+M86549,"Other chronic hematogenous osteomyelitis, unspecified hand",Bone/Joint
+M86551,"Other chronic hematogenous osteomyelitis, right femur",Bone/Joint
+M86552,"Other chronic hematogenous osteomyelitis, left femur",Bone/Joint
+M86559,"Other chronic hematogenous osteomyelitis, unspecified femur",Bone/Joint
+M86561,"Oth chronic hematogenous osteomyelit, right tibia and fibula",Bone/Joint
+M86562,"Oth chronic hematogenous osteomyelit, left tibia and fibula",Bone/Joint
+M86569,"Oth chronic hematogenous osteomyelit, unsp tibia and fibula",Bone/Joint
+M86571,"Oth chronic hematogenous osteomyelitis, right ankle and foot",Bone/Joint
+M86572,"Oth chronic hematogenous osteomyelitis, left ankle and foot",Bone/Joint
+M86579,"Oth chronic hematogenous osteomyelitis, unsp ankle and foot",Bone/Joint
+M8658,"Other chronic hematogenous osteomyelitis, other site",Bone/Joint
+M8659,"Other chronic hematogenous osteomyelitis, multiple sites",Bone/Joint
+M8660,"Other chronic osteomyelitis, unspecified site",Bone/Joint
+M86611,"Other chronic osteomyelitis, right shoulder",Bone/Joint
+M86612,"Other chronic osteomyelitis, left shoulder",Bone/Joint
+M86619,"Other chronic osteomyelitis, unspecified shoulder",Bone/Joint
+M86621,"Other chronic osteomyelitis, right  humerus",Bone/Joint
+M86622,"Other chronic osteomyelitis, left  humerus",Bone/Joint
+M86629,"Other chronic osteomyelitis, unspecified  humerus",Bone/Joint
+M86631,"Other chronic osteomyelitis, right radius and ulna",Bone/Joint
+M86632,"Other chronic osteomyelitis, left radius and ulna",Bone/Joint
+M86639,"Other chronic osteomyelitis, unspecified radius and ulna",Bone/Joint
+M86641,"Other chronic osteomyelitis, right hand",Bone/Joint
+M86642,"Other chronic osteomyelitis, left hand",Bone/Joint
+M86649,"Other chronic osteomyelitis, unspecified hand",Bone/Joint
+M86651,"Other chronic osteomyelitis, right thigh",Bone/Joint
+M86652,"Other chronic osteomyelitis, left thigh",Bone/Joint
+M86659,"Other chronic osteomyelitis, unspecified thigh",Bone/Joint
+M86661,"Other chronic osteomyelitis, right tibia and fibula",Bone/Joint
+M86662,"Other chronic osteomyelitis, left tibia and fibula",Bone/Joint
+M86669,"Other chronic osteomyelitis, unspecified tibia and fibula",Bone/Joint
+M86671,"Other chronic osteomyelitis, right ankle and foot",Bone/Joint
+M86672,"Other chronic osteomyelitis, left ankle and foot",Bone/Joint
+M86679,"Other chronic osteomyelitis, unspecified ankle and foot",Bone/Joint
+M8668,"Other chronic osteomyelitis, other site",Bone/Joint
+M8669,"Other chronic osteomyelitis, multiple sites",Bone/Joint
+M868X0,"Other osteomyelitis, multiple sites",Bone/Joint
+M868X1,"Other osteomyelitis, shoulder",Bone/Joint
+M868X2,"Other osteomyelitis, upper arm",Bone/Joint
+M868X3,"Other osteomyelitis, forearm",Bone/Joint
+M868X4,"Other osteomyelitis, hand",Bone/Joint
+M868X5,"Other osteomyelitis, thigh",Bone/Joint
+M868X6,"Other osteomyelitis, lower leg",Bone/Joint
+M868X7,"Other osteomyelitis, ankle and foot",Bone/Joint
+M868X8,"Other osteomyelitis, other site",Bone/Joint
+M868X9,"Other osteomyelitis, unspecified sites",Bone/Joint
+M869,"Osteomyelitis, unspecified",Bone/Joint
+M4630,"Infection of intervertebral disc (pyogenic), site unsp",Bone/Joint
+M4631,"Infection of intvrt disc (pyogenic), occipt-atlan-ax region",Bone/Joint
+M4632,"Infection of intervertebral disc (pyogenic), cervical region",Bone/Joint
+M4633,"Infection of intvrt disc (pyogenic), cervicothor region",Bone/Joint
+M4634,"Infection of intervertebral disc (pyogenic), thoracic region",Bone/Joint
+M4635,"Infection of intvrt disc (pyogenic), thoracolumbar region",Bone/Joint
+M4636,"Infection of intervertebral disc (pyogenic), lumbar region",Bone/Joint
+M4637,"Infection of intvrt disc (pyogenic), lumbosacral region",Bone/Joint
+M4638,"Infection of intvrt disc (pyogenic), sacr/sacrocygl region",Bone/Joint
+M4639,"Infection of intvrt disc (pyogenic), multiple sites in spine",Bone/Joint
+M4640,"Discitis, unspecified, site unspecified",Bone/Joint
+M4641,"Discitis, unspecified, occipito-atlanto-axial region",Bone/Joint
+M4642,"Discitis, unspecified, cervical region",Bone/Joint
+M4643,"Discitis, unspecified, cervicothoracic region",Bone/Joint
+M4644,"Discitis, unspecified, thoracic region",Bone/Joint
+M4645,"Discitis, unspecified, thoracolumbar region",Bone/Joint
+M4646,"Discitis, unspecified, lumbar region",Bone/Joint
+M4647,"Discitis, unspecified, lumbosacral region",Bone/Joint
+M4648,"Discitis, unspecified, sacral and sacrococcygeal region",Bone/Joint
+M4649,"Discitis, unspecified, multiple sites in spine",Bone/Joint
+M4650,"Other infective spondylopathies, site unspecified",Bone/Joint
+M4651,"Oth infective spondylopathies, occipito-atlanto-axial region",Bone/Joint
+M4652,"Other infective spondylopathies, cervical region",Bone/Joint
+M4653,"Other infective spondylopathies, cervicothoracic region",Bone/Joint
+M4654,"Other infective spondylopathies, thoracic region",Bone/Joint
+M4655,"Other infective spondylopathies, thoracolumbar region",Bone/Joint
+M4656,"Other infective spondylopathies, lumbar region",Bone/Joint
+M4657,"Other infective spondylopathies, lumbosacral region",Bone/Joint
+M4658,"Oth infective spondylopathies, sacr/sacrocygl region",Bone/Joint
+M4659,"Other infective spondylopathies, multiple sites in spine",Bone/Joint
+K6812,Psoas muscle abscess,Skin/Soft Tissue Infection
+M60000,"Infective myositis, unspecified right arm",Skin/Soft Tissue Infection
+M60001,"Infective myositis, unspecified left arm",Skin/Soft Tissue Infection
+M60002,"Infective myositis, unspecified arm",Skin/Soft Tissue Infection
+M60003,"Infective myositis, unspecified right leg",Skin/Soft Tissue Infection
+M60004,"Infective myositis, unspecified left leg",Skin/Soft Tissue Infection
+M60005,"Infective myositis, unspecified leg",Skin/Soft Tissue Infection
+M60009,"Infective myositis, unspecified site",Skin/Soft Tissue Infection
+M60011,"Infective myositis, right shoulder",Skin/Soft Tissue Infection
+M60012,"Infective myositis, left shoulder",Skin/Soft Tissue Infection
+M60019,"Infective myositis, unspecified shoulder",Skin/Soft Tissue Infection
+M60021,"Infective myositis, right upper arm",Skin/Soft Tissue Infection
+M60022,"Infective myositis, left upper arm",Skin/Soft Tissue Infection
+M60029,"Infective myositis, unspecified upper arm",Skin/Soft Tissue Infection
+M60031,"Infective myositis, right forearm",Skin/Soft Tissue Infection
+M60032,"Infective myositis, left forearm",Skin/Soft Tissue Infection
+M60039,"Infective myositis, unspecified forearm",Skin/Soft Tissue Infection
+M60041,"Infective myositis, right hand",Skin/Soft Tissue Infection
+M60042,"Infective myositis, left hand",Skin/Soft Tissue Infection
+M60043,"Infective myositis, unspecified hand",Skin/Soft Tissue Infection
+M60044,"Infective myositis, right finger(s)",Skin/Soft Tissue Infection
+M60045,"Infective myositis, left finger(s)",Skin/Soft Tissue Infection
+M60046,"Infective myositis, unspecified finger(s)",Skin/Soft Tissue Infection
+M60051,"Infective myositis, right thigh",Skin/Soft Tissue Infection
+M60052,"Infective myositis, left thigh",Skin/Soft Tissue Infection
+M60059,"Infective myositis, unspecified thigh",Skin/Soft Tissue Infection
+M60061,"Infective myositis, right lower leg",Skin/Soft Tissue Infection
+M60062,"Infective myositis, left lower leg",Skin/Soft Tissue Infection
+M60069,"Infective myositis, unspecified lower leg",Skin/Soft Tissue Infection
+M60070,"Infective myositis, right ankle",Skin/Soft Tissue Infection
+M60071,"Infective myositis, left ankle",Skin/Soft Tissue Infection
+M60072,"Infective myositis, unspecified ankle",Skin/Soft Tissue Infection
+M60073,"Infective myositis, right foot",Skin/Soft Tissue Infection
+M60074,"Infective myositis, left foot",Skin/Soft Tissue Infection
+M60075,"Infective myositis, unspecified foot",Skin/Soft Tissue Infection
+M60076,"Infective myositis, right toe(s)",Skin/Soft Tissue Infection
+M60077,"Infective myositis, left toe(s)",Skin/Soft Tissue Infection
+M60078,"Infective myositis, unspecified toe(s)",Skin/Soft Tissue Infection
+M6008,"Infective myositis, other site",Skin/Soft Tissue Infection
+M6009,"Infective myositis, multiple sites",Skin/Soft Tissue Infection
+M6500,"Abscess of tendon sheath, unspecified site",Skin/Soft Tissue Infection
+M65011,"Abscess of tendon sheath, right shoulder",Skin/Soft Tissue Infection
+M65012,"Abscess of tendon sheath, left shoulder",Skin/Soft Tissue Infection
+M65019,"Abscess of tendon sheath, unspecified shoulder",Skin/Soft Tissue Infection
+M65021,"Abscess of tendon sheath, right upper arm",Skin/Soft Tissue Infection
+M65022,"Abscess of tendon sheath, left upper arm",Skin/Soft Tissue Infection
+M65029,"Abscess of tendon sheath, unspecified upper arm",Skin/Soft Tissue Infection
+M65031,"Abscess of tendon sheath, right forearm",Skin/Soft Tissue Infection
+M65032,"Abscess of tendon sheath, left forearm",Skin/Soft Tissue Infection
+M65039,"Abscess of tendon sheath, unspecified forearm",Skin/Soft Tissue Infection
+M65041,"Abscess of tendon sheath, right hand",Skin/Soft Tissue Infection
+M65042,"Abscess of tendon sheath, left hand",Skin/Soft Tissue Infection
+M65049,"Abscess of tendon sheath, unspecified hand",Skin/Soft Tissue Infection
+M65051,"Abscess of tendon sheath, right thigh",Skin/Soft Tissue Infection
+M65052,"Abscess of tendon sheath, left thigh",Skin/Soft Tissue Infection
+M65059,"Abscess of tendon sheath, unspecified thigh",Skin/Soft Tissue Infection
+M65061,"Abscess of tendon sheath, right lower leg",Skin/Soft Tissue Infection
+M65062,"Abscess of tendon sheath, left lower leg",Skin/Soft Tissue Infection
+M65069,"Abscess of tendon sheath, unspecified lower leg",Skin/Soft Tissue Infection
+M65071,"Abscess of tendon sheath, right ankle and foot",Skin/Soft Tissue Infection
+M65072,"Abscess of tendon sheath, left ankle and foot",Skin/Soft Tissue Infection
+M65079,"Abscess of tendon sheath, unspecified ankle and foot",Skin/Soft Tissue Infection
+M6508,"Abscess of tendon sheath, other site",Skin/Soft Tissue Infection
+M6510,"Other infective (teno)synovitis, unspecified site",Skin/Soft Tissue Infection
+M65111,"Other infective (teno)synovitis, right shoulder",Skin/Soft Tissue Infection
+M65112,"Other infective (teno)synovitis, left shoulder",Skin/Soft Tissue Infection
+M65119,"Other infective (teno)synovitis, unspecified shoulder",Skin/Soft Tissue Infection
+M65121,"Other infective (teno)synovitis, right elbow",Skin/Soft Tissue Infection
+M65122,"Other infective (teno)synovitis, left elbow",Skin/Soft Tissue Infection
+M65129,"Other infective (teno)synovitis, unspecified elbow",Skin/Soft Tissue Infection
+M65131,"Other infective (teno)synovitis, right wrist",Skin/Soft Tissue Infection
+M65132,"Other infective (teno)synovitis, left wrist",Skin/Soft Tissue Infection
+M65139,"Other infective (teno)synovitis, unspecified wrist",Skin/Soft Tissue Infection
+M65141,"Other infective (teno)synovitis, right hand",Skin/Soft Tissue Infection
+M65142,"Other infective (teno)synovitis, left hand",Skin/Soft Tissue Infection
+M65149,"Other infective (teno)synovitis, unspecified hand",Skin/Soft Tissue Infection
+M65151,"Other infective (teno)synovitis, right hip",Skin/Soft Tissue Infection
+M65152,"Other infective (teno)synovitis, left hip",Skin/Soft Tissue Infection
+M65159,"Other infective (teno)synovitis, unspecified hip",Skin/Soft Tissue Infection
+M65161,"Other infective (teno)synovitis, right knee",Skin/Soft Tissue Infection
+M65162,"Other infective (teno)synovitis, left knee",Skin/Soft Tissue Infection
+M65169,"Other infective (teno)synovitis, unspecified knee",Skin/Soft Tissue Infection
+M65171,"Other infective (teno)synovitis, right ankle and foot",Skin/Soft Tissue Infection
+M65172,"Other infective (teno)synovitis, left ankle and foot",Skin/Soft Tissue Infection
+M65179,"Other infective (teno)synovitis, unspecified ankle and foot",Skin/Soft Tissue Infection
+M6518,"Other infective (teno)synovitis, other site",Skin/Soft Tissue Infection
+M6519,"Other infective (teno)synovitis, multiple sites",Skin/Soft Tissue Infection
+M7100,"Abscess of bursa, unspecified site",Skin/Soft Tissue Infection
+M71011,"Abscess of bursa, right shoulder",Skin/Soft Tissue Infection
+M71012,"Abscess of bursa, left shoulder",Skin/Soft Tissue Infection
+M71019,"Abscess of bursa, unspecified shoulder",Skin/Soft Tissue Infection
+M71021,"Abscess of bursa, right elbow",Skin/Soft Tissue Infection
+M71022,"Abscess of bursa, left elbow",Skin/Soft Tissue Infection
+M71029,"Abscess of bursa, unspecified elbow",Skin/Soft Tissue Infection
+M71031,"Abscess of bursa, right wrist",Skin/Soft Tissue Infection
+M71032,"Abscess of bursa, left wrist",Skin/Soft Tissue Infection
+M71039,"Abscess of bursa, unspecified wrist",Skin/Soft Tissue Infection
+M71041,"Abscess of bursa, right hand",Skin/Soft Tissue Infection
+M71042,"Abscess of bursa, left hand",Skin/Soft Tissue Infection
+M71049,"Abscess of bursa, unspecified hand",Skin/Soft Tissue Infection
+M71051,"Abscess of bursa, right hip",Skin/Soft Tissue Infection
+M71052,"Abscess of bursa, left hip",Skin/Soft Tissue Infection
+M71059,"Abscess of bursa, unspecified hip",Skin/Soft Tissue Infection
+M71061,"Abscess of bursa, right knee",Skin/Soft Tissue Infection
+M71062,"Abscess of bursa, left knee",Skin/Soft Tissue Infection
+M71069,"Abscess of bursa, unspecified knee",Skin/Soft Tissue Infection
+M71071,"Abscess of bursa, right ankle and foot",Skin/Soft Tissue Infection
+M71072,"Abscess of bursa, left ankle and foot",Skin/Soft Tissue Infection
+M71079,"Abscess of bursa, unspecified ankle and foot",Skin/Soft Tissue Infection
+M7108,"Abscess of bursa, other site",Skin/Soft Tissue Infection
+M7109,"Abscess of bursa, multiple sites",Skin/Soft Tissue Infection
+M7110,"Other infective bursitis, unspecified site",Skin/Soft Tissue Infection
+M71111,"Other infective bursitis, right shoulder",Skin/Soft Tissue Infection
+M71112,"Other infective bursitis, left shoulder",Skin/Soft Tissue Infection
+M71119,"Other infective bursitis, unspecified shoulder",Skin/Soft Tissue Infection
+M71121,"Other infective bursitis, right elbow",Skin/Soft Tissue Infection
+M71122,"Other infective bursitis, left elbow",Skin/Soft Tissue Infection
+M71129,"Other infective bursitis, unspecified elbow",Skin/Soft Tissue Infection
+M71131,"Other infective bursitis, right wrist",Skin/Soft Tissue Infection
+M71132,"Other infective bursitis, left wrist",Skin/Soft Tissue Infection
+M71139,"Other infective bursitis, unspecified wrist",Skin/Soft Tissue Infection
+M71141,"Other infective bursitis, right hand",Skin/Soft Tissue Infection
+M71142,"Other infective bursitis, left hand",Skin/Soft Tissue Infection
+M71149,"Other infective bursitis, unspecified hand",Skin/Soft Tissue Infection
+M71151,"Other infective bursitis, right hip",Skin/Soft Tissue Infection
+M71152,"Other infective bursitis, left hip",Skin/Soft Tissue Infection
+M71159,"Other infective bursitis, unspecified hip",Skin/Soft Tissue Infection
+M71161,"Other infective bursitis, right knee",Skin/Soft Tissue Infection
+M71162,"Other infective bursitis, left knee",Skin/Soft Tissue Infection
+M71169,"Other infective bursitis, unspecified knee",Skin/Soft Tissue Infection
+M71171,"Other infective bursitis, right ankle and foot",Skin/Soft Tissue Infection
+M71172,"Other infective bursitis, left ankle and foot",Skin/Soft Tissue Infection
+M71179,"Other infective bursitis, unspecified ankle and foot",Skin/Soft Tissue Infection
+M7118,"Other infective bursitis, other site",Skin/Soft Tissue Infection
+M7119,"Other infective bursitis, multiple sites",Skin/Soft Tissue Infection
+M726,Necrotizing fasciitis,Skin/Soft Tissue Infection
+K9412,Enterostomy infection,Intra-abdominal
+T83510A,"I/I react d/t cystostomy catheter, initial encounter",Genitourinary
+T83510D,"I/I react d/t cystostomy catheter, subsequent encounter",Genitourinary
+T83510S,"I/I react d/t cystostomy catheter, sequela",Genitourinary
+T83511A,"I/I react d/t indwelling urethral catheter, init",Genitourinary
+T83511D,"I/I react d/t indwelling urethral catheter, subs",Genitourinary
+T83511S,"I/I react d/t indwelling urethral catheter, sequela",Genitourinary
+T83512A,"I/I react d/t nephrostomy catheter, initial encounter",Genitourinary
+T83512D,"I/I react d/t nephrostomy catheter, subsequent encounter",Genitourinary
+T83512S,"I/I react d/t nephrostomy catheter, sequela",Genitourinary
+T83518A,"I/I react d/t other urinary catheter, initial encounter",Genitourinary
+T83518D,"I/I react d/t other urinary catheter, subsequent encounter",Genitourinary
+T83518S,"I/I react d/t other urinary catheter, sequela",Genitourinary
+T8351XA,Infection and inflammatory reaction due to indwelling urinar,Genitourinary
+T8351XD,Infection and inflammatory reaction due to indwelling urinar,Genitourinary
+T8351XS,Infection and inflammatory reaction due to indwelling urinar,Genitourinary
+T83590A,"I/I react d/t implanted urn nstim dev, initial encounter",Genitourinary
+T83590D,"I/I react d/t implanted urn nstim dev, subsequent encounter",Genitourinary
+T83590S,"I/I react d/t implanted urn nstim dev, sequela",Genitourinary
+T83591A,"I/I react d/t implanted urinary sphincter, initial encounter",Genitourinary
+T83591D,"I/I react d/t implanted urinary sphincter, subs",Genitourinary
+T83591S,"I/I react d/t implanted urinary sphincter, sequela",Genitourinary
+T83592A,"I/I react d/t indwelling ureteral stent, initial encounter",Genitourinary
+T83592D,"I/I react d/t indwelling ureteral stent, subs",Genitourinary
+T83592S,"I/I react d/t indwelling ureteral stent, sequela",Genitourinary
+T83593A,"I/I react d/t other urinary stents, initial encounter",Genitourinary
+T83593D,"I/I react d/t other urinary stents, subsequent encounter",Genitourinary
+T83593S,"I/I react d/t other urinary stents, sequela",Genitourinary
+T83598A,"I/I react d/t other prosth dev/grft urn sys, init",Genitourinary
+T83598D,"I/I react d/t other prosth dev/grft in urinary system, subs",Genitourinary
+T83598S,"I/I react d/t other prosth dev/grft urn sys, sequela",Genitourinary
+T8359XA,Infection and inflammatory reaction due to prosthetic device,Line/Device
+T8359XD,Infection and inflammatory reaction due to prosthetic device,Line/Device
+T8359XS,Infection and inflammatory reaction due to prosthetic device,Line/Device
+T8361XA,"I/I react d/t implanted penile prosthesis, initial encounter",Genitourinary
+T8361XD,"I/I react d/t implanted penile prosthesis, subs",Genitourinary
+T8361XS,"I/I react d/t implanted penile prosthesis, sequela",Genitourinary
+T8362XA,"I/I react d/t implanted testicular prosthesis, init",Genitourinary
+T8362XD,"I/I react d/t implanted testicular prosthesis, subs",Genitourinary
+T8362XS,"I/I react d/t implanted testicular prosthesis, sequela",Genitourinary
+T8369XA,"I/I react d/t other prosth dev/grft in genital tract, init",Genitourinary
+T8369XD,"I/I react d/t other prosth dev/grft in genital tract, subs",Genitourinary
+T8369XS,"I/I react d/t other prosth dev/grft in genitl trct, sequela",Genitourinary
+T836XXA,Infection and inflammatory reaction due to prosthetic device,Line/Device
+T836XXD,Infection and inflammatory reaction due to prosthetic device,Line/Device
+T836XXS,Infection and inflammatory reaction due to prosthetic device,Line/Device
+T8450XA,"Infect/inflm reaction due to unsp int joint prosth, init",Bone/Joint
+T8450XD,"Infect/inflm reaction due to unsp int joint prosth, subs",Bone/Joint
+T8450XS,"Infect/inflm reaction due to unsp int joint prosth, sequela",Bone/Joint
+T8451XA,"Infect/inflm reaction due to internal right hip prosth, init",Bone/Joint
+T8451XD,"Infect/inflm reaction due to internal right hip prosth, subs",Bone/Joint
+T8451XS,"Infect/inflm reaction due to internal r hip prosth, sequela",Bone/Joint
+T8452XA,"Infect/inflm reaction due to internal left hip prosth, init",Bone/Joint
+T8452XD,"Infect/inflm reaction due to internal left hip prosth, subs",Bone/Joint
+T8452XS,"Infect/inflm reaction due to int left hip prosth, sequela",Bone/Joint
+T8453XA,"Infect/inflm reaction due to internal r knee prosth, init",Bone/Joint
+T8453XD,"Infect/inflm reaction due to internal r knee prosth, subs",Bone/Joint
+T8453XS,"Infect/inflm reaction due to internal r knee prosth, sequela",Bone/Joint
+T8454XA,"Infect/inflm reaction due to internal left knee prosth, init",Bone/Joint
+T8454XD,"Infect/inflm reaction due to internal left knee prosth, subs",Bone/Joint
+T8454XS,"Infect/inflm reaction due to internal l knee prosth, sequela",Bone/Joint
+T8459XA,"Infect/inflm reaction due to oth internal joint prosth, init",Bone/Joint
+T8459XD,"Infect/inflm reaction due to oth internal joint prosth, subs",Bone/Joint
+T8459XS,"Infect/inflm reaction due to oth int joint prosth, sequela",Bone/Joint
+T8460XA,"Infect/inflm reaction due to int fix of unsp site, init",Bone/Joint
+T8460XD,"Infect/inflm reaction due to int fix of unsp site, subs",Bone/Joint
+T8460XS,"Infect/inflm reaction due to int fix of unsp site, sequela",Bone/Joint
+T84610A,"Infect/inflm reaction due to int fix of right humerus, init",Bone/Joint
+T84610D,"Infect/inflm reaction due to int fix of right humerus, subs",Bone/Joint
+T84610S,"Infect/inflm reaction due to int fix of r humerus, sequela",Bone/Joint
+T84611A,"Infect/inflm reaction due to int fix of left humerus, init",Bone/Joint
+T84611D,"Infect/inflm reaction due to int fix of left humerus, subs",Bone/Joint
+T84611S,"Infect/inflm reaction due to int fix of l humerus, sequela",Bone/Joint
+T84612A,"Infect/inflm reaction due to int fix of right radius, init",Bone/Joint
+T84612D,"Infect/inflm reaction due to int fix of right radius, subs",Bone/Joint
+T84612S,"Infect/inflm reaction due to int fix of r radius, sequela",Bone/Joint
+T84613A,"Infect/inflm reaction due to int fix of left radius, init",Bone/Joint
+T84613D,"Infect/inflm reaction due to int fix of left radius, subs",Bone/Joint
+T84613S,"Infect/inflm reaction due to int fix of left radius, sequela",Bone/Joint
+T84614A,"Infect/inflm reaction due to int fix of right ulna, init",Bone/Joint
+T84614D,"Infect/inflm reaction due to int fix of right ulna, subs",Bone/Joint
+T84614S,"Infect/inflm reaction due to int fix of right ulna, sequela",Bone/Joint
+T84615A,"Infect/inflm reaction due to int fix of left ulna, init",Bone/Joint
+T84615D,"Infect/inflm reaction due to int fix of left ulna, subs",Bone/Joint
+T84615S,"Infect/inflm reaction due to int fix of left ulna, sequela",Bone/Joint
+T84619A,"Infect/inflm react due to int fix of unsp bone of arm, init",Bone/Joint
+T84619D,"Infect/inflm react due to int fix of unsp bone of arm, subs",Bone/Joint
+T84619S,"Infect/inflm react due to int fix of unsp bone of arm, sqla",Bone/Joint
+T84620A,"Infect/inflm reaction due to int fix of right femur, init",Bone/Joint
+T84620D,"Infect/inflm reaction due to int fix of right femur, subs",Bone/Joint
+T84620S,"Infect/inflm reaction due to int fix of right femur, sequela",Bone/Joint
+T84621A,"Infect/inflm reaction due to int fix of left femur, init",Bone/Joint
+T84621D,"Infect/inflm reaction due to int fix of left femur, subs",Bone/Joint
+T84621S,"Infect/inflm reaction due to int fix of left femur, sequela",Bone/Joint
+T84622A,"Infect/inflm reaction due to int fix of right tibia, init",Bone/Joint
+T84622D,"Infect/inflm reaction due to int fix of right tibia, subs",Bone/Joint
+T84622S,"Infect/inflm reaction due to int fix of right tibia, sequela",Bone/Joint
+T84623A,"Infect/inflm reaction due to int fix of left tibia, init",Bone/Joint
+T84623D,"Infect/inflm reaction due to int fix of left tibia, subs",Bone/Joint
+T84623S,"Infect/inflm reaction due to int fix of left tibia, sequela",Bone/Joint
+T84624A,"Infect/inflm reaction due to int fix of right fibula, init",Bone/Joint
+T84624D,"Infect/inflm reaction due to int fix of right fibula, subs",Bone/Joint
+T84624S,"Infect/inflm reaction due to int fix of r fibula, sequela",Bone/Joint
+T84625A,"Infect/inflm reaction due to int fix of left fibula, init",Bone/Joint
+T84625D,"Infect/inflm reaction due to int fix of left fibula, subs",Bone/Joint
+T84625S,"Infect/inflm reaction due to int fix of left fibula, sequela",Bone/Joint
+T84629A,"Infect/inflm react due to int fix of unsp bone of leg, init",Bone/Joint
+T84629D,"Infect/inflm react due to int fix of unsp bone of leg, subs",Bone/Joint
+T84629S,"Infect/inflm react due to int fix of unsp bone of leg, sqla",Bone/Joint
+T8463XA,"Infect/inflm reaction due to int fix of spine, init",Bone/Joint
+T8463XD,"Infect/inflm reaction due to int fix of spine, subs",Bone/Joint
+T8463XS,"Infect/inflm reaction due to int fix of spine, sequela",Bone/Joint
+T8469XA,"Infect/inflm reaction due to int fix of site, init",Bone/Joint
+T8469XD,"Infect/inflm reaction due to int fix of site, subs",Bone/Joint
+T8469XS,"Infect/inflm reaction due to int fix of site, sequela",Bone/Joint
+T847XXA,"Infect/inflm react due to oth int orth prosth dev/grft, init",Bone/Joint
+T847XXD,"Infect/inflm react due to oth int orth prosth dev/grft, subs",Bone/Joint
+T847XXS,"Infect/inflm react due to oth int orth prosth dev/grft, sqla",Bone/Joint
+T8571XA,"Infect/inflm reaction due to periton dialysis catheter, init",Line/Device
+T8571XD,"Infect/inflm reaction due to periton dialysis catheter, subs",Line/Device
+T8571XS,"Infect/inflm reaction due to periton dialysis cath, sequela",Line/Device
+T8572XA,"Infect/inflm reaction due to insulin pump, init",Line/Device
+T8572XD,"Infect/inflm reaction due to insulin pump, subs",Line/Device
+T8572XS,"Infect/inflm reaction due to insulin pump, sequela",Line/Device
+T85730A,"I/I react d/t ventricular intracranial shunt, init",Line/Device
+T85730D,"I/I react d/t ventricular intracranial shunt, subs",Line/Device
+T85730S,"I/I react d/t ventricular intracranial shunt, sequela",Line/Device
+T85731A,"I/I react d/t implnt elec nstim of brain, lead, init",Line/Device
+T85731D,"I/I react d/t implnt elec nstim of brain, lead, subs",Line/Device
+T85731S,"I/I react d/t implnt elec nstim of brain, lead, sequela",Line/Device
+T85732A,"I/I react d/t implnt elec nstim of prph nrv, lead, init",Line/Device
+T85732D,"I/I react d/t implnt elec nstim of prph nrv, lead, subs",Line/Device
+T85732S,"I/I react d/t implnt elec nstim of prph nrv, lead, sequela",Line/Device
+T85733A,"I/I react d/t implnt elec nstim of spinal cord, lead, init",Line/Device
+T85733D,"I/I react d/t implnt elec nstim of spinal cord, lead, subs",Line/Device
+T85733S,"I/I react d/t implnt elec nstim of spinal cord, lead, sqla",Line/Device
+T85734A,"I/I react d/t implnt elec nstim, generator, init",Line/Device
+T85734D,"I/I react d/t implnt elec nstim, generator, subs",Line/Device
+T85734S,"I/I react d/t implnt elec nstim, generator, sequela",Line/Device
+T85735A,"I/I react d/t cranial or spinal infusion catheter, init",Line/Device
+T85735D,"I/I react d/t cranial or spinal infusion catheter, subs",Line/Device
+T85735S,"I/I react d/t cranial or spinal infusion catheter, sequela",Line/Device
+T85738A,"I/I react d/t other nrv sys device, implnt or graft, init",Line/Device
+T85738D,"I/I react d/t other nrv sys device, implnt or graft, subs",Line/Device
+T85738S,"I/I react d/t other nrv sys device, implnt or graft, sequela",Line/Device
+T8579XA,"Infect/inflm reaction due to oth int prosth dev/grft, init",Line/Device
+T8579XD,"Infect/inflm reaction due to oth int prosth dev/grft, subs",Line/Device
+T8579XS,"Infect/inflm react due to oth int prosth dev/grft, sequela",Line/Device
+T8603,Bone marrow transplant infection,Other
+T8613,Kidney transplant infection,Genitourinary
+T8623,Heart transplant infection,Cardiac/Mediastinum
+T8643,Liver transplant infection,Intra-abdominal
+T86812,Lung transplant infection,Pulmonary
+T86832,Bone graft infection,Other
+T86842,Corneal transplant infection,Ocular
+T86852,Intestine transplant infection,Intra-abdominal
+T8693,Unspecified transplanted organ and tissue infection,Other
+J9502,Infection of tracheostomy stoma,Skin/Soft Tissue Infection
+J95851,Ventilator associated pneumonia,Pulmonary
+K6811,Postprocedural retroperitoneal abscess,Intra-abdominal
+K91850,Pouchitis,Intra-abdominal
+K9422,Gastrostomy infection,Intra-abdominal
+K9432,Esophagostomy infection,Intra-abdominal
+K9501,Infection due to gastric band procedure,Intra-abdominal
+K9581,Infection due to other bariatric procedure,Intra-abdominal
+N99511,Cystostomy infection,Genitourinary
+N99521,Infection of incontinent external stoma of urinary tract,Genitourinary
+N99531,Infection of continent stoma of urinary tract,Genitourinary
+T80211A,"Bloodstream infection due to central venous catheter, init",Line/Device
+T80211D,"Bloodstream infection due to central venous catheter, subs",Line/Device
+T80211S,"Bloodstream infct due to central venous catheter, sequela",Line/Device
+T80212A,"Local infection due to central venous catheter, init encntr",Line/Device
+T80212D,"Local infection due to central venous catheter, subs encntr",Line/Device
+T80212S,"Local infection due to central venous catheter, sequela",Line/Device
+T80218A,"Other infection due to central venous catheter, init encntr",Line/Device
+T80218D,"Other infection due to central venous catheter, subs encntr",Line/Device
+T80218S,"Other infection due to central venous catheter, sequela",Line/Device
+T80219A,"Unsp infection due to central venous catheter, init encntr",Line/Device
+T80219D,"Unsp infection due to central venous catheter, subs encntr",Line/Device
+T80219S,"Unsp infection due to central venous catheter, sequela",Line/Device
+T8022XA,"Acute infct fol tranfs,infusn,inject blood/products, init",Other
+T8022XD,"Acute infct fol tranfs,infusn,inject blood/products, subs",Other
+T8022XS,"Acute infct fol tranfs,infusn,inject blood/products, sequela",Other
+T8029XA,"Infct fol oth infusion, transfuse and theraputc inject, init",Other
+T8029XD,"Infct fol oth infusion, transfuse and theraputc inject, subs",Other
+T8029XS,"Infct fol oth infusion, tranfs and theraputc inject, sequela",Other
+T8112XA,"Postprocedural septic shock, initial encounter",Septicemia/Bacteremia
+T8112XD,"Postprocedural septic shock, subsequent encounter",Septicemia/Bacteremia
+T8112XS,"Postprocedural septic shock, sequela",Septicemia/Bacteremia
+T814XXA,"Infection following a procedure, initial encounter",Other
+T814XXD,"Infection following a procedure, subsequent encounter",Other
+T814XXS,"Infection following a procedure, sequela",Other
+T8740,"Infection of amputation stump, unspecified extremity",Skin/Soft Tissue Infection
+T8741,"Infection of amputation stump, right upper extremity",Skin/Soft Tissue Infection
+T8742,"Infection of amputation stump, left upper extremity",Skin/Soft Tissue Infection
+T8743,"Infection of amputation stump, right lower extremity",Skin/Soft Tissue Infection
+T8744,"Infection of amputation stump, left lower extremity",Skin/Soft Tissue Infection
+T8750,"Necrosis of amputation stump, unspecified extremity",Skin/Soft Tissue Infection
+T8751,"Necrosis of amputation stump, right upper extremity",Skin/Soft Tissue Infection
+T8752,"Necrosis of amputation stump, left upper extremity",Skin/Soft Tissue Infection
+T8753,"Necrosis of amputation stump, right lower extremity",Skin/Soft Tissue Infection
+T8754,"Necrosis of amputation stump, left lower extremity",Skin/Soft Tissue Infection
+J850,Gangrene and necrosis of lung,Pulmonary
+R6521,Severe sepsis with septic shock,Septicemia/Bacteremia

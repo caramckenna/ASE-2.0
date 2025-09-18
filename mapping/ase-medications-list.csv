@@ -1,0 +1,149 @@
+med_name,trade_names,route,med_category,med_cat_num
+acyclovir,Zovirax,IV,antiviral,6
+amikacin,Amikin,IV,antimicrobial,2
+amoxicillin,Amoxil,PO,antimicrobial,2
+amoxicillin_clavulanate,Augmentin,PO,antimicrobial,2
+amphotericin_b,"Ambisome, Abelcet, Ampho B, Fungizone",IV,antifungal,5
+ampicillin,"Ampi, Omnipen, Penglobe, and Principen, Totacillin-N",IV,antimicrobial,2
+ampicillin,"Ampi, Omnipen, Penglobe, and Principen, Totacillin-N",PO,antimicrobial,2
+ampicillin_sulbactam,Unasyn,IV,antimicrobial,2
+anidulafungin,Eraxis,IV,antifungal,5
+azithromycin,"Zithromax, Z-pack",IV,antimicrobial,2
+azithromycin,"Zithromax, Z-pack",PO,antimicrobial,2
+aztreonam,Azactam,IV,antimicrobial,2
+baloxavir,Xofluza,PO,antiviral,6
+caspofungin,Cancidas,IV,antifungal,5
+cefaclor,Ceclor,PO,antimicrobial,2
+cefadroxil,Duricef,PO,antimicrobial,2
+cefamandole,Mandol,IV,antimicrobial,2
+cefazolin,"Ancef, Kefzol",IV,antimicrobial,2
+cefdinir,Omnicef,PO,antimicrobial,2
+cefditoren,"Spectracef, Meiact, and Zostum-O",PO,antimicrobial,2
+cefepime,Maxipime,IV,antimicrobial,2
+cefiderocol,Fetroja,IV,antimicrobial,2
+cefixime,Suprax,PO,antimicrobial,2
+cefmetazole,NA,IV,antimicrobial,2
+cefonicid,NA,IV,antimicrobial,2
+cefoperazone,Cefobid,IV,antimicrobial,2
+cefotaxime,Clarofan,IV,antimicrobial,2
+cefotetan,Cefotan,IV,antimicrobial,2
+cefoxitin,Mefoxin,IV,antimicrobial,2
+cefpodoxime,Vantin,PO,antimicrobial,2
+cefprozil,Cefzil,PO,antimicrobial,2
+ceftaroline,Teflaro,IV,antimicrobial,2
+ceftazidime,"Fortaz, Tazicef, Tazidime",IV,antimicrobial,2
+ceftazidime_avibactam,Avycaz,IV,antimicrobial,2
+ceftibuten,Cedax,PO,antimicrobial,2
+ceftizoxime,Cefizox,IV,antimicrobial,2
+ceftolozane_tazobactam,Zerbaxa,IV,antimicrobial,2
+ceftriaxone,Rocephin,IV,antimicrobial,2
+cefuroxime,"Zinacef, Ceftin, Kefurox",IV,antimicrobial,2
+cefuroxime,"Zinacef, Ceftin, Kefurox",PO,antimicrobial,2
+cephalexin,Keflex,PO,antimicrobial,2
+cephalothin,"Cefalotin,  Keflin",IV,antimicrobial,2
+cephapirin,"Cefapirin, Cefadyl",IV,antimicrobial,2
+cephradine,"Intracef, Velocef",PO,antimicrobial,2
+chloramphenicol,Chloromycetin,IV,antimicrobial,2
+chloramphenicol,Chloromycetin,PO,antimicrobial,2
+cidofovir,Vistide,IV,antiviral,6
+cinoxacin,Cinobac,PO,antimicrobial,2
+ciprofloxacin,Cipro,IV,antimicrobial,2
+ciprofloxacin,Cipro,PO,antimicrobial,2
+clarithromycin,Biaxin,PO,antimicrobial,2
+clindamycin,Cleocin,IV,antimicrobial,2
+clindamycin,Cleocin,PO,antimicrobial,2
+cloxacillin,"Cloxapen, Cloxacap, Tegopen and Orbenin",IV,antimicrobial,2
+cloxacillin,"Cloxapen, Cloxacap, Tegopen and Orbenin",PO,antimicrobial,2
+colistin,"Coly-mycin, Colymicin",IV,antimicrobial,2
+dalbavancin,Dalvance,IV,antimicrobial,2
+daptomycin,Cubicin,IV,antimicrobial,2
+delafloxacin,Baxdela,IV,antimicrobial,2
+delafloxacin,Baxdela,PO,antimicrobial,2
+dicloxacillin,Dynapen,PO,antimicrobial,2
+doripenem,Doribax,IV,antimicrobial,2
+doxycycline,Vibramycin,IV,antimicrobial,2
+doxycycline,"Vibramycin, Vibra-tab, Vibra-tabs",PO,antimicrobial,2
+eravacycline,Xerava,IV,antimicrobial,2
+ertapenem,Invanz,IV,antimicrobial,2
+fidaxomicin,Dificid,PO,antimicrobial,2
+fluconazole,Diflucan,IV,antifungal,5
+fluconazole,Diflucan,PO,antifungal,5
+foscarnet,Foscavir,IV,antiviral,6
+fosfomycin,Monurol,PO,antimicrobial,2
+ganciclovir,Cytovene,IV,antiviral,6
+gatifloxacin,"Gatiflo, Tequin, and Zymar",IV,antimicrobial,2
+gatifloxacin,"Gatiflo, Tequin, and Zymar",PO,antimicrobial,2
+gentamicin,Garamycin,IV,antimicrobial,2
+imipenem,Primaxin,IV,antimicrobial,2
+imipenem_relebactam,Recarbrio,IV,antimicrobial,2
+isavuconazole,Cresemba,IV,antifungal,5
+isavuconazole,Cresemba,PO,antifungal,5
+itraconazole,"Sporanox, Onmel",IV,antifungal,5
+itraconazole,"Sporanox, Onmel",PO,antifungal,5
+kanamycin,Kantrex,IV,antimicrobial,2
+lefamulin,Xenleta,PO,antimicrobial,2
+levofloxacin,Levaquin,IV,antimicrobial,2
+levofloxacin,Levaquin,PO,antimicrobial,2
+lincomycin,Lincocin,IV,antimicrobial,2
+lincomycin,Lincocin,PO,antimicrobial,2
+linezolid,Zyvox,IV,antimicrobial,2
+linezolid,Zyvox,PO,antimicrobial,2
+maribavir,NA,PO,Antiviral,6
+meropenem,Merrem,IV,antimicrobial,2
+meropenem_vaborbactam,Vabomere,IV,antimicrobial,2
+methicillin,meticillin,IV,antimicrobial,2
+metronidazole,Flagyl,IV,antimicrobial,2
+metronidazole,Flagyl,PO,antimicrobial,2
+mezlocillin,"baypen, mezlin, and optocillin",IV,antimicrobial,2
+micafungin,Mycamine,IV,antifungal,5
+minocycline,"Dynacin, Minocin",IV,antimicrobial,2
+minocycline,"Dynacin, Minocin",PO,antimicrobial,2
+moxifloxacin,Avelox,IV,antimicrobial,2
+moxifloxacin,Avelox,PO,antimicrobial,2
+nafcillin,"Nafcil, Nallpen, Unipen",IV,antimicrobial,2
+nitrofurantoin,"Furadantin, Macrobid, Macrodantin",PO,antimicrobial,2
+norfloxacin,"Noroxin, Chibroxin, Trizolin",PO,antimicrobial,2
+ofloxacin,Floxin,PO,antimicrobial,2
+omadacycline,Nuzyra,IV,antimicrobial,2
+omadacycline,Nuzyra,PO,antimicrobial,2
+oritavancin,Orbactiv,IV,antimicrobial,2
+oseltamivir,Tamiflu,PO,antiviral,6
+oxacillin,Bactocill,IV,antimicrobial,2
+penicillin,NA,IV,antimicrobial,2
+penicillin,NA,PO,antimicrobial,2
+peramivir,Rapivab,IV,antiviral,6
+piperacillin,NA,IV,antimicrobial,2
+piperacillin_tazobactam,"Zosyn, Tazocin",IV,antimicrobial,2
+pivampicillin,NA,PO,antimicrobial,2
+plazomicin,NA,IV,antimicrobial,2
+polymyxin_b,Polymyxin,IV,antimicrobial,2
+posaconazole,Noxafil,IV,antifungal,5
+posaconazole,Noxafil,PO,antifungal,5
+quinupristin_dalfopristin,Synercid,IV,antimicrobial,2
+remdesivir,Veklury,IV,antiviral,6
+rezafungin,NA,IV,antifungal,5
+rifampin,NA,PO,antimicrobial,2
+streptomycin,NA,IV,antimicrobial,2
+sulbactam_durlobactam,NA,IV,antimicrobial,2
+sulfadiazine,NA,PO,antimicrobial,2
+sulfadiazine_trimethoprim,"Bactrim, Septra, SMZ-TMP, Sulfatrim, Cotrim, Cotrimoxazole",PO,antimicrobial,2
+sulfamethoxazole,NA,PO,antimicrobial,2
+sulfisoxazole,Gantrisin,PO,antimicrobial,2
+tedizolid,Sivextro,IV,antimicrobial,2
+tedizolid,Sivextro,PO,antimicrobial,2
+telavancin,Vibativ,IV,antimicrobial,2
+telithromycin,Ketek,PO,antimicrobial,2
+temocillin,NA,IV,antimicrobial,2
+tetracycline,Sumycin,PO,antimicrobial,2
+ticarcillin,NA,IV,antimicrobial,2
+ticarcillin_clavulanate,Timentin,IV,antimicrobial,2
+tigecycline,Tigacyl,IV,antimicrobial,2
+tobramycin,Nebcin,IV,antimicrobial,2
+trimethoprim,NA,PO,antimicrobial,2
+trimethoprim_sulfamethoxazole,"Bactrim, Septra, Sulfatrim",IV,antimicrobial,2
+trimethoprim_sulfamethoxazole,"Bactrim, Septra, Sulfatrim",PO,antimicrobial,2
+vancomycin,"Vanco, Vancocin, Lyphocin",IV,antimicrobial,2
+vancomycin,"Vanco, Vancocin, Lyphocin",PO,antimicrobial,2
+voriconazole,"Vfend, V-fend",IV,antifungal,5
+voriconazole,"Vfend, V-fend",PO,antifungal,5
+zanamivir,NA,IV,antiviral,6

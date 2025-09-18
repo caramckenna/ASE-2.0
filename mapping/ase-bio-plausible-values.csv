@@ -1,0 +1,7 @@
+category,variable,min_plausible,max_plausible,units
+Vitals,Systolic Blood Pressure,0,300,mmHg
+Vitals,Mean Aterial Pressure (MAP),0,200,mmHg
+Labs,Creatinine,0,20,mg/dL
+Labs,Platelets,0,3000,10^9 cells/L
+Labs,Lactate,0,100,mmol/L
+Labs,Total Bilirubin,0,50,mg/dL

@@ -1,0 +1,1196 @@
+poa,icd10_cm_dx ,icd10_cm_dx_desc,elix_cat,elix_desc,dxcat_broad
+1,R6520 ,severe sepsis,NA,NA,icd10_sepsis_poa
+1,R6521,septic shock,NA,NA,icd10_sepsis_poa
+1,N183,"Chronic kidney disease, stage 3 (moderate)",ModSev_Renal,Moderate-Severe Renal Disease – requires POA flags,elix_renal
+1,N1830,"Chronic kidney disease, stage 3 unspecified",ModSev_Renal,Moderate-Severe Renal Disease – requires POA flags,elix_renal
+1,N1831,"Chronic kidney disease, stage 3a",ModSev_Renal,Moderate-Severe Renal Disease – requires POA flags,elix_renal
+1,N1832,"Chronic kidney disease, stage 3b",ModSev_Renal,Moderate-Severe Renal Disease – requires POA flags,elix_renal
+1,N189,"Chronic kidney disease, unspecified",ModSev_Renal,Moderate-Severe Renal Disease – requires POA flags,elix_renal
+1,N19,Unspecified kidney failure,ModSev_Renal,Moderate-Severe Renal Disease – requires POA flags,elix_renal
+1,I120,Hypertensive chronic kidney disease with stage 5 chronic kidney disease or end stage renal disease,ModSev_Renal,Moderate-Severe Renal Disease – requires POA flags,elix_renal
+1,I1311,"Hypertensive heart and chronic kidney disease without heart failure, with stage 5 chronic kidney disease, or end stage renal disease",ModSev_Renal,Moderate-Severe Renal Disease – requires POA flags,elix_renal
+1,I132,"Hypertensive heart and chronic kidney disease with heart failure and with stage 5 chronic kidney disease, or end stage renal disease",ModSev_Renal,Moderate-Severe Renal Disease – requires POA flags,elix_renal
+1,N184,"Chronic kidney disease, stage 4 (severe)",ModSev_Renal,Moderate-Severe Renal Disease – requires POA flags,elix_renal
+1,N185,"Chronic kidney disease, stage 5",ModSev_Renal,Moderate-Severe Renal Disease – requires POA flags,elix_renal
+1,N186,End stage renal disease,ModSev_Renal,Moderate-Severe Renal Disease – requires POA flags,elix_renal
+1,Z4901,Encounter for fitting and adjustment of extracorporeal dialysis catheter,ModSev_Renal,Moderate-Severe Renal Disease – requires POA flags,elix_renal
+1,Z4902,Encounter for fitting and adjustment of peritoneal dialysis catheter,ModSev_Renal,Moderate-Severe Renal Disease – requires POA flags,elix_renal
+1,Z4931,Encounter for adequacy testing for hemodialysis,ModSev_Renal,Moderate-Severe Renal Disease – requires POA flags,elix_renal
+1,Z4932,Encounter for adequacy testing for peritoneal dialysis,ModSev_Renal,Moderate-Severe Renal Disease – requires POA flags,elix_renal
+1,Z9115,Patient's noncompliance with renal dialysis,ModSev_Renal,Moderate-Severe Renal Disease – requires POA flags,elix_renal
+1,Z91151,Patient's noncompliance with renal dialysis due to financial hardship,ModSev_Renal,Moderate-Severe Renal Disease – requires POA flags,elix_renal
+1,Z91158,Patient's noncompliance with renal dialysis for other reason,ModSev_Renal,Moderate-Severe Renal Disease – requires POA flags,elix_renal
+1,Z940,Kidney transplant status,ModSev_Renal,Moderate-Severe Renal Disease – requires POA flags,elix_renal
+1,Z992,Dependence on renal dialysis,ModSev_Renal,Moderate-Severe Renal Disease – requires POA flags,elix_renal
+1,B190,Unspecified viral hepatitis with hepatic coma,ModSev_Liver,Moderate-Severe Liver Disease – requires POA flags,elix_liver
+1,B1911,Unspecified viral hepatitis B with hepatic coma,ModSev_Liver,Moderate-Severe Liver Disease – requires POA flags,elix_liver
+1,B1921,Unspecified viral hepatitis C with hepatic coma,ModSev_Liver,Moderate-Severe Liver Disease – requires POA flags,elix_liver
+1,I8500,Esophageal varices without bleeding,ModSev_Liver,Moderate-Severe Liver Disease – requires POA flags,elix_liver
+1,I8501,Esophageal varices with bleeding,ModSev_Liver,Moderate-Severe Liver Disease – requires POA flags,elix_liver
+1,I8510,Secondary esophageal varices without bleeding,ModSev_Liver,Moderate-Severe Liver Disease – requires POA flags,elix_liver
+1,I8511,Secondary esophageal varices with bleeding,ModSev_Liver,Moderate-Severe Liver Disease – requires POA flags,elix_liver
+1,I864,Gastric varices,ModSev_Liver,Moderate-Severe Liver Disease – requires POA flags,elix_liver
+1,K7040,Alcoholic hepatic failure without coma,ModSev_Liver,Moderate-Severe Liver Disease – requires POA flags,elix_liver
+1,K7041,Alcoholic hepatic failure with coma,ModSev_Liver,Moderate-Severe Liver Disease – requires POA flags,elix_liver
+1,K7210,Chronic hepatic failure without coma,ModSev_Liver,Moderate-Severe Liver Disease – requires POA flags,elix_liver
+1,K7211,Chronic hepatic failure with coma,ModSev_Liver,Moderate-Severe Liver Disease – requires POA flags,elix_liver
+1,K7290,"Hepatic failure, unspecified without coma",ModSev_Liver,Moderate-Severe Liver Disease – requires POA flags,elix_liver
+1,K7291,"Hepatic failure, unspecified with coma",ModSev_Liver,Moderate-Severe Liver Disease – requires POA flags,elix_liver
+1,K765,Hepatic veno-occlusive disease,ModSev_Liver,Moderate-Severe Liver Disease – requires POA flags,elix_liver
+1,K766,Portal hypertension,ModSev_Liver,Moderate-Severe Liver Disease – requires POA flags,elix_liver
+1,K767,Hepatorenal syndrome,ModSev_Liver,Moderate-Severe Liver Disease – requires POA flags,elix_liver
+1,K9182,Postprocedural hepatic failure,ModSev_Liver,Moderate-Severe Liver Disease – requires POA flags,elix_liver
+1,Z944,Liver transplant status,ModSev_Liver,Moderate-Severe Liver Disease – requires POA flags,elix_liver
+1,D55,Anemia due to enzyme disorders,NA,NA,dx_anemia
+1,D56,Thalassemia,NA,NA,dx_anemia
+1,D57,Sickle cell disorders,NA,NA,dx_anemia
+1,D58,Other hereditary hemolytic anemias,NA,NA,dx_anemia
+1,D59,Acquired hemolytic anemias,NA,NA,dx_anemia
+0,C9010,Plasma cell leukemia not having achieved remission,cancer_leuk,Cancer – Leukemia (does not require POA flags) ,elix_cancer
+0,C9011,Plasma cell leukemia in remission,cancer_leuk,Cancer – Leukemia (does not require POA flags) ,elix_cancer
+0,C9012,Plasma cell leukemia in relapse,cancer_leuk,Cancer – Leukemia (does not require POA flags) ,elix_cancer
+0,C9100,Acute lymphoblastic leukemia not having achieved remission,cancer_leuk,Cancer – Leukemia (does not require POA flags) ,elix_cancer
+0,C9101,"Acute lymphoblastic leukemia, in remission",cancer_leuk,Cancer – Leukemia (does not require POA flags) ,elix_cancer
+0,C9102,"Acute lymphoblastic leukemia, in relapse",cancer_leuk,Cancer – Leukemia (does not require POA flags) ,elix_cancer
+0,C9110,Chronic lymphocytic leukemia of B-cell type not having achieved remission,cancer_leuk,Cancer – Leukemia (does not require POA flags) ,elix_cancer
+0,C9111,Chronic lymphocytic leukemia of B-cell type in remission,cancer_leuk,Cancer – Leukemia (does not require POA flags) ,elix_cancer
+0,C9112,Chronic lymphocytic leukemia of B-cell type in relapse,cancer_leuk,Cancer – Leukemia (does not require POA flags) ,elix_cancer
+0,C9130,Prolymphocytic leukemia of B-cell type not having achieved remission,cancer_leuk,Cancer – Leukemia (does not require POA flags) ,elix_cancer
+0,C9131,"Prolymphocytic leukemia of B-cell type, in remission",cancer_leuk,Cancer – Leukemia (does not require POA flags) ,elix_cancer
+0,C9132,"Prolymphocytic leukemia of B-cell type, in relapse",cancer_leuk,Cancer – Leukemia (does not require POA flags) ,elix_cancer
+0,C9140,Hairy cell leukemia not having achieved remission,cancer_leuk,Cancer – Leukemia (does not require POA flags) ,elix_cancer
+0,C9141,"Hairy cell leukemia, in remission",cancer_leuk,Cancer – Leukemia (does not require POA flags) ,elix_cancer
+0,C9142,"Hairy cell leukemia, in relapse",cancer_leuk,Cancer – Leukemia (does not require POA flags) ,elix_cancer
+0,C9150,Adult T-cell lymphoma/leukemia (HTLV-1-associated) not having achieved remission,cancer_leuk,Cancer – Leukemia (does not require POA flags) ,elix_cancer
+0,C9151,"Adult T-cell lymphoma/leukemia (HTLV-1-associated), in remission",cancer_leuk,Cancer – Leukemia (does not require POA flags) ,elix_cancer
+0,C9152,"Adult T-cell lymphoma/leukemia (HTLV-1-associated), in relapse",cancer_leuk,Cancer – Leukemia (does not require POA flags) ,elix_cancer
+0,C9160,Prolymphocytic leukemia of T-cell type not having achieved remission,cancer_leuk,Cancer – Leukemia (does not require POA flags) ,elix_cancer
+0,C9161,"Prolymphocytic leukemia of T-cell type, in remission",cancer_leuk,Cancer – Leukemia (does not require POA flags) ,elix_cancer
+0,C9162,"Prolymphocytic leukemia of T-cell type, in relapse",cancer_leuk,Cancer – Leukemia (does not require POA flags) ,elix_cancer
+0,C9190,"Lymphoid leukemia, unspecified not having achieved remission",cancer_leuk,Cancer – Leukemia (does not require POA flags) ,elix_cancer
+0,C9191,"Lymphoid leukemia, unspecified, in remission",cancer_leuk,Cancer – Leukemia (does not require POA flags) ,elix_cancer
+0,C9192,"Lymphoid leukemia, unspecified, in relapse",cancer_leuk,Cancer – Leukemia (does not require POA flags) ,elix_cancer
+0,C91A0,Mature B-cell leukemia Burkitt-type not having achieved remission,cancer_leuk,Cancer – Leukemia (does not require POA flags) ,elix_cancer
+0,C91A1,"Mature B-cell leukemia Burkitt-type, in remission",cancer_leuk,Cancer – Leukemia (does not require POA flags) ,elix_cancer
+0,C91A2,"Mature B-cell leukemia Burkitt-type, in relapse",cancer_leuk,Cancer – Leukemia (does not require POA flags) ,elix_cancer
+0,C91Z0,Other lymphoid leukemia not having achieved remission,cancer_leuk,Cancer – Leukemia (does not require POA flags) ,elix_cancer
+0,C91Z1,"Other lymphoid leukemia, in remission",cancer_leuk,Cancer – Leukemia (does not require POA flags) ,elix_cancer
+0,C91Z2,"Other lymphoid leukemia, in relapse",cancer_leuk,Cancer – Leukemia (does not require POA flags) ,elix_cancer
+0,C9200,"Acute myeloblastic leukemia, not having achieved remission",cancer_leuk,Cancer – Leukemia (does not require POA flags) ,elix_cancer
+0,C9201,"Acute myeloblastic leukemia, in remission",cancer_leuk,Cancer – Leukemia (does not require POA flags) ,elix_cancer
+0,C9202,"Acute myeloblastic leukemia, in relapse",cancer_leuk,Cancer – Leukemia (does not require POA flags) ,elix_cancer
+0,C9210,"Chronic myeloid leukemia, BCR/ABL-positive, not having achieved remission",cancer_leuk,Cancer – Leukemia (does not require POA flags) ,elix_cancer
+0,C9211,"Chronic myeloid leukemia, BCR/ABL-positive, in remission",cancer_leuk,Cancer – Leukemia (does not require POA flags) ,elix_cancer
+0,C9212,"Chronic myeloid leukemia, BCR/ABL-positive, in relapse",cancer_leuk,Cancer – Leukemia (does not require POA flags) ,elix_cancer
+0,C9220,"Atypical chronic myeloid leukemia, BCR/ABL-negative, not having achieved remission",cancer_leuk,Cancer – Leukemia (does not require POA flags) ,elix_cancer
+0,C9221,"Atypical chronic myeloid leukemia, BCR/ABL-negative, in remission",cancer_leuk,Cancer – Leukemia (does not require POA flags) ,elix_cancer
+0,C9222,"Atypical chronic myeloid leukemia, BCR/ABL-negative, in relapse",cancer_leuk,Cancer – Leukemia (does not require POA flags) ,elix_cancer
+0,C9230,"Myeloid sarcoma, not having achieved remission",cancer_leuk,Cancer – Leukemia (does not require POA flags) ,elix_cancer
+0,C9231,"Myeloid sarcoma, in remission",cancer_leuk,Cancer – Leukemia (does not require POA flags) ,elix_cancer
+0,C9232,"Myeloid sarcoma, in relapse",cancer_leuk,Cancer – Leukemia (does not require POA flags) ,elix_cancer
+0,C9240,"Acute promyelocytic leukemia, not having achieved remission",cancer_leuk,Cancer – Leukemia (does not require POA flags) ,elix_cancer
+0,C9241,"Acute promyelocytic leukemia, in remission",cancer_leuk,Cancer – Leukemia (does not require POA flags) ,elix_cancer
+0,C9242,"Acute promyelocytic leukemia, in relapse",cancer_leuk,Cancer – Leukemia (does not require POA flags) ,elix_cancer
+0,C9250,"Acute myelomonocytic leukemia, not having achieved remission",cancer_leuk,Cancer – Leukemia (does not require POA flags) ,elix_cancer
+0,C9251,"Acute myelomonocytic leukemia, in remission",cancer_leuk,Cancer – Leukemia (does not require POA flags) ,elix_cancer
+0,C9252,"Acute myelomonocytic leukemia, in relapse",cancer_leuk,Cancer – Leukemia (does not require POA flags) ,elix_cancer
+0,C9260,Acute myeloid leukemia with 11q23-abnormality not having achieved remission,cancer_leuk,Cancer – Leukemia (does not require POA flags) ,elix_cancer
+0,C9261,Acute myeloid leukemia with 11q23-abnormality in remission,cancer_leuk,Cancer – Leukemia (does not require POA flags) ,elix_cancer
+0,C9262,Acute myeloid leukemia with 11q23-abnormality in relapse,cancer_leuk,Cancer – Leukemia (does not require POA flags) ,elix_cancer
+0,C9290,"Myeloid leukemia, unspecified, not having achieved remission",cancer_leuk,Cancer – Leukemia (does not require POA flags) ,elix_cancer
+0,C9291,"Myeloid leukemia, unspecified in remission",cancer_leuk,Cancer – Leukemia (does not require POA flags) ,elix_cancer
+0,C9292,"Myeloid leukemia, unspecified in relapse",cancer_leuk,Cancer – Leukemia (does not require POA flags) ,elix_cancer
+0,C92A0,"Acute myeloid leukemia with multilineage dysplasia, not having achieved remission",cancer_leuk,Cancer – Leukemia (does not require POA flags) ,elix_cancer
+0,C92A1,"Acute myeloid leukemia with multilineage dysplasia, in remission",cancer_leuk,Cancer – Leukemia (does not require POA flags) ,elix_cancer
+0,C92A2,"Acute myeloid leukemia with multilineage dysplasia, in relapse",cancer_leuk,Cancer – Leukemia (does not require POA flags) ,elix_cancer
+0,C92Z0,Other myeloid leukemia not having achieved remission,cancer_leuk,Cancer – Leukemia (does not require POA flags) ,elix_cancer
+0,C92Z1,"Other myeloid leukemia, in remission",cancer_leuk,Cancer – Leukemia (does not require POA flags) ,elix_cancer
+0,C92Z2,"Other myeloid leukemia, in relapse",cancer_leuk,Cancer – Leukemia (does not require POA flags) ,elix_cancer
+0,C9300,"Acute monoblastic/monocytic leukemia, not having achieved remission",cancer_leuk,Cancer – Leukemia (does not require POA flags) ,elix_cancer
+0,C9301,"Acute monoblastic/monocytic leukemia, in remission",cancer_leuk,Cancer – Leukemia (does not require POA flags) ,elix_cancer
+0,C9302,"Acute monoblastic/monocytic leukemia, in relapse",cancer_leuk,Cancer – Leukemia (does not require POA flags) ,elix_cancer
+0,C9310,Chronic myelomonocytic leukemia not having achieved remission,cancer_leuk,Cancer – Leukemia (does not require POA flags) ,elix_cancer
+0,C9311,"Chronic myelomonocytic leukemia, in remission",cancer_leuk,Cancer – Leukemia (does not require POA flags) ,elix_cancer
+0,C9312,"Chronic myelomonocytic leukemia, in relapse",cancer_leuk,Cancer – Leukemia (does not require POA flags) ,elix_cancer
+0,C9330,"Juvenile myelomonocytic leukemia, not having achieved remission",cancer_leuk,Cancer – Leukemia (does not require POA flags) ,elix_cancer
+0,C9331,"Juvenile myelomonocytic leukemia, in remission",cancer_leuk,Cancer – Leukemia (does not require POA flags) ,elix_cancer
+0,C9332,"Juvenile myelomonocytic leukemia, in relapse",cancer_leuk,Cancer – Leukemia (does not require POA flags) ,elix_cancer
+0,C9390,"Monocytic leukemia, unspecified, not having achieved remission",cancer_leuk,Cancer – Leukemia (does not require POA flags) ,elix_cancer
+0,C9391,"Monocytic leukemia, unspecified in remission",cancer_leuk,Cancer – Leukemia (does not require POA flags) ,elix_cancer
+0,C9392,"Monocytic leukemia, unspecified in relapse",cancer_leuk,Cancer – Leukemia (does not require POA flags) ,elix_cancer
+0,C93Z0,"Other monocytic leukemia, not having achieved remission",cancer_leuk,Cancer – Leukemia (does not require POA flags) ,elix_cancer
+0,C93Z1,"Other monocytic leukemia, in remission",cancer_leuk,Cancer – Leukemia (does not require POA flags) ,elix_cancer
+0,C93Z2,"Other monocytic leukemia, in relapse",cancer_leuk,Cancer – Leukemia (does not require POA flags) ,elix_cancer
+0,C9400,"Acute erythroid leukemia, not having achieved remission",cancer_leuk,Cancer – Leukemia (does not require POA flags) ,elix_cancer
+0,C9401,"Acute erythroid leukemia, in remission",cancer_leuk,Cancer – Leukemia (does not require POA flags) ,elix_cancer
+0,C9402,"Acute erythroid leukemia, in relapse",cancer_leuk,Cancer – Leukemia (does not require POA flags) ,elix_cancer
+0,C9420,Acute megakaryoblastic leukemia not having achieved remission,cancer_leuk,Cancer – Leukemia (does not require POA flags) ,elix_cancer
+0,C9421,"Acute megakaryoblastic leukemia, in remission",cancer_leuk,Cancer – Leukemia (does not require POA flags) ,elix_cancer
+0,C9422,"Acute megakaryoblastic leukemia, in relapse",cancer_leuk,Cancer – Leukemia (does not require POA flags) ,elix_cancer
+0,C9430,Mast cell leukemia not having achieved remission,cancer_leuk,Cancer – Leukemia (does not require POA flags) ,elix_cancer
+0,C9431,"Mast cell leukemia, in remission",cancer_leuk,Cancer – Leukemia (does not require POA flags) ,elix_cancer
+0,C9432,"Mast cell leukemia, in relapse",cancer_leuk,Cancer – Leukemia (does not require POA flags) ,elix_cancer
+0,C9440,Acute panmyelosis with myelofibrosis not having achieved remission,cancer_leuk,Cancer – Leukemia (does not require POA flags) ,elix_cancer
+0,C9441,"Acute panmyelosis with myelofibrosis, in remission",cancer_leuk,Cancer – Leukemia (does not require POA flags) ,elix_cancer
+0,C9442,"Acute panmyelosis with myelofibrosis, in relapse",cancer_leuk,Cancer – Leukemia (does not require POA flags) ,elix_cancer
+0,C946,"Myelodysplastic disease, not classified",cancer_leuk,Cancer – Leukemia (does not require POA flags) ,elix_cancer
+0,C9480,Other specified leukemias not having achieved remission,cancer_leuk,Cancer – Leukemia (does not require POA flags) ,elix_cancer
+0,C9481,"Other specified leukemias, in remission",cancer_leuk,Cancer – Leukemia (does not require POA flags) ,elix_cancer
+0,C9482,"Other specified leukemias, in relapse",cancer_leuk,Cancer – Leukemia (does not require POA flags) ,elix_cancer
+0,C9500,Acute leukemia of unspecified cell type not having achieved remission,cancer_leuk,Cancer – Leukemia (does not require POA flags) ,elix_cancer
+0,C9501,"Acute leukemia of unspecified cell type, in remission",cancer_leuk,Cancer – Leukemia (does not require POA flags) ,elix_cancer
+0,C9502,"Acute leukemia of unspecified cell type, in relapse",cancer_leuk,Cancer – Leukemia (does not require POA flags) ,elix_cancer
+0,C9510,Chronic leukemia of unspecified cell type not having achieved remission,cancer_leuk,Cancer – Leukemia (does not require POA flags) ,elix_cancer
+0,C9511,"Chronic leukemia of unspecified cell type, in remission",cancer_leuk,Cancer – Leukemia (does not require POA flags) ,elix_cancer
+0,C9512,"Chronic leukemia of unspecified cell type, in relapse",cancer_leuk,Cancer – Leukemia (does not require POA flags) ,elix_cancer
+0,C9590,"Leukemia, unspecified not having achieved remission",cancer_leuk,Cancer – Leukemia (does not require POA flags) ,elix_cancer
+0,C9591,"Leukemia, unspecified, in remission",cancer_leuk,Cancer – Leukemia (does not require POA flags) ,elix_cancer
+0,C9592,"Leukemia, unspecified, in relapse",cancer_leuk,Cancer – Leukemia (does not require POA flags) ,elix_cancer
+0,C8100,"Nodular lymphocyte predominant Hodgkin lymphoma, unspecified site",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8101,"Nodular lymphocyte predominant Hodgkin lymphoma, lymph nodes of head, face, and neck",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8102,"Nodular lymphocyte predominant Hodgkin lymphoma, intrathoracic lymph nodes",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8103,"Nodular lymphocyte predominant Hodgkin lymphoma, intra-abdominal lymph nodes",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8104,"Nodular lymphocyte predominant Hodgkin lymphoma, lymph nodes of axilla and upper limb",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8105,"Nodular lymphocyte predominant Hodgkin lymphoma, lymph nodes of inguinal region and lower limb",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8106,"Nodular lymphocyte predominant Hodgkin lymphoma, intrapelvic lymph nodes",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8107,"Nodular lymphocyte predominant Hodgkin lymphoma, spleen",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8108,"Nodular lymphocyte predominant Hodgkin lymphoma, lymph nodes of multiple sites",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8109,"Nodular lymphocyte predominant Hodgkin lymphoma, extranodal and solid organ sites",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8110,"Nodular sclerosis Hodgkin lymphoma, unspecified site",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8111,"Nodular sclerosis Hodgkin lymphoma, lymph nodes of head, face, and neck",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8112,"Nodular sclerosis Hodgkin lymphoma, intrathoracic lymph nodes",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8113,"Nodular sclerosis Hodgkin lymphoma, intra-abdominal lymph nodes",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8114,"Nodular sclerosis Hodgkin lymphoma, lymph nodes of axilla and upper limb",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8115,"Nodular sclerosis Hodgkin lymphoma, lymph nodes of inguinal region and lower limb",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8116,"Nodular sclerosis Hodgkin lymphoma, intrapelvic lymph nodes",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8117,"Nodular sclerosis Hodgkin lymphoma, spleen",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8118,"Nodular sclerosis Hodgkin lymphoma, lymph nodes of multiple sites",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8119,"Nodular sclerosis Hodgkin lymphoma, extranodal and solid organ sites",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8120,"Mixed cellularity Hodgkin lymphoma, unspecified site",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8121,"Mixed cellularity Hodgkin lymphoma, lymph nodes of head, face, and neck",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8122,"Mixed cellularity Hodgkin lymphoma, intrathoracic lymph nodes",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8123,"Mixed cellularity Hodgkin lymphoma, intra-abdominal lymph nodes",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8124,"Mixed cellularity Hodgkin lymphoma, lymph nodes of axilla and upper limb",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8125,"Mixed cellularity Hodgkin lymphoma, lymph nodes of inguinal region and lower limb",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8126,"Mixed cellularity Hodgkin lymphoma, intrapelvic lymph nodes",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8127,"Mixed cellularity Hodgkin lymphoma, spleen",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8128,"Mixed cellularity Hodgkin lymphoma, lymph nodes of multiple sites",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8129,"Mixed cellularity Hodgkin lymphoma, extranodal and solid organ sites",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8130,"Lymphocyte depleted Hodgkin lymphoma, unspecified site",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8131,"Lymphocyte depleted Hodgkin lymphoma, lymph nodes of head, face, and neck",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8132,"Lymphocyte depleted Hodgkin lymphoma, intrathoracic lymph nodes",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8133,"Lymphocyte depleted Hodgkin lymphoma, intra-abdominal lymph nodes",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8134,"Lymphocyte depleted Hodgkin lymphoma, lymph nodes of axilla and upper limb",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8135,"Lymphocyte depleted Hodgkin lymphoma, lymph nodes of inguinal region and lower limb",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8136,"Lymphocyte depleted Hodgkin lymphoma, intrapelvic lymph nodes",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8137,"Lymphocyte depleted Hodgkin lymphoma, spleen",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8138,"Lymphocyte depleted Hodgkin lymphoma, lymph nodes of multiple sites",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8139,"Lymphocyte depleted Hodgkin lymphoma, extranodal and solid organ sites",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8140,"Lymphocyte-rich Hodgkin lymphoma, unspecified site",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8141,"Lymphocyte-rich Hodgkin lymphoma, lymph nodes of head, face, and neck",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8142,"Lymphocyte-rich Hodgkin lymphoma, intrathoracic lymph nodes",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8143,"Lymphocyte-rich Hodgkin lymphoma, intra-abdominal lymph nodes",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8144,"Lymphocyte-rich Hodgkin lymphoma, lymph nodes of axilla and upper limb",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8145,"Lymphocyte-rich Hodgkin lymphoma, lymph nodes of inguinal region and lower limb",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8146,"Lymphocyte-rich Hodgkin lymphoma, intrapelvic lymph nodes",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8147,"Lymphocyte-rich Hodgkin lymphoma, spleen",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8148,"Lymphocyte-rich Hodgkin lymphoma, lymph nodes of multiple sites",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8149,"Lymphocyte-rich Hodgkin lymphoma, extranodal and solid organ sites",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8170,"Other Hodgkin lymphoma, unspecified site",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8171,"Other Hodgkin lymphoma, lymph nodes of head, face, and neck",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8172,"Other Hodgkin lymphoma, intrathoracic lymph nodes",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8173,"Other Hodgkin lymphoma, intra-abdominal lymph nodes",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8174,"Other Hodgkin lymphoma, lymph nodes of axilla and upper limb",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8175,"Other Hodgkin lymphoma, lymph nodes of inguinal region and lower limb",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8176,"Other Hodgkin lymphoma, intrapelvic lymph nodes",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8177,"Other Hodgkin lymphoma, spleen",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8178,"Other Hodgkin lymphoma, lymph nodes of multiple sites",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8179,"Other Hodgkin lymphoma, extranodal and solid organ sites",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8190,"Hodgkin lymphoma, unspecified, unspecified site",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8191,"Hodgkin lymphoma, unspecified, lymph nodes of head, face, and neck",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8192,"Hodgkin lymphoma, unspecified, intrathoracic lymph nodes",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8193,"Hodgkin lymphoma, unspecified, intra-abdominal lymph nodes",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8194,"Hodgkin lymphoma, unspecified, lymph nodes of axilla and upper limb",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8195,"Hodgkin lymphoma, unspecified, lymph nodes of inguinal region and lower limb",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8196,"Hodgkin lymphoma, unspecified, intrapelvic lymph nodes",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8197,"Hodgkin lymphoma, unspecified, spleen",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8198,"Hodgkin lymphoma, unspecified, lymph nodes of multiple sites",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8199,"Hodgkin lymphoma, unspecified, extranodal and solid organ sites",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8200,"Follicular lymphoma grade I, unspecified site",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8201,"Follicular lymphoma grade I, lymph nodes of head, face, and neck",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8202,"Follicular lymphoma grade I, intrathoracic lymph nodes",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8203,"Follicular lymphoma grade I, intra-abdominal lymph nodes",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8204,"Follicular lymphoma grade I, lymph nodes of axilla and upper limb",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8205,"Follicular lymphoma grade I, lymph nodes of inguinal region and lower limb",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8206,"Follicular lymphoma grade I, intrapelvic lymph nodes",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8207,"Follicular lymphoma grade I, spleen",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8208,"Follicular lymphoma grade I, lymph nodes of multiple sites",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8209,"Follicular lymphoma grade I, extranodal and solid organ sites",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8210,"Follicular lymphoma grade II, unspecified site",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8211,"Follicular lymphoma grade II, lymph nodes of head, face, and neck",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8212,"Follicular lymphoma grade II, intrathoracic lymph nodes",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8213,"Follicular lymphoma grade II, intra-abdominal lymph nodes",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8214,"Follicular lymphoma grade II, lymph nodes of axilla and upper limb",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8215,"Follicular lymphoma grade II, lymph nodes of inguinal region and lower limb",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8216,"Follicular lymphoma grade II, intrapelvic lymph nodes",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8217,"Follicular lymphoma grade II, spleen",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8218,"Follicular lymphoma grade II, lymph nodes of multiple sites",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8219,"Follicular lymphoma grade II, extranodal and solid organ sites",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8220,"Follicular lymphoma grade III, unspecified, unspecified site",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8221,"Follicular lymphoma grade III, unspecified, lymph nodes of head, face, and neck",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8222,"Follicular lymphoma grade III, unspecified, intrathoracic lymph nodes",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8223,"Follicular lymphoma grade III, unspecified, intra-abdominal lymph nodes",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8224,"Follicular lymphoma grade III, unspecified, lymph nodes of axilla and upper limb",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8225,"Follicular lymphoma grade III, unspecified, lymph nodes of inguinal region and lower limb",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8226,"Follicular lymphoma grade III, unspecified, intrapelvic lymph nodes",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8227,"Follicular lymphoma grade III, unspecified, spleen",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8228,"Follicular lymphoma grade III, unspecified, lymph nodes of multiple sites",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8229,"Follicular lymphoma grade III, unspecified, extranodal and solid organ sites",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8230,"Follicular lymphoma grade IIIa, unspecified site",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8231,"Follicular lymphoma grade IIIa, lymph nodes of head, face, and neck",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8232,"Follicular lymphoma grade IIIa, intrathoracic lymph nodes",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8233,"Follicular lymphoma grade IIIa, intra-abdominal lymph nodes",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8234,"Follicular lymphoma grade IIIa, lymph nodes of axilla and upper limb",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8235,"Follicular lymphoma grade IIIa, lymph nodes of inguinal region and lower limb",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8236,"Follicular lymphoma grade IIIa, intrapelvic lymph nodes",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8237,"Follicular lymphoma grade IIIa, spleen",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8238,"Follicular lymphoma grade IIIa, lymph nodes of multiple sites",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8239,"Follicular lymphoma grade IIIa, extranodal and solid organ sites",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8240,"Follicular lymphoma grade IIIb, unspecified site",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8241,"Follicular lymphoma grade IIIb, lymph nodes of head, face, and neck",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8242,"Follicular lymphoma grade IIIb, intrathoracic lymph nodes",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8243,"Follicular lymphoma grade IIIb, intra-abdominal lymph nodes",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8244,"Follicular lymphoma grade IIIb, lymph nodes of axilla and upper limb",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8245,"Follicular lymphoma grade IIIb, lymph nodes of inguinal region and lower limb",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8246,"Follicular lymphoma grade IIIb, intrapelvic lymph nodes",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8247,"Follicular lymphoma grade IIIb, spleen",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8248,"Follicular lymphoma grade IIIb, lymph nodes of multiple sites",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8249,"Follicular lymphoma grade IIIb, extranodal and solid organ sites",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8250,"Diffuse follicle center lymphoma, unspecified site",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8251,"Diffuse follicle center lymphoma, lymph nodes of head, face, and neck",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8252,"Diffuse follicle center lymphoma, intrathoracic lymph nodes",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8253,"Diffuse follicle center lymphoma, intra-abdominal lymph nodes",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8254,"Diffuse follicle center lymphoma, lymph nodes of axilla and upper limb",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8255,"Diffuse follicle center lymphoma, lymph nodes of inguinal region and lower limb",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8256,"Diffuse follicle center lymphoma, intrapelvic lymph nodes",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8257,"Diffuse follicle center lymphoma, spleen",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8258,"Diffuse follicle center lymphoma, lymph nodes of multiple sites",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8259,"Diffuse follicle center lymphoma, extranodal and solid organ sites",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8260,"Cutaneous follicle center lymphoma, unspecified site",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8261,"Cutaneous follicle center lymphoma, lymph nodes of head, face, and neck",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8262,"Cutaneous follicle center lymphoma, intrathoracic lymph nodes",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8263,"Cutaneous follicle center lymphoma, intra-abdominal lymph nodes",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8264,"Cutaneous follicle center lymphoma, lymph nodes of axilla and upper limb",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8265,"Cutaneous follicle center lymphoma, lymph nodes of inguinal region and lower limb",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8266,"Cutaneous follicle center lymphoma, intrapelvic lymph nodes",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8267,"Cutaneous follicle center lymphoma, spleen",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8268,"Cutaneous follicle center lymphoma, lymph nodes of multiple sites",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8269,"Cutaneous follicle center lymphoma, extranodal and solid organ sites",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8280,"Other types of follicular lymphoma, unspecified site",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8281,"Other types of follicular lymphoma, lymph nodes of head, face, and neck",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8282,"Other types of follicular lymphoma, intrathoracic lymph nodes",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8283,"Other types of follicular lymphoma, intra-abdominal lymph nodes",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8284,"Other types of follicular lymphoma, lymph nodes of axilla and upper limb",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8285,"Other types of follicular lymphoma, lymph nodes of inguinal region and lower limb",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8286,"Other types of follicular lymphoma, intrapelvic lymph nodes",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8287,"Other types of follicular lymphoma, spleen",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8288,"Other types of follicular lymphoma, lymph nodes of multiple sites",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8289,"Other types of follicular lymphoma, extranodal and solid organ sites",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8290,"Follicular lymphoma, unspecified, unspecified site",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8291,"Follicular lymphoma, unspecified, lymph nodes of head, face, and neck",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8292,"Follicular lymphoma, unspecified, intrathoracic lymph nodes",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8293,"Follicular lymphoma, unspecified, intra-abdominal lymph nodes",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8294,"Follicular lymphoma, unspecified, lymph nodes of axilla and upper limb",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8295,"Follicular lymphoma, unspecified, lymph nodes of inguinal region and lower limb",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8296,"Follicular lymphoma, unspecified, intrapelvic lymph nodes",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8297,"Follicular lymphoma, unspecified, spleen",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8298,"Follicular lymphoma, unspecified, lymph nodes of multiple sites",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8299,"Follicular lymphoma, unspecified, extranodal and solid organ sites",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8300,"Small cell B-cell lymphoma, unspecified site",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8301,"Small cell B-cell lymphoma, lymph nodes of head, face, and neck",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8302,"Small cell B-cell lymphoma, intrathoracic lymph nodes",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8303,"Small cell B-cell lymphoma, intra-abdominal lymph nodes",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8304,"Small cell B-cell lymphoma, lymph nodes of axilla and upper limb",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8305,"Small cell B-cell lymphoma, lymph nodes of inguinal region and lower limb",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8306,"Small cell B-cell lymphoma, intrapelvic lymph nodes",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8307,"Small cell B-cell lymphoma, spleen",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8308,"Small cell B-cell lymphoma, lymph nodes of multiple sites",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8309,"Small cell B-cell lymphoma, extranodal and solid organ sites",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8310,"Mantle cell lymphoma, unspecified site",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8311,"Mantle cell lymphoma, lymph nodes of head, face, and neck",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8312,"Mantle cell lymphoma, intrathoracic lymph nodes",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8313,"Mantle cell lymphoma, intra-abdominal lymph nodes",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8314,"Mantle cell lymphoma, lymph nodes of axilla and upper limb",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8315,"Mantle cell lymphoma, lymph nodes of inguinal region and lower limb",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8316,"Mantle cell lymphoma, intrapelvic lymph nodes",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8317,"Mantle cell lymphoma, spleen",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8318,"Mantle cell lymphoma, lymph nodes of multiple sites",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8319,"Mantle cell lymphoma, extranodal and solid organ sites",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8330,"Diffuse large B-cell lymphoma, unspecified site",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8331,"Diffuse large B-cell lymphoma, lymph nodes of head, face, and neck",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8332,"Diffuse large B-cell lymphoma, intrathoracic lymph nodes",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8333,"Diffuse large B-cell lymphoma, intra-abdominal lymph nodes",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8334,"Diffuse large B-cell lymphoma, lymph nodes of axilla and upper limb",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8335,"Diffuse large B-cell lymphoma, lymph nodes of inguinal region and lower limb",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8336,"Diffuse large B-cell lymphoma, intrapelvic lymph nodes",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8337,"Diffuse large B-cell lymphoma, spleen",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8338,"Diffuse large B-cell lymphoma, lymph nodes of multiple sites",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8339,"Diffuse large B-cell lymphoma, extranodal and solid organ sites",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8350,"Lymphoblastic (diffuse) lymphoma, unspecified site",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8351,"Lymphoblastic (diffuse) lymphoma, lymph nodes of head, face, and neck",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8352,"Lymphoblastic (diffuse) lymphoma, intrathoracic lymph nodes",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8353,"Lymphoblastic (diffuse) lymphoma, intra-abdominal lymph nodes",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8354,"Lymphoblastic (diffuse) lymphoma, lymph nodes of axilla and upper limb",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8355,"Lymphoblastic (diffuse) lymphoma, lymph nodes of inguinal region and lower limb",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8356,"Lymphoblastic (diffuse) lymphoma, intrapelvic lymph nodes",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8357,"Lymphoblastic (diffuse) lymphoma, spleen",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8358,"Lymphoblastic (diffuse) lymphoma, lymph nodes of multiple sites",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8359,"Lymphoblastic (diffuse) lymphoma, extranodal and solid organ sites",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8370,"Burkitt lymphoma, unspecified site",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8371,"Burkitt lymphoma, lymph nodes of head, face, and neck",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8372,"Burkitt lymphoma, intrathoracic lymph nodes",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8373,"Burkitt lymphoma, intra-abdominal lymph nodes",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8374,"Burkitt lymphoma, lymph nodes of axilla and upper limb",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8375,"Burkitt lymphoma, lymph nodes of inguinal region and lower limb",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8376,"Burkitt lymphoma, intrapelvic lymph nodes",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8377,"Burkitt lymphoma, spleen",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8378,"Burkitt lymphoma, lymph nodes of multiple sites",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8379,"Burkitt lymphoma, extranodal and solid organ sites",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8380,"Other non-follicular lymphoma, unspecified site",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8381,"Other non-follicular lymphoma, lymph nodes of head, face, and neck",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8382,"Other non-follicular lymphoma, intrathoracic lymph nodes",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8383,"Other non-follicular lymphoma, intra-abdominal lymph nodes",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8384,"Other non-follicular lymphoma, lymph nodes of axilla and upper limb",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8385,"Other non-follicular lymphoma, lymph nodes of inguinal region and lower limb",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8386,"Other non-follicular lymphoma, intrapelvic lymph nodes",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8387,"Other non-follicular lymphoma, spleen",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8388,"Other non-follicular lymphoma, lymph nodes of multiple sites",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8389,"Other non-follicular lymphoma, extranodal and solid organ sites",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8390,"Non-follicular (diffuse) lymphoma, unspecified, unspecified site",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8391,"Non-follicular (diffuse) lymphoma, unspecified, lymph nodes of head, face, and neck",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8392,"Non-follicular (diffuse) lymphoma, unspecified, intrathoracic lymph nodes",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8393,"Non-follicular (diffuse) lymphoma, unspecified, intra-abdominal lymph nodes",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8394,"Non-follicular (diffuse) lymphoma, unspecified, lymph nodes of axilla and upper limb",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8395,"Non-follicular (diffuse) lymphoma, unspecified, lymph nodes of inguinal region and lower limb",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8396,"Non-follicular (diffuse) lymphoma, unspecified, intrapelvic lymph nodes",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8397,"Non-follicular (diffuse) lymphoma, unspecified, spleen",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8398,"Non-follicular (diffuse) lymphoma, unspecified, lymph nodes of multiple sites",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8399,"Non-follicular (diffuse) lymphoma, unspecified, extranodal and solid organ sites",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8400,"Mycosis fungoides, unspecified site",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8401,"Mycosis fungoides, lymph nodes of head, face, and neck",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8402,"Mycosis fungoides, intrathoracic lymph nodes",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8403,"Mycosis fungoides, intra-abdominal lymph nodes",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8404,"Mycosis fungoides, lymph nodes of axilla and upper limb",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8405,"Mycosis fungoides, lymph nodes of inguinal region and lower limb",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8406,"Mycosis fungoides, intrapelvic lymph nodes",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8407,"Mycosis fungoides, spleen",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8408,"Mycosis fungoides, lymph nodes of multiple sites",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8409,"Mycosis fungoides, extranodal and solid organ sites",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8410,"Sezary disease, unspecified site",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8411,"Sezary disease, lymph nodes of head, face, and neck",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8412,"Sezary disease, intrathoracic lymph nodes",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8413,"Sezary disease, intra-abdominal lymph nodes",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8414,"Sezary disease, lymph nodes of axilla and upper limb",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8415,"Sezary disease, lymph nodes of inguinal region and lower limb",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8416,"Sezary disease, intrapelvic lymph nodes",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8417,"Sezary disease, spleen",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8418,"Sezary disease, lymph nodes of multiple sites",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8419,"Sezary disease, extranodal and solid organ sites",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8440,"Peripheral T-cell lymphoma, not classified, unspecified site",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8441,"Peripheral T-cell lymphoma, not classified, lymph nodes of head, face, and neck",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8442,"Peripheral T-cell lymphoma, not classified, intrathoracic lymph nodes",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8443,"Peripheral T-cell lymphoma, not classified, intra-abdominal lymph nodes",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8444,"Peripheral T-cell lymphoma, not classified, lymph nodes of axilla and upper limb",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8445,"Peripheral T-cell lymphoma, not classified, lymph nodes of inguinal region and lower limb",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8446,"Peripheral T-cell lymphoma, not classified, intrapelvic lymph nodes",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8447,"Peripheral T-cell lymphoma, not classified, spleen",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8448,"Peripheral T-cell lymphoma, not classified, lymph nodes of multiple sites",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8449,"Peripheral T-cell lymphoma, not classified, extranodal and solid organ sites",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8460,"Anaplastic large cell lymphoma, ALK-positive, unspecified site",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8461,"Anaplastic large cell lymphoma, ALK-positive, lymph nodes of head, face, and neck",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8462,"Anaplastic large cell lymphoma, ALK-positive, intrathoracic lymph nodes",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8463,"Anaplastic large cell lymphoma, ALK-positive, intra-abdominal lymph nodes",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8464,"Anaplastic large cell lymphoma, ALK-positive, lymph nodes of axilla and upper limb",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8465,"Anaplastic large cell lymphoma, ALK-positive, lymph nodes of inguinal region and lower limb",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8466,"Anaplastic large cell lymphoma, ALK-positive, intrapelvic lymph nodes",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8467,"Anaplastic large cell lymphoma, ALK-positive, spleen",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8468,"Anaplastic large cell lymphoma, ALK-positive, lymph nodes of multiple sites",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8469,"Anaplastic large cell lymphoma, ALK-positive, extranodal and solid organ sites",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8470,"Anaplastic large cell lymphoma, ALK-negative, unspecified site",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8471,"Anaplastic large cell lymphoma, ALK-negative, lymph nodes of head, face, and neck",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8472,"Anaplastic large cell lymphoma, ALK-negative, intrathoracic lymph nodes",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8473,"Anaplastic large cell lymphoma, ALK-negative, intra-abdominal lymph nodes",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8474,"Anaplastic large cell lymphoma, ALK-negative, lymph nodes of axilla and upper limb",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8475,"Anaplastic large cell lymphoma, ALK-negative, lymph nodes of inguinal region and lower limb",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8476,"Anaplastic large cell lymphoma, ALK-negative, intrapelvic lymph nodes",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8477,"Anaplastic large cell lymphoma, ALK-negative, spleen",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8478,"Anaplastic large cell lymphoma, ALK-negative, lymph nodes of multiple sites",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8479,"Anaplastic large cell lymphoma, ALK-negative, extranodal and solid organ sites",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C847A,"Anaplastic large cell lymphoma, ALK-negative, breast",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8490,"Mature T/NK-cell lymphomas, unspecified, unspecified site",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8491,"Mature T/NK-cell lymphomas, unspecified, lymph nodes of head, face, and neck",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8492,"Mature T/NK-cell lymphomas, unspecified, intrathoracic lymph nodes",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8493,"Mature T/NK-cell lymphomas, unspecified, intra-abdominal lymph nodes",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8494,"Mature T/NK-cell lymphomas, unspecified, lymph nodes of axilla and upper limb",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8495,"Mature T/NK-cell lymphomas, unspecified, lymph nodes of inguinal region and lower limb",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8496,"Mature T/NK-cell lymphomas, unspecified, intrapelvic lymph nodes",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8497,"Mature T/NK-cell lymphomas, unspecified, spleen",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8498,"Mature T/NK-cell lymphomas, unspecified, lymph nodes of multiple sites",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8499,"Mature T/NK-cell lymphomas, unspecified, extranodal and solid organ sites",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C84A0,"Cutaneous T-cell lymphoma, unspecified, unspecified site",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C84A1,"Cutaneous T-cell lymphoma, unspecified lymph nodes of head, face, and neck",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C84A2,"Cutaneous T-cell lymphoma, unspecified, intrathoracic lymph nodes",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C84A3,"Cutaneous T-cell lymphoma, unspecified, intra-abdominal lymph nodes",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C84A4,"Cutaneous T-cell lymphoma, unspecified, lymph nodes of axilla and upper limb",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C84A5,"Cutaneous T-cell lymphoma, unspecified, lymph nodes of inguinal region and lower limb",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C84A6,"Cutaneous T-cell lymphoma, unspecified, intrapelvic lymph nodes",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C84A7,"Cutaneous T-cell lymphoma, unspecified, spleen",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C84A8,"Cutaneous T-cell lymphoma, unspecified, lymph nodes of multiple sites",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C84A9,"Cutaneous T-cell lymphoma, unspecified, extranodal and solid organ sites",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C84Z0,"Other mature T/NK-cell lymphomas, unspecified site",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C84Z1,"Other mature T/NK-cell lymphomas, lymph nodes of head, face, and neck",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C84Z2,"Other mature T/NK-cell lymphomas, intrathoracic lymph nodes",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C84Z3,"Other mature T/NK-cell lymphomas, intra-abdominal lymph nodes",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C84Z4,"Other mature T/NK-cell lymphomas, lymph nodes of axilla and upper limb",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C84Z5,"Other mature T/NK-cell lymphomas, lymph nodes of inguinal region and lower limb",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C84Z6,"Other mature T/NK-cell lymphomas, intrapelvic lymph nodes",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C84Z7,"Other mature T/NK-cell lymphomas, spleen",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C84Z8,"Other mature T/NK-cell lymphomas, lymph nodes of multiple sites",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C84Z9,"Other mature T/NK-cell lymphomas, extranodal and solid organ sites",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8510,"Unspecified B-cell lymphoma, unspecified site",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8511,"Unspecified B-cell lymphoma, lymph nodes of head, face, and neck",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8512,"Unspecified B-cell lymphoma, intrathoracic lymph nodes",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8513,"Unspecified B-cell lymphoma, intra-abdominal lymph nodes",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8514,"Unspecified B-cell lymphoma, lymph nodes of axilla and upper limb",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8515,"Unspecified B-cell lymphoma, lymph nodes of inguinal region and lower limb",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8516,"Unspecified B-cell lymphoma, intrapelvic lymph nodes",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8517,"Unspecified B-cell lymphoma, spleen",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8518,"Unspecified B-cell lymphoma, lymph nodes of multiple sites",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8519,"Unspecified B-cell lymphoma, extranodal and solid organ sites",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8520,"Mediastinal (thymic) large B-cell lymphoma, unspecified site",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8521,"Mediastinal (thymic) large B-cell lymphoma, lymph nodes of head, face, and neck",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8522,"Mediastinal (thymic) large B-cell lymphoma, intrathoracic lymph nodes",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8523,"Mediastinal (thymic) large B-cell lymphoma, intra-abdominal lymph nodes",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8524,"Mediastinal (thymic) large B-cell lymphoma, lymph nodes of axilla and upper limb",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8525,"Mediastinal (thymic) large B-cell lymphoma, lymph nodes of inguinal region and lower limb",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8526,"Mediastinal (thymic) large B-cell lymphoma, intrapelvic lymph nodes",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8527,"Mediastinal (thymic) large B-cell lymphoma, spleen",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8528,"Mediastinal (thymic) large B-cell lymphoma, lymph nodes of multiple sites",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8529,"Mediastinal (thymic) large B-cell lymphoma, extranodal and solid organ sites",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8580,"Other specified types of non-Hodgkin lymphoma, unspecified site",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8581,"Other specified types of non-Hodgkin lymphoma, lymph nodes of head, face, and neck",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8582,"Other specified types of non-Hodgkin lymphoma, intrathoracic lymph nodes",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8583,"Other specified types of non-Hodgkin lymphoma, intra-abdominal lymph nodes",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8584,"Other specified types of non-Hodgkin lymphoma, lymph nodes of axilla and upper limb",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8585,"Other specified types of non-Hodgkin lymphoma, lymph nodes of inguinal region and lower limb",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8586,"Other specified types of non-Hodgkin lymphoma, intrapelvic lymph nodes",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8587,"Other specified types of non-Hodgkin lymphoma, spleen",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8588,"Other specified types of non-Hodgkin lymphoma, lymph nodes of multiple sites",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8589,"Other specified types of non-Hodgkin lymphoma, extranodal and solid organ sites",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8590,"Non-Hodgkin lymphoma, unspecified, unspecified site",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8591,"Non-Hodgkin lymphoma, unspecified, lymph nodes of head, face, and neck",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8592,"Non-Hodgkin lymphoma, unspecified, intrathoracic lymph nodes",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8593,"Non-Hodgkin lymphoma, unspecified, intra-abdominal lymph nodes",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8594,"Non-Hodgkin lymphoma, unspecified, lymph nodes of axilla and upper limb",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8595,"Non-Hodgkin lymphoma, unspecified, lymph nodes of inguinal region and lower limb",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8596,"Non-Hodgkin lymphoma, unspecified, intrapelvic lymph nodes",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8597,"Non-Hodgkin lymphoma, unspecified, spleen",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8598,"Non-Hodgkin lymphoma, unspecified, lymph nodes of multiple sites",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C8599,"Non-Hodgkin lymphoma, unspecified, extranodal and solid organ sites",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C860,"Extranodal NK/T-cell lymphoma, nasal type",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C861,Hepatosplenic T-cell lymphoma,cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C862,Enteropathy-type (intestinal) T-cell lymphoma,cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C863,Subcutaneous panniculitis-like T-cell lymphoma,cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C864,Blastic NK-cell lymphoma,cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C865,Angioimmunoblastic T-cell lymphoma,cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C866,Primary cutaneous CD30-positive T-cell proliferations,cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C880,Waldenstrom macroglobulinemia,cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C882,Heavy chain disease,cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C883,Immunoproliferative small intestinal disease,cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C884,Extranodal marginal zone B-cell lymphoma of mucosa-associated lymphoid tissue [MALT-lymphoma],cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C888,Other malignant immunoproliferative diseases,cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C889,"Malignant immunoproliferative disease, unspecified",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C9000,Multiple myeloma not having achieved remission,cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C9001,Multiple myeloma in remission,cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C9002,Multiple myeloma in relapse,cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C9020,Extramedullary plasmacytoma not having achieved remission,cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C9021,Extramedullary plasmacytoma in remission,cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C9022,Extramedullary plasmacytoma in relapse,cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C9030,Solitary plasmacytoma not having achieved remission,cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C9031,Solitary plasmacytoma in remission,cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C9032,Solitary plasmacytoma in relapse,cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C960,Multifocal and multisystemic (disseminated) Langerhans-cell histiocytosis,cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C962,Malignant mast cell tumor,cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C9620,"Malignant mast cell neoplasm, unspecified",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C9621,Aggressive systemic mastocytosis,cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C9622,Mast cell sarcoma,cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C9629,Other malignant mast cell neoplasm,cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C964,Sarcoma of dendritic cells (accessory cells),cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C969,"Malignant neoplasm of lymphoid, hematopoietic and related tissue, unspecified",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C96A,Histiocytic sarcoma,cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C96Z,"Other specified malignant neoplasms of lymphoid, hematopoietic and related tissue",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,D47Z9,"Other specified neoplasms of uncertain behavior of lymphoid, hematopoietic and related tissue",cancer_lymph,Cancer – Lymphoma (does not require POA flags),elix_cancer
+0,C770,"Secondary and unspecified malignant neoplasm of lymph nodes of head, face and neck",cancer_tumor,Cancer – Solid Tumor with Mets (does not require POA flags),elix_cancer
+0,C771,Secondary and unspecified malignant neoplasm of intrathoracic lymph nodes,cancer_tumor,Cancer – Solid Tumor with Mets (does not require POA flags),elix_cancer
+0,C772,Secondary and unspecified malignant neoplasm of intra-abdominal lymph nodes,cancer_tumor,Cancer – Solid Tumor with Mets (does not require POA flags),elix_cancer
+0,C773,Secondary and unspecified malignant neoplasm of axilla and upper limb lymph nodes,cancer_tumor,Cancer – Solid Tumor with Mets (does not require POA flags),elix_cancer
+0,C774,Secondary and unspecified malignant neoplasm of inguinal and lower limb lymph nodes,cancer_tumor,Cancer – Solid Tumor with Mets (does not require POA flags),elix_cancer
+0,C775,Secondary and unspecified malignant neoplasm of intrapelvic lymph nodes,cancer_tumor,Cancer – Solid Tumor with Mets (does not require POA flags),elix_cancer
+0,C778,Secondary and unspecified malignant neoplasm of lymph nodes of multiple regions,cancer_tumor,Cancer – Solid Tumor with Mets (does not require POA flags),elix_cancer
+0,C779,"Secondary and unspecified malignant neoplasm of lymph node, unspecified",cancer_tumor,Cancer – Solid Tumor with Mets (does not require POA flags),elix_cancer
+0,C7800,Secondary malignant neoplasm of unspecified lung,cancer_tumor,Cancer – Solid Tumor with Mets (does not require POA flags),elix_cancer
+0,C7801,Secondary malignant neoplasm of right lung,cancer_tumor,Cancer – Solid Tumor with Mets (does not require POA flags),elix_cancer
+0,C7802,Secondary malignant neoplasm of left lung,cancer_tumor,Cancer – Solid Tumor with Mets (does not require POA flags),elix_cancer
+0,C781,Secondary malignant neoplasm of mediastinum,cancer_tumor,Cancer – Solid Tumor with Mets (does not require POA flags),elix_cancer
+0,C782,Secondary malignant neoplasm of pleura,cancer_tumor,Cancer – Solid Tumor with Mets (does not require POA flags),elix_cancer
+0,C7830,Secondary malignant neoplasm of unspecified respiratory organ,cancer_tumor,Cancer – Solid Tumor with Mets (does not require POA flags),elix_cancer
+0,C7839,Secondary malignant neoplasm of other respiratory organs,cancer_tumor,Cancer – Solid Tumor with Mets (does not require POA flags),elix_cancer
+0,C784,Secondary malignant neoplasm of small intestine,cancer_tumor,Cancer – Solid Tumor with Mets (does not require POA flags),elix_cancer
+0,C785,Secondary malignant neoplasm of large intestine and rectum,cancer_tumor,Cancer – Solid Tumor with Mets (does not require POA flags),elix_cancer
+0,C786,Secondary malignant neoplasm of retroperitoneum and peritoneum,cancer_tumor,Cancer – Solid Tumor with Mets (does not require POA flags),elix_cancer
+0,C787,Secondary malignant neoplasm of liver and intrahepatic bile duct,cancer_tumor,Cancer – Solid Tumor with Mets (does not require POA flags),elix_cancer
+0,C7880,Secondary malignant neoplasm of unspecified digestive organ,cancer_tumor,Cancer – Solid Tumor with Mets (does not require POA flags),elix_cancer
+0,C7889,Secondary malignant neoplasm of other digestive organs,cancer_tumor,Cancer – Solid Tumor with Mets (does not require POA flags),elix_cancer
+0,C7900,Secondary malignant neoplasm of unspecified kidney and renal pelvis,cancer_tumor,Cancer – Solid Tumor with Mets (does not require POA flags),elix_cancer
+0,C7901,Secondary malignant neoplasm of right kidney and renal pelvis,cancer_tumor,Cancer – Solid Tumor with Mets (does not require POA flags),elix_cancer
+0,C7902,Secondary malignant neoplasm of left kidney and renal pelvis,cancer_tumor,Cancer – Solid Tumor with Mets (does not require POA flags),elix_cancer
+0,C7910,Secondary malignant neoplasm of unspecified urinary organs,cancer_tumor,Cancer – Solid Tumor with Mets (does not require POA flags),elix_cancer
+0,C7911,Secondary malignant neoplasm of bladder,cancer_tumor,Cancer – Solid Tumor with Mets (does not require POA flags),elix_cancer
+0,C7919,Secondary malignant neoplasm of other urinary organs,cancer_tumor,Cancer – Solid Tumor with Mets (does not require POA flags),elix_cancer
+0,C792,Secondary malignant neoplasm of skin,cancer_tumor,Cancer – Solid Tumor with Mets (does not require POA flags),elix_cancer
+0,C7931,Secondary malignant neoplasm of brain,cancer_tumor,Cancer – Solid Tumor with Mets (does not require POA flags),elix_cancer
+0,C7932,Secondary malignant neoplasm of cerebral meninges,cancer_tumor,Cancer – Solid Tumor with Mets (does not require POA flags),elix_cancer
+0,C7940,Secondary malignant neoplasm of unspecified part of nervous system,cancer_tumor,Cancer – Solid Tumor with Mets (does not require POA flags),elix_cancer
+0,C7949,Secondary malignant neoplasm of other parts of nervous system,cancer_tumor,Cancer – Solid Tumor with Mets (does not require POA flags),elix_cancer
+0,C7951,Secondary malignant neoplasm of bone,cancer_tumor,Cancer – Solid Tumor with Mets (does not require POA flags),elix_cancer
+0,C7952,Secondary malignant neoplasm of bone marrow,cancer_tumor,Cancer – Solid Tumor with Mets (does not require POA flags),elix_cancer
+0,C7960,Secondary malignant neoplasm of unspecified ovary,cancer_tumor,Cancer – Solid Tumor with Mets (does not require POA flags),elix_cancer
+0,C7961,Secondary malignant neoplasm of right ovary,cancer_tumor,Cancer – Solid Tumor with Mets (does not require POA flags),elix_cancer
+0,C7962,Secondary malignant neoplasm of left ovary,cancer_tumor,Cancer – Solid Tumor with Mets (does not require POA flags),elix_cancer
+0,C7963,Secondary malignant neoplasm of bilateral ovaries,cancer_tumor,Cancer – Solid Tumor with Mets (does not require POA flags),elix_cancer
+0,C7970,Secondary malignant neoplasm of unspecified adrenal gland,cancer_tumor,Cancer – Solid Tumor with Mets (does not require POA flags),elix_cancer
+0,C7971,Secondary malignant neoplasm of right adrenal gland,cancer_tumor,Cancer – Solid Tumor with Mets (does not require POA flags),elix_cancer
+0,C7972,Secondary malignant neoplasm of left adrenal gland,cancer_tumor,Cancer – Solid Tumor with Mets (does not require POA flags),elix_cancer
+0,C7981,Secondary malignant neoplasm of breast,cancer_tumor,Cancer – Solid Tumor with Mets (does not require POA flags),elix_cancer
+0,C7982,Secondary malignant neoplasm of genital organs,cancer_tumor,Cancer – Solid Tumor with Mets (does not require POA flags),elix_cancer
+0,C7989,Secondary malignant neoplasm of other specified sites,cancer_tumor,Cancer – Solid Tumor with Mets (does not require POA flags),elix_cancer
+0,C799,Secondary malignant neoplasm of unspecified site,cancer_tumor,Cancer – Solid Tumor with Mets (does not require POA flags),elix_cancer
+0,C7B00,"Secondary carcinoid tumors, unspecified site",cancer_tumor,Cancer – Solid Tumor with Mets (does not require POA flags),elix_cancer
+0,C7B01,Secondary carcinoid tumors of distant lymph nodes,cancer_tumor,Cancer – Solid Tumor with Mets (does not require POA flags),elix_cancer
+0,C7B02,Secondary carcinoid tumors of liver,cancer_tumor,Cancer – Solid Tumor with Mets (does not require POA flags),elix_cancer
+0,C7B03,Secondary carcinoid tumors of bone,cancer_tumor,Cancer – Solid Tumor with Mets (does not require POA flags),elix_cancer
+0,C7B04,Secondary carcinoid tumors of peritoneum,cancer_tumor,Cancer – Solid Tumor with Mets (does not require POA flags),elix_cancer
+0,C7B09,Secondary carcinoid tumors of other sites,cancer_tumor,Cancer – Solid Tumor with Mets (does not require POA flags),elix_cancer
+0,C7B1,Secondary Merkel cell carcinoma,cancer_tumor,Cancer – Solid Tumor with Mets (does not require POA flags),elix_cancer
+0,C7B8,Other secondary neuroendocrine tumors,cancer_tumor,Cancer – Solid Tumor with Mets (does not require POA flags),elix_cancer
+0,C800,"Disseminated malignant neoplasm, unspecified",cancer_tumor,Cancer – Solid Tumor with Mets (does not require POA flags),elix_cancer
+0,C000,Malignant neoplasm of external upper lip,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C001,Malignant neoplasm of external lower lip,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C002,"Malignant neoplasm of external lip, unspecified",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C003,"Malignant neoplasm of upper lip, inner aspect",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C004,"Malignant neoplasm of lower lip, inner aspect",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C005,"Malignant neoplasm of lip, unspecified, inner aspect",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C006,"Malignant neoplasm of commissure of lip, unspecified",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C008,Malignant neoplasm of overlapping sites of lip,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C009,"Malignant neoplasm of lip, unspecified",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C01,Malignant neoplasm of base of tongue,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C020,Malignant neoplasm of dorsal surface of tongue,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C021,Malignant neoplasm of border of tongue,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C022,Malignant neoplasm of ventral surface of tongue,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C023,"Malignant neoplasm of anterior two-thirds of tongue, part unspecified",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C024,Malignant neoplasm of lingual tonsil,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C028,Malignant neoplasm of overlapping sites of tongue,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C029,"Malignant neoplasm of tongue, unspecified",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C030,Malignant neoplasm of upper gum,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C031,Malignant neoplasm of lower gum,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C039,"Malignant neoplasm of gum, unspecified",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C040,Malignant neoplasm of anterior floor of mouth,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C041,Malignant neoplasm of lateral floor of mouth,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C048,Malignant neoplasm of overlapping sites of floor of mouth,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C049,"Malignant neoplasm of floor of mouth, unspecified",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C050,Malignant neoplasm of hard palate,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C051,Malignant neoplasm of soft palate,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C052,Malignant neoplasm of uvula,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C058,Malignant neoplasm of overlapping sites of palate,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C059,"Malignant neoplasm of palate, unspecified",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C060,Malignant neoplasm of cheek mucosa,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C061,Malignant neoplasm of vestibule of mouth,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C062,Malignant neoplasm of retromolar area,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C0680,Malignant neoplasm of overlapping sites of unspecified parts of mouth,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C0689,Malignant neoplasm of overlapping sites of other parts of mouth,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C069,"Malignant neoplasm of mouth, unspecified",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C07,Malignant neoplasm of parotid gland,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C080,Malignant neoplasm of submandibular gland,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C081,Malignant neoplasm of sublingual gland,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C089,"Malignant neoplasm of major salivary gland, unspecified",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C090,Malignant neoplasm of tonsillar fossa,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C091,Malignant neoplasm of tonsillar pillar (anterior) (posterior),cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C098,Malignant neoplasm of overlapping sites of tonsil,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C099,"Malignant neoplasm of tonsil, unspecified",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C100,Malignant neoplasm of vallecula,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C101,Malignant neoplasm of anterior surface of epiglottis,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C102,Malignant neoplasm of lateral wall of oropharynx,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C103,Malignant neoplasm of posterior wall of oropharynx,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C104,Malignant neoplasm of branchial cleft,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C108,Malignant neoplasm of overlapping sites of oropharynx,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C109,"Malignant neoplasm of oropharynx, unspecified",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C110,Malignant neoplasm of superior wall of nasopharynx,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C111,Malignant neoplasm of posterior wall of nasopharynx,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C112,Malignant neoplasm of lateral wall of nasopharynx,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C113,Malignant neoplasm of anterior wall of nasopharynx,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C118,Malignant neoplasm of overlapping sites of nasopharynx,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C119,"Malignant neoplasm of nasopharynx, unspecified",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C12,Malignant neoplasm of pyriform sinus,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C130,Malignant neoplasm of postcricoid region,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C131,"Malignant neoplasm of aryepiglottic fold, hypopharyngeal aspect",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C132,Malignant neoplasm of posterior wall of hypopharynx,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C138,Malignant neoplasm of overlapping sites of hypopharynx,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C139,"Malignant neoplasm of hypopharynx, unspecified",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C140,"Malignant neoplasm of pharynx, unspecified",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C142,Malignant neoplasm of Waldeyer's ring,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C148,"Malignant neoplasm of overlapping sites of lip, oral cavity and pharynx",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C153,Malignant neoplasm of upper third of esophagus,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C154,Malignant neoplasm of middle third of esophagus,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C155,Malignant neoplasm of lower third of esophagus,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C158,Malignant neoplasm of overlapping sites of esophagus,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C159,"Malignant neoplasm of esophagus, unspecified",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C160,Malignant neoplasm of cardia,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C161,Malignant neoplasm of fundus of stomach,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C162,Malignant neoplasm of body of stomach,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C163,Malignant neoplasm of pyloric antrum,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C164,Malignant neoplasm of pylorus,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C165,"Malignant neoplasm of lesser curvature of stomach, unspecified",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C166,"Malignant neoplasm of greater curvature of stomach, unspecified",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C168,Malignant neoplasm of overlapping sites of stomach,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C169,"Malignant neoplasm of stomach, unspecified",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C170,Malignant neoplasm of duodenum,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C171,Malignant neoplasm of jejunum,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C172,Malignant neoplasm of ileum,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C173,"Meckel's diverticulum, malignant",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C178,Malignant neoplasm of overlapping sites of small intestine,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C179,"Malignant neoplasm of small intestine, unspecified",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C180,Malignant neoplasm of cecum,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C181,Malignant neoplasm of appendix,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C182,Malignant neoplasm of ascending colon,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C183,Malignant neoplasm of hepatic flexure,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C184,Malignant neoplasm of transverse colon,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C185,Malignant neoplasm of splenic flexure,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C186,Malignant neoplasm of descending colon,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C187,Malignant neoplasm of sigmoid colon,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C188,Malignant neoplasm of overlapping sites of colon,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C189,"Malignant neoplasm of colon, unspecified",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C19,Malignant neoplasm of rectosigmoid junction,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C20,Malignant neoplasm of rectum,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C210,"Malignant neoplasm of anus, unspecified",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C211,Malignant neoplasm of anal canal,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C212,Malignant neoplasm of cloacogenic zone,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C218,"Malignant neoplasm of overlapping sites of rectum, anus and anal canal",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C220,Liver cell carcinoma,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C221,Intrahepatic bile duct carcinoma,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C222,Hepatoblastoma,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C223,Angiosarcoma of liver,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C224,Other sarcomas of liver,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C227,Other specified carcinomas of liver,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C228,"Malignant neoplasm of liver, primary, unspecified as to type",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C229,"Malignant neoplasm of liver, not specified as primary or secondary",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C23,Malignant neoplasm of gallbladder,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C240,Malignant neoplasm of extrahepatic bile duct,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C241,Malignant neoplasm of ampulla of Vater,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C248,Malignant neoplasm of overlapping sites of biliary tract,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C249,"Malignant neoplasm of biliary tract, unspecified",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C250,Malignant neoplasm of head of pancreas,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C251,Malignant neoplasm of body of pancreas,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C252,Malignant neoplasm of tail of pancreas,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C253,Malignant neoplasm of pancreatic duct,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C254,Malignant neoplasm of endocrine pancreas,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C257,Malignant neoplasm of other parts of pancreas,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C258,Malignant neoplasm of overlapping sites of pancreas,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C259,"Malignant neoplasm of pancreas, unspecified",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C260,"Malignant neoplasm of intestinal tract, part unspecified",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C261,Malignant neoplasm of spleen,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C269,Malignant neoplasm of ill-defined sites within the digestive system,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C300,Malignant neoplasm of nasal cavity,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C301,Malignant neoplasm of middle ear,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C310,Malignant neoplasm of maxillary sinus,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C311,Malignant neoplasm of ethmoidal sinus,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C312,Malignant neoplasm of frontal sinus,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C313,Malignant neoplasm of sphenoid sinus,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C318,Malignant neoplasm of overlapping sites of accessory sinuses,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C319,"Malignant neoplasm of accessory sinus, unspecified",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C320,Malignant neoplasm of glottis,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C321,Malignant neoplasm of supraglottis,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C322,Malignant neoplasm of subglottis,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C323,Malignant neoplasm of laryngeal cartilage,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C328,Malignant neoplasm of overlapping sites of larynx,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C329,"Malignant neoplasm of larynx, unspecified",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C33,Malignant neoplasm of trachea,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C3400,Malignant neoplasm of unspecified main bronchus,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C3401,Malignant neoplasm of right main bronchus,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C3402,Malignant neoplasm of left main bronchus,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C3410,"Malignant neoplasm of upper lobe, unspecified bronchus or lung",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C3411,"Malignant neoplasm of upper lobe, right bronchus or lung",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C3412,"Malignant neoplasm of upper lobe, left bronchus or lung",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C342,"Malignant neoplasm of middle lobe, bronchus or lung",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C3430,"Malignant neoplasm of lower lobe, unspecified bronchus or lung",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C3431,"Malignant neoplasm of lower lobe, right bronchus or lung",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C3432,"Malignant neoplasm of lower lobe, left bronchus or lung",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C3480,Malignant neoplasm of overlapping sites of unspecified bronchus and lung,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C3481,Malignant neoplasm of overlapping sites of right bronchus and lung,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C3482,Malignant neoplasm of overlapping sites of left bronchus and lung,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C3490,Malignant neoplasm of unspecified part of unspecified bronchus or lung,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C3491,Malignant neoplasm of unspecified part of right bronchus or lung,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C3492,Malignant neoplasm of unspecified part of left bronchus or lung,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C37,Malignant neoplasm of thymus,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C380,Malignant neoplasm of heart,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C381,Malignant neoplasm of anterior mediastinum,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C382,Malignant neoplasm of posterior mediastinum,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C383,"Malignant neoplasm of mediastinum, part unspecified",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C384,Malignant neoplasm of pleura,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C388,"Malignant neoplasm of overlapping sites of heart, mediastinum and pleura",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C390,"Malignant neoplasm of upper respiratory tract, part unspecified",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C399,"Malignant neoplasm of lower respiratory tract, part unspecified",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C4000,Malignant neoplasm of scapula and long bones of unspecified upper limb,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C4001,Malignant neoplasm of scapula and long bones of right upper limb,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C4002,Malignant neoplasm of scapula and long bones of left upper limb,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C4010,Malignant neoplasm of short bones of unspecified upper limb,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C4011,Malignant neoplasm of short bones of right upper limb,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C4012,Malignant neoplasm of short bones of left upper limb,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C4020,Malignant neoplasm of long bones of unspecified lower limb,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C4021,Malignant neoplasm of long bones of right lower limb,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C4022,Malignant neoplasm of long bones of left lower limb,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C4030,Malignant neoplasm of short bones of unspecified lower limb,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C4031,Malignant neoplasm of short bones of right lower limb,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C4032,Malignant neoplasm of short bones of left lower limb,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C4080,Malignant neoplasm of overlapping sites of bone and articular cartilage of unspecified limb,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C4081,Malignant neoplasm of overlapping sites of bone and articular cartilage of right limb,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C4082,Malignant neoplasm of overlapping sites of bone and articular cartilage of left limb,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C4090,Malignant neoplasm of unspecified bones and articular cartilage of unspecified limb,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C4091,Malignant neoplasm of unspecified bones and articular cartilage of right limb,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C4092,Malignant neoplasm of unspecified bones and articular cartilage of left limb,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C410,Malignant neoplasm of bones of skull and face,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C411,Malignant neoplasm of mandible,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C412,Malignant neoplasm of vertebral column,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C413,"Malignant neoplasm of ribs, sternum and clavicle",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C414,"Malignant neoplasm of pelvic bones, sacrum and coccyx",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C419,"Malignant neoplasm of bone and articular cartilage, unspecified",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C430,Malignant melanoma of lip,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C4310,"Malignant melanoma of unspecified eyelid, including canthus",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C4311,"Malignant melanoma of right eyelid, including canthus",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C43111,"Malignant melanoma of right upper eyelid, including canthus",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C43112,"Malignant melanoma of right lower eyelid, including canthus",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C4312,"Malignant melanoma of left eyelid, including canthus",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C43121,"Malignant melanoma of left upper eyelid, including canthus",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C43122,"Malignant melanoma of left lower eyelid, including canthus",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C4320,Malignant melanoma of unspecified ear and external auricular canal,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C4321,Malignant melanoma of right ear and external auricular canal,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C4322,Malignant melanoma of left ear and external auricular canal,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C4330,Malignant melanoma of unspecified part of face,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C4331,Malignant melanoma of nose,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C4339,Malignant melanoma of other parts of face,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C434,Malignant melanoma of scalp and neck,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C4351,Malignant melanoma of anal skin,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C4352,Malignant melanoma of skin of breast,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C4359,Malignant melanoma of other part of trunk,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C4360,"Malignant melanoma of unspecified upper limb, including shoulder",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C4361,"Malignant melanoma of right upper limb, including shoulder",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C4362,"Malignant melanoma of left upper limb, including shoulder",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C4370,"Malignant melanoma of unspecified lower limb, including hip",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C4371,"Malignant melanoma of right lower limb, including hip",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C4372,"Malignant melanoma of left lower limb, including hip",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C438,Malignant melanoma of overlapping sites of skin,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C439,"Malignant melanoma of skin, unspecified",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C4400,Unspecified malignant neoplasm of skin of lip,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C4409,Other specified malignant neoplasm of skin of lip,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C44101,"Unspecified malignant neoplasm of skin of unspecified eyelid, including canthus",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C44102,"Unspecified malignant neoplasm of skin of right eyelid, including canthus",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C441021,"Unspecified malignant neoplasm of skin of right upper eyelid, including canthus",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C441022,"Unspecified malignant neoplasm of skin of right lower eyelid, including canthus",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C44109,"Unspecified malignant neoplasm of skin of left eyelid, including canthus",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C441091,"Unspecified malignant neoplasm of skin of left upper eyelid, including canthus",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C441092,"Unspecified malignant neoplasm of skin of left lower eyelid, including canthus",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C44131,"Sebaceous cell carcinoma of skin of unspecified eyelid, including canthus",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C441321,"Sebaceous cell carcinoma of skin of right upper eyelid, including canthus",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C441322,"Sebaceous cell carcinoma of skin of right lower eyelid, including canthus",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C441391,"Sebaceous cell carcinoma of skin of left upper eyelid, including canthus",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C441392,"Sebaceous cell carcinoma of skin of left lower eyelid, including canthus",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C44191,"Other specified malignant neoplasm of skin of unspecified eyelid, including canthus",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C44192,"Other specified malignant neoplasm of skin of right eyelid, including canthus",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C441921,"Other specified malignant neoplasm of skin of right upper eyelid, including canthus",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C441922,"Other specified malignant neoplasm of skin of right lower eyelid, including canthus",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C44199,"Other specified malignant neoplasm of skin of left eyelid, including canthus",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C441991,"Other specified malignant neoplasm of skin of left upper eyelid, including canthus",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C441992,"Other specified malignant neoplasm of skin of left lower eyelid, including canthus",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C44201,Unspecified malignant neoplasm of skin of unspecified ear and external auricular canal,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C44202,Unspecified malignant neoplasm of skin of right ear and external auricular canal,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C44209,Unspecified malignant neoplasm of skin of left ear and external auricular canal,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C44291,Other specified malignant neoplasm of skin of unspecified ear and external auricular canal,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C44292,Other specified malignant neoplasm of skin of right ear and external auricular canal,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C44299,Other specified malignant neoplasm of skin of left ear and external auricular canal,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C44300,Unspecified malignant neoplasm of skin of unspecified part of face,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C44301,Unspecified malignant neoplasm of skin of nose,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C44309,Unspecified malignant neoplasm of skin of other parts of face,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C44390,Other specified malignant neoplasm of skin of unspecified parts of face,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C44391,Other specified malignant neoplasm of skin of nose,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C44399,Other specified malignant neoplasm of skin of other parts of face,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C4440,Unspecified malignant neoplasm of skin of scalp and neck,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C4449,Other specified malignant neoplasm of skin of scalp and neck,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C44500,Unspecified malignant neoplasm of anal skin,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C44501,Unspecified malignant neoplasm of skin of breast,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C44509,Unspecified malignant neoplasm of skin of other part of trunk,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C44590,Other specified malignant neoplasm of anal skin,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C44591,Other specified malignant neoplasm of skin of breast,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C44599,Other specified malignant neoplasm of skin of other part of trunk,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C44601,"Unspecified malignant neoplasm of skin of unspecified upper limb, including shoulder",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C44602,"Unspecified malignant neoplasm of skin of right upper limb, including shoulder",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C44609,"Unspecified malignant neoplasm of skin of left upper limb, including shoulder",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C44691,"Other specified malignant neoplasm of skin of unspecified upper limb, including shoulder",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C44692,"Other specified malignant neoplasm of skin of right upper limb, including shoulder",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C44699,"Other specified malignant neoplasm of skin of left upper limb, including shoulder",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C44701,"Unspecified malignant neoplasm of skin of unspecified lower limb, including hip",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C44702,"Unspecified malignant neoplasm of skin of right lower limb, including hip",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C44709,"Unspecified malignant neoplasm of skin of left lower limb, including hip",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C44791,"Other specified malignant neoplasm of skin of unspecified lower limb, including hip",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C44792,"Other specified malignant neoplasm of skin of right lower limb, including hip",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C44799,"Other specified malignant neoplasm of skin of left lower limb, including hip",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C4480,Unspecified malignant neoplasm of overlapping sites of skin,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C4489,Other specified malignant neoplasm of overlapping sites of skin,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C4490,"Unspecified malignant neoplasm of skin, unspecified",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C4499,"Other specified malignant neoplasm of skin, unspecified",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C450,Mesothelioma of pleura,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C451,Mesothelioma of peritoneum,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C452,Mesothelioma of pericardium,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C457,Mesothelioma of other sites,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C459,"Mesothelioma, unspecified",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C460,Kaposi's sarcoma of skin,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C461,Kaposi's sarcoma of soft tissue,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C462,Kaposi's sarcoma of palate,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C463,Kaposi's sarcoma of lymph nodes,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C464,Kaposi's sarcoma of gastrointestinal sites,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C4650,Kaposi's sarcoma of unspecified lung,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C4651,Kaposi's sarcoma of right lung,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C4652,Kaposi's sarcoma of left lung,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C467,Kaposi's sarcoma of other sites,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C469,"Kaposi's sarcoma, unspecified",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C470,"Malignant neoplasm of peripheral nerves of head, face and neck",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C4710,"Malignant neoplasm of peripheral nerves of unspecified upper limb, including shoulder",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C4711,"Malignant neoplasm of peripheral nerves of right upper limb, including shoulder",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C4712,"Malignant neoplasm of peripheral nerves of left upper limb, including shoulder",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C4720,"Malignant neoplasm of peripheral nerves of unspecified lower limb, including hip",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C4721,"Malignant neoplasm of peripheral nerves of right lower limb, including hip",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C4722,"Malignant neoplasm of peripheral nerves of left lower limb, including hip",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C473,Malignant neoplasm of peripheral nerves of thorax,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C474,Malignant neoplasm of peripheral nerves of abdomen,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C475,Malignant neoplasm of peripheral nerves of pelvis,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C476,"Malignant neoplasm of peripheral nerves of trunk, unspecified",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C478,Malignant neoplasm of overlapping sites of peripheral nerves and autonomic nervous system,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C479,"Malignant neoplasm of peripheral nerves and autonomic nervous system, unspecified",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C480,Malignant neoplasm of retroperitoneum,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C481,Malignant neoplasm of specified parts of peritoneum,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C482,"Malignant neoplasm of peritoneum, unspecified",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C488,Malignant neoplasm of overlapping sites of retroperitoneum and peritoneum,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C490,"Malignant neoplasm of connective and soft tissue of head, face and neck",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C4910,"Malignant neoplasm of connective and soft tissue of unspecified upper limb, including shoulder",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C4911,"Malignant neoplasm of connective and soft tissue of right upper limb, including shoulder",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C4912,"Malignant neoplasm of connective and soft tissue of left upper limb, including shoulder",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C4920,"Malignant neoplasm of connective and soft tissue of unspecified lower limb, including hip",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C4921,"Malignant neoplasm of connective and soft tissue of right lower limb, including hip",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C4922,"Malignant neoplasm of connective and soft tissue of left lower limb, including hip",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C493,Malignant neoplasm of connective and soft tissue of thorax,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C494,Malignant neoplasm of connective and soft tissue of abdomen,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C495,Malignant neoplasm of connective and soft tissue of pelvis,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C496,"Malignant neoplasm of connective and soft tissue of trunk, unspecified",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C498,Malignant neoplasm of overlapping sites of connective and soft tissue,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C499,"Malignant neoplasm of connective and soft tissue, unspecified",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C49A0,"Gastrointestinal stromal tumor, unspecified site",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C49A1,Gastrointestinal stromal tumor of esophagus,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C49A2,Gastrointestinal stromal tumor of stomach,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C49A3,Gastrointestinal stromal tumor of small intestine,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C49A4,Gastrointestinal stromal tumor of large intestine,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C49A5,Gastrointestinal stromal tumor of rectum,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C49A9,Gastrointestinal stromal tumor of other sites,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C4A0,Merkel cell carcinoma of lip,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C4A10,"Merkel cell carcinoma of unspecified eyelid, including canthus",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C4A11,"Merkel cell carcinoma of right eyelid, including canthus",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C4A111,"Merkel cell carcinoma of right upper eyelid, including canthus",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C4A112,"Merkel cell carcinoma of right lower eyelid, including canthus",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C4A12,"Merkel cell carcinoma of left eyelid, including canthus",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C4A121,"Merkel cell carcinoma of left upper eyelid, including canthus",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C4A122,"Merkel cell carcinoma of left lower eyelid, including canthus",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C4A20,Merkel cell carcinoma of unspecified ear and external auricular canal,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C4A21,Merkel cell carcinoma of right ear and external auricular canal,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C4A22,Merkel cell carcinoma of left ear and external auricular canal,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C4A30,Merkel cell carcinoma of unspecified part of face,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C4A31,Merkel cell carcinoma of nose,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C4A39,Merkel cell carcinoma of other parts of face,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C4A4,Merkel cell carcinoma of scalp and neck,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C4A51,Merkel cell carcinoma of anal skin,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C4A52,Merkel cell carcinoma of skin of breast,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C4A59,Merkel cell carcinoma of other part of trunk,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C4A60,"Merkel cell carcinoma of unspecified upper limb, including shoulder",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C4A61,"Merkel cell carcinoma of right upper limb, including shoulder",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C4A62,"Merkel cell carcinoma of left upper limb, including shoulder",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C4A70,"Merkel cell carcinoma of unspecified lower limb, including hip",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C4A71,"Merkel cell carcinoma of right lower limb, including hip",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C4A72,"Merkel cell carcinoma of left lower limb, including hip",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C4A8,Merkel cell carcinoma of overlapping sites,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C4A9,"Merkel cell carcinoma, unspecified",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C50011,"Malignant neoplasm of nipple and areola, right female breast",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C50012,"Malignant neoplasm of nipple and areola, left female breast",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C50019,"Malignant neoplasm of nipple and areola, unspecified female breast",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C50021,"Malignant neoplasm of nipple and areola, right male breast",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C50022,"Malignant neoplasm of nipple and areola, left male breast",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C50029,"Malignant neoplasm of nipple and areola, unspecified male breast",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C50111,Malignant neoplasm of central portion of right female breast,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C50112,Malignant neoplasm of central portion of left female breast,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C50119,Malignant neoplasm of central portion of unspecified female breast,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C50121,Malignant neoplasm of central portion of right male breast,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C50122,Malignant neoplasm of central portion of left male breast,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C50129,Malignant neoplasm of central portion of unspecified male breast,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C50211,Malignant neoplasm of upper-inner quadrant of right female breast,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C50212,Malignant neoplasm of upper-inner quadrant of left female breast,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C50219,Malignant neoplasm of upper-inner quadrant of unspecified female breast,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C50221,Malignant neoplasm of upper-inner quadrant of right male breast,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C50222,Malignant neoplasm of upper-inner quadrant of left male breast,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C50229,Malignant neoplasm of upper-inner quadrant of unspecified male breast,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C50311,Malignant neoplasm of lower-inner quadrant of right female breast,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C50312,Malignant neoplasm of lower-inner quadrant of left female breast,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C50319,Malignant neoplasm of lower-inner quadrant of unspecified female breast,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C50321,Malignant neoplasm of lower-inner quadrant of right male breast,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C50322,Malignant neoplasm of lower-inner quadrant of left male breast,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C50329,Malignant neoplasm of lower-inner quadrant of unspecified male breast,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C50411,Malignant neoplasm of upper-outer quadrant of right female breast,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C50412,Malignant neoplasm of upper-outer quadrant of left female breast,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C50419,Malignant neoplasm of upper-outer quadrant of unspecified female breast,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C50421,Malignant neoplasm of upper-outer quadrant of right male breast,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C50422,Malignant neoplasm of upper-outer quadrant of left male breast,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C50429,Malignant neoplasm of upper-outer quadrant of unspecified male breast,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C50511,Malignant neoplasm of lower-outer quadrant of right female breast,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C50512,Malignant neoplasm of lower-outer quadrant of left female breast,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C50519,Malignant neoplasm of lower-outer quadrant of unspecified female breast,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C50521,Malignant neoplasm of lower-outer quadrant of right male breast,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C50522,Malignant neoplasm of lower-outer quadrant of left male breast,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C50529,Malignant neoplasm of lower-outer quadrant of unspecified male breast,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C50611,Malignant neoplasm of axillary tail of right female breast,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C50612,Malignant neoplasm of axillary tail of left female breast,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C50619,Malignant neoplasm of axillary tail of unspecified female breast,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C50621,Malignant neoplasm of axillary tail of right male breast,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C50622,Malignant neoplasm of axillary tail of left male breast,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C50629,Malignant neoplasm of axillary tail of unspecified male breast,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C50811,Malignant neoplasm of overlapping sites of right female breast,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C50812,Malignant neoplasm of overlapping sites of left female breast,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C50819,Malignant neoplasm of overlapping sites of unspecified female breast,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C50821,Malignant neoplasm of overlapping sites of right male breast,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C50822,Malignant neoplasm of overlapping sites of left male breast,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C50829,Malignant neoplasm of overlapping sites of unspecified male breast,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C50911,Malignant neoplasm of unspecified site of right female breast,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C50912,Malignant neoplasm of unspecified site of left female breast,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C50919,Malignant neoplasm of unspecified site of unspecified female breast,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C50921,Malignant neoplasm of unspecified site of right male breast,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C50922,Malignant neoplasm of unspecified site of left male breast,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C50929,Malignant neoplasm of unspecified site of unspecified male breast,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C510,Malignant neoplasm of labium majus,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C511,Malignant neoplasm of labium minus,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C512,Malignant neoplasm of clitoris,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C518,Malignant neoplasm of overlapping sites of vulva,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C519,"Malignant neoplasm of vulva, unspecified",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C52,Malignant neoplasm of vagina,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C530,Malignant neoplasm of endocervix,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C531,Malignant neoplasm of exocervix,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C538,Malignant neoplasm of overlapping sites of cervix uteri,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C539,"Malignant neoplasm of cervix uteri, unspecified",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C540,Malignant neoplasm of isthmus uteri,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C541,Malignant neoplasm of endometrium,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C542,Malignant neoplasm of myometrium,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C543,Malignant neoplasm of fundus uteri,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C548,Malignant neoplasm of overlapping sites of corpus uteri,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C549,"Malignant neoplasm of corpus uteri, unspecified",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C55,"Malignant neoplasm of uterus, part unspecified",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C561,Malignant neoplasm of right ovary,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C562,Malignant neoplasm of left ovary,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C563,Malignant neoplasm of bilateral ovaries,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C569,Malignant neoplasm of unspecified ovary,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C5700,Malignant neoplasm of unspecified fallopian tube,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C5701,Malignant neoplasm of right fallopian tube,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C5702,Malignant neoplasm of left fallopian tube,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C5710,Malignant neoplasm of unspecified broad ligament,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C5711,Malignant neoplasm of right broad ligament,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C5712,Malignant neoplasm of left broad ligament,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C5720,Malignant neoplasm of unspecified round ligament,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C5721,Malignant neoplasm of right round ligament,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C5722,Malignant neoplasm of left round ligament,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C573,Malignant neoplasm of parametrium,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C574,"Malignant neoplasm of uterine adnexa, unspecified",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C577,Malignant neoplasm of other specified female genital organs,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C578,Malignant neoplasm of overlapping sites of female genital organs,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C579,"Malignant neoplasm of female genital organ, unspecified",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C58,Malignant neoplasm of placenta,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C600,Malignant neoplasm of prepuce,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C601,Malignant neoplasm of glans penis,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C602,Malignant neoplasm of body of penis,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C608,Malignant neoplasm of overlapping sites of penis,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C609,"Malignant neoplasm of penis, unspecified",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C61,Malignant neoplasm of prostate,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C6200,Malignant neoplasm of unspecified undescended testis,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C6201,Malignant neoplasm of undescended right testis,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C6202,Malignant neoplasm of undescended left testis,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C6210,Malignant neoplasm of unspecified descended testis,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C6211,Malignant neoplasm of descended right testis,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C6212,Malignant neoplasm of descended left testis,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C6290,"Malignant neoplasm of unspecified testis, unspecified whether descended or undescended",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C6291,"Malignant neoplasm of right testis, unspecified whether descended or undescended",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C6292,"Malignant neoplasm of left testis, unspecified whether descended or undescended",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C6300,Malignant neoplasm of unspecified epididymis,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C6301,Malignant neoplasm of right epididymis,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C6302,Malignant neoplasm of left epididymis,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C6310,Malignant neoplasm of unspecified spermatic cord,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C6311,Malignant neoplasm of right spermatic cord,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C6312,Malignant neoplasm of left spermatic cord,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C632,Malignant neoplasm of scrotum,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C637,Malignant neoplasm of other specified male genital organs,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C638,Malignant neoplasm of overlapping sites of male genital organs,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C639,"Malignant neoplasm of male genital organ, unspecified",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C641,"Malignant neoplasm of right kidney, except renal pelvis",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C642,"Malignant neoplasm of left kidney, except renal pelvis",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C649,"Malignant neoplasm of unspecified kidney, except renal pelvis",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C651,Malignant neoplasm of right renal pelvis,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C652,Malignant neoplasm of left renal pelvis,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C659,Malignant neoplasm of unspecified renal pelvis,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C661,Malignant neoplasm of right ureter,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C662,Malignant neoplasm of left ureter,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C669,Malignant neoplasm of unspecified ureter,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C670,Malignant neoplasm of trigone of bladder,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C671,Malignant neoplasm of dome of bladder,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C672,Malignant neoplasm of lateral wall of bladder,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C673,Malignant neoplasm of anterior wall of bladder,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C674,Malignant neoplasm of posterior wall of bladder,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C675,Malignant neoplasm of bladder neck,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C676,Malignant neoplasm of ureteric orifice,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C677,Malignant neoplasm of urachus,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C678,Malignant neoplasm of overlapping sites of bladder,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C679,"Malignant neoplasm of bladder, unspecified",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C680,Malignant neoplasm of urethra,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C681,Malignant neoplasm of paraurethral glands,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C688,Malignant neoplasm of overlapping sites of urinary organs,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C689,"Malignant neoplasm of urinary organ, unspecified",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C6900,Malignant neoplasm of unspecified conjunctiva,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C6901,Malignant neoplasm of right conjunctiva,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C6902,Malignant neoplasm of left conjunctiva,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C6910,Malignant neoplasm of unspecified cornea,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C6911,Malignant neoplasm of right cornea,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C6912,Malignant neoplasm of left cornea,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C6920,Malignant neoplasm of unspecified retina,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C6921,Malignant neoplasm of right retina,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C6922,Malignant neoplasm of left retina,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C6930,Malignant neoplasm of unspecified choroid,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C6931,Malignant neoplasm of right choroid,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C6932,Malignant neoplasm of left choroid,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C6940,Malignant neoplasm of unspecified ciliary body,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C6941,Malignant neoplasm of right ciliary body,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C6942,Malignant neoplasm of left ciliary body,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C6950,Malignant neoplasm of unspecified lacrimal gland and duct,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C6951,Malignant neoplasm of right lacrimal gland and duct,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C6952,Malignant neoplasm of left lacrimal gland and duct,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C6960,Malignant neoplasm of unspecified orbit,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C6961,Malignant neoplasm of right orbit,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C6962,Malignant neoplasm of left orbit,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C6980,Malignant neoplasm of overlapping sites of unspecified eye and adnexa,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C6981,Malignant neoplasm of overlapping sites of right eye and adnexa,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C6982,Malignant neoplasm of overlapping sites of left eye and adnexa,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C6990,Malignant neoplasm of unspecified site of unspecified eye,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C6991,Malignant neoplasm of unspecified site of right eye,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C6992,Malignant neoplasm of unspecified site of left eye,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C700,Malignant neoplasm of cerebral meninges,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C701,Malignant neoplasm of spinal meninges,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C709,"Malignant neoplasm of meninges, unspecified",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C710,"Malignant neoplasm of cerebrum, except lobes and ventricles",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C711,Malignant neoplasm of frontal lobe,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C712,Malignant neoplasm of temporal lobe,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C713,Malignant neoplasm of parietal lobe,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C714,Malignant neoplasm of occipital lobe,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C715,Malignant neoplasm of cerebral ventricle,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C716,Malignant neoplasm of cerebellum,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C717,Malignant neoplasm of brain stem,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C718,Malignant neoplasm of overlapping sites of brain,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C719,"Malignant neoplasm of brain, unspecified",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C720,Malignant neoplasm of spinal cord,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C721,Malignant neoplasm of cauda equina,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C7220,Malignant neoplasm of unspecified olfactory nerve,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C7221,Malignant neoplasm of right olfactory nerve,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C7222,Malignant neoplasm of left olfactory nerve,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C7230,Malignant neoplasm of unspecified optic nerve,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C7231,Malignant neoplasm of right optic nerve,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C7232,Malignant neoplasm of left optic nerve,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C7240,Malignant neoplasm of unspecified acoustic nerve,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C7241,Malignant neoplasm of right acoustic nerve,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C7242,Malignant neoplasm of left acoustic nerve,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C7250,Malignant neoplasm of unspecified cranial nerve,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C7259,Malignant neoplasm of other cranial nerves,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C729,"Malignant neoplasm of central nervous system, unspecified",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C73,Malignant neoplasm of thyroid gland,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C7400,Malignant neoplasm of cortex of unspecified adrenal gland,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C7401,Malignant neoplasm of cortex of right adrenal gland,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C7402,Malignant neoplasm of cortex of left adrenal gland,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C7410,Malignant neoplasm of medulla of unspecified adrenal gland,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C7411,Malignant neoplasm of medulla of right adrenal gland,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C7412,Malignant neoplasm of medulla of left adrenal gland,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C7490,Malignant neoplasm of unspecified part of unspecified adrenal gland,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C7491,Malignant neoplasm of unspecified part of right adrenal gland,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C7492,Malignant neoplasm of unspecified part of left adrenal gland,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C750,Malignant neoplasm of parathyroid gland,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C751,Malignant neoplasm of pituitary gland,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C752,Malignant neoplasm of craniopharyngeal duct,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C753,Malignant neoplasm of pineal gland,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C754,Malignant neoplasm of carotid body,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C755,Malignant neoplasm of aortic body and other paraganglia,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C758,"Malignant neoplasm with pluriglandular involvement, unspecified",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C759,"Malignant neoplasm of endocrine gland, unspecified",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C760,"Malignant neoplasm of head, face and neck",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C761,Malignant neoplasm of thorax,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C762,Malignant neoplasm of abdomen,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C763,Malignant neoplasm of pelvis,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C7640,Malignant neoplasm of unspecified upper limb,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C7641,Malignant neoplasm of right upper limb,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C7642,Malignant neoplasm of left upper limb,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C7650,Malignant neoplasm of unspecified lower limb,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C7651,Malignant neoplasm of right lower limb,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C7652,Malignant neoplasm of left lower limb,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C768,Malignant neoplasm of other specified ill-defined sites,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C7A00,Malignant carcinoid tumor of unspecified site,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C7A010,Malignant carcinoid tumor of the duodenum,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C7A011,Malignant carcinoid tumor of the jejunum,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C7A012,Malignant carcinoid tumor of the ileum,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C7A019,"Malignant carcinoid tumor of the small intestine, unspecified portion",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C7A020,Malignant carcinoid tumor of the appendix,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C7A021,Malignant carcinoid tumor of the cecum,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C7A022,Malignant carcinoid tumor of the ascending colon,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C7A023,Malignant carcinoid tumor of the transverse colon,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C7A024,Malignant carcinoid tumor of the descending colon,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C7A025,Malignant carcinoid tumor of the sigmoid colon,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C7A026,Malignant carcinoid tumor of the rectum,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C7A029,"Malignant carcinoid tumor of the large intestine, unspecified portion",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C7A090,Malignant carcinoid tumor of the bronchus and lung,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C7A091,Malignant carcinoid tumor of the thymus,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C7A092,Malignant carcinoid tumor of the stomach,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C7A093,Malignant carcinoid tumor of the kidney,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C7A094,"Malignant carcinoid tumor of the foregut, unspecified",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C7A095,"Malignant carcinoid tumor of the midgut, unspecified",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C7A096,"Malignant carcinoid tumor of the hindgut, unspecified",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C7A098,Malignant carcinoid tumors of other sites,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C7A1,Malignant poorly differentiated neuroendocrine tumors,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,C7A8,Other malignant neuroendocrine tumors,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,D469,"Myelodysplastic syndrome, unspecified",cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,E3121,Multiple endocrine neoplasia [MEN] type I,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,E3122,Multiple endocrine neoplasia [MEN] type IIA,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,E3123,Multiple endocrine neoplasia [MEN] type IIB,cancer_tumorNoMETS,Cancer – Solid without Mets (does not require POA flags),elix_cancer
+0,G4730,Obstructive sleep apnea and sleep apnea not specified,NA,NA,dx_osa
+0,G4733,Obstructive sleep apnea and sleep apnea not specified,NA,NA,dx_osa
+0,G4739,Obstructive sleep apnea and sleep apnea not specified,NA,NA,dx_osa
+0,J9600,Acute respiratory failure,NA,NA,dx_rf
+0,J9601,Acute respiratory failure,NA,NA,dx_rf
+0,J9602,Acute respiratory failure,NA,NA,dx_rf
+0,J9620,Acute and chronic respiratory failure,NA,NA,dx_rf
+0,J9621,Acute and chronic respiratory failure,NA,NA,dx_rf
+0,J9622,Acute and chronic respiratory failure,NA,NA,dx_rf
+0,J9690,Unspecified respiratory failure,NA,NA,dx_rf
+0,J9691,Unspecified respiratory failure,NA,NA,dx_rf
+0,J9692,Unspecified respiratory failure,NA,NA,dx_rf
