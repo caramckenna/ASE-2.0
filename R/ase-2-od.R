@@ -8,24 +8,24 @@
 ##
 ## Notes:        Output dataset is one row per patientID-episodeID-inf_onset_dt
 ##
-#' @param edw_ver Version of EDW data
-#' @param psi_dsn Presumed serious infection dataset
-#' @param days_co_ho Minimum days between a community-onset (CO) and
-#'                    a hospital-onset (HO) sepsis event for the same patient
-#'                    (default: 7 days)
-#' @param days_ho_ho   Minimum days between sequential HO sepsis events for the
-#'                    same patient (default: 14 days) 
+#' @param input_data_dir Directory containing clinical data files (BP, medications, 
+#'                       labs, etc.) with file naming pattern: {type}_{input_data_ver}.csv
+#' @param input_data_ver Version identifier used in clinical data file names 
+#'                       (e.g., "v1" creates files like "bp_v1.csv")
+#' @param psi_dsn        Presumed serious infection dataset (data.frame or path to .Rds file).
+#' @param days_co_ho     Minimum days between a community-onset (CO) and
+#'                       hospital-onset (HO) sepsis event for the same patient
+#'                       (default: 7 days)
+#' @param days_ho_ho     Minimum days between sequential HO sepsis events for the
+#'                       same patient (default: 14 days)             
 ## ------------------------------------------------------------------------
 
-ase_2_od <- function(edw_ver, psi_dsn, days_co_ho = 7, days_ho_ho = 14) {
+ase_2_od <- function(input_data_dir, input_data_ver, psi_dsn, 
+                     days_co_ho = 7, days_ho_ho = 14) {
   # Load libraries
   library(tidyverse)
   library(data.table)
   library(lubridate)
-
-  # Directories
-  edw_main_dir  <- "/data/tide/data/edw"
-  edw_data_dir  <- file.path(edw_main_dir, edw_ver)
 
   # PSI Data
   if (is.character(psi_dsn)) {
@@ -49,7 +49,7 @@ ase_2_od <- function(edw_ver, psi_dsn, days_co_ho = 7, days_ho_ho = 14) {
   # Organ Dysfunction: Cardiovascular ---------------------------------------
   
   # Need hourly BP
-  bp <- fread(file.path(edw_data_dir,paste0("bp_",edw_ver,".csv")), colClasses = 'character', data.table = FALSE) %>% 
+  bp <- fread(file.path(input_data_dir,paste0("bp_",input_data_ver,".csv")), colClasses = 'character', data.table = FALSE) %>% 
     distinct(patientID,recordedDTS,bpSystolic,bpDiastolic) %>% 
     inner_join(.,psi,by=c("patientID"),relationship = "many-to-many") %>% 
     mutate(recordedDTS = ymd_hms(recordedDTS),
@@ -98,7 +98,7 @@ ase_2_od <- function(edw_ver, psi_dsn, days_co_ho = 7, days_ho_ho = 14) {
     mutate(htn = 1L)
   
   # vasopressors
-  vp <- fread(file.path(edw_data_dir,paste0("vasopressors_",edw_ver,".csv")), 
+  vp <- fread(file.path(input_data_dir,paste0("vasopressors_",input_data_ver,".csv")), 
               colClasses = 'character', data.table = FALSE) %>% 
     filter(adminRouteMapped=="IV" & medNameMapped!="MIX") %>% 
     distinct(patientID,medicationTakenDTS,medNameMapped) %>% 
@@ -201,7 +201,7 @@ ase_2_od <- function(edw_ver, psi_dsn, days_co_ho = 7, days_ho_ho = 14) {
   
   # Organ Dysfunction: Respiratory ------------------------------------------
   
-  o2Dev <- fread(file.path(edw_data_dir,paste0("o2_devices_",edw_ver,".csv")), colClasses = 'character', data.table = FALSE) %>% 
+  o2Dev <- fread(file.path(input_data_dir,paste0("o2_devices_",input_data_ver,".csv")), colClasses = 'character', data.table = FALSE) %>% 
     # inner_join(.,epMap,by=c("patientID","patientEncounterID")) %>%
     inner_join(.,psi,by=c("patientID"),relationship = "many-to-many") %>%
     distinct(patientID,episodeID,startDT,hospitalDischargeDT,recordedDTS,displayNM,measureTXT,o2DeviceMappedv2) %>% 
@@ -408,7 +408,7 @@ ase_2_od <- function(edw_ver, psi_dsn, days_co_ho = 7, days_ho_ho = 14) {
   
   importLabDat <- function(vdatNM,bestDef,minVal,maxVal,baseline=FALSE) {
     
-    ldatF <- file.path(edw_data_dir,paste0(vdatNM,"_",edw_ver,".csv"))
+    ldatF <- file.path(input_data_dir,paste0(vdatNM,"_",input_data_ver,".csv"))
     
     ldat_out <- fread(ldatF, colClasses = 'character', data.table = FALSE)
     

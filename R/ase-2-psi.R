@@ -10,18 +10,26 @@
 ##
 ## Notes:        ASE requires calendar days. conMedDays may not reflect total 
 ##               consecutive med days because of windowing around anchor days.
+##
+#' @param input_data_dir Directory containing clinical data files (BP, medications, 
+#'                       labs, etc.) with file naming pattern: {type}_{input_data_ver}.csv
+#' @param input_data_ver Version identifier used in clinical data file names 
+#'                       (e.g., "v1" creates files like "abx_v1.csv")
+#' @param micro_path     Path to microbiology file containing blood culture data.
+#' @param ep_dsn         Episodes dataset (data frame or path to .Rds file).
+#' @param epmap_dsn      Episode mapping dataset (data frame or path to .Rds/.csv file).
+#' @param ase_mapping_dir Directory containing ASE algorithm mapping files (default: "./mapping").
+#' @param save_paths     Named list of optional output file paths:
+#'                       psi_cohort (final PSI dataset), conmeds (QAD dataset),
+#'                       psi_detail (detailed PSI with additional variables)
 ## ------------------------------------------------------------------------
 
-ase_2_psi <- function(edw_ver, micro_path, ep_dsn, epmap_dsn,
+ase_2_psi <- function(input_data_dir, input_data_ver, micro_path, ep_dsn, epmap_dsn,
+                      ase_mapping_dir = "./mapping",
                       save_paths = list(psi_cohort = NULL, conmeds = NULL, psi_detail = NULL)) {
   
   library(tidyverse)
   library(data.table)
-
-  # Setup paths
-  edw_main_dir  <- "/data/tide/data/edw"
-  edw_data_dir  <- file.path(edw_main_dir, edw_ver)
-  ase_mapping_dir <- "/data/tide/projects/ASE/mapping"
   
   # Load mapping files
   ase_dx_path   <- file.path(ase_mapping_dir, "ase-icd10-codes.csv")
@@ -57,8 +65,7 @@ ase_2_psi <- function(edw_ver, micro_path, ep_dsn, epmap_dsn,
     distinct(patientID,empi,episodeID,patientEncounterID)
   
   # map patientID -> MRN
-  mrn <- fread(file.path(edw_data_dir,paste0("mrn_",edw_ver,".csv")), colClasses = 'character', 
-               data.table = FALSE) 
+  mrn <- fread(file.path(input_data_dir,paste0("mrn_",input_data_ver,".csv")), colClasses = 'character', data.table = FALSE)
  
   # map patientID -> MRN -> EMPI
   mrn_map <- inner_join(epMap,mrn,by="patientID",relationship = "many-to-many") %>% 
@@ -124,7 +131,7 @@ ase_2_psi <- function(edw_ver, micro_path, ep_dsn, epmap_dsn,
     filter(infectious_category_1!="")
   
   
-  dx <- fread(file.path(edw_data_dir,paste0("discharge_dx_",edw_ver,".csv")),colClasses = 'character') %>% 
+  dx <- fread(file.path(input_data_dir,paste0("discharge_dx_",input_data_ver,".csv")),colClasses = 'character') %>% 
     inner_join(.,epMap,by=c("patientID","patientEncounterID")) %>%
     mutate(icd10np= str_squish(str_replace_all(icd10, "[[:punct:]]", ""))) %>%
     distinct(patientID,episodeID,lineNBR,presentOnAdmissionDSC,icd10,icd10np)
@@ -258,13 +265,13 @@ ase_2_psi <- function(edw_ver, micro_path, ep_dsn, epmap_dsn,
     distinct(med_name,medname2,medname_route,med_category)
   
   
-  abx <- fread(file.path(edw_data_dir,paste0("abx_",edw_ver,".csv")), colClasses = 'character', data.table = FALSE) %>% 
+  abx <- fread(file.path(input_data_dir,paste0("abx_",input_data_ver,".csv")), colClasses = 'character', data.table = FALSE) %>% 
     select(patientID,medicationTakenDTS,adminRouteMapped,medNameMapped) %>% 
     inner_join(.,psi.pop,by=c("patientID"),relationship = "many-to-many") %>%
     distinct(patientID,episodeID,startDT,hospitalDischargeDT,medicationTakenDTS,adminRouteMapped,medNameMapped)
     
   
-  othmed <- fread(file.path(edw_data_dir,paste0("antifungals_antivirals_",edw_ver,".csv")), colClasses = 'character', data.table = FALSE) %>% 
+  othmed <- fread(file.path(input_data_dir,paste0("antifungals_antivirals_",input_data_ver,".csv")), colClasses = 'character', data.table = FALSE) %>% 
     select(patientID,medicationTakenDTS,adminRouteMapped,medNameMapped) %>% 
     inner_join(.,psi.pop,by=c("patientID"),relationship = "many-to-many") %>%
     distinct(patientID,episodeID,startDT,hospitalDischargeDT,medicationTakenDTS,adminRouteMapped,medNameMapped)
@@ -536,7 +543,7 @@ ase_2_psi <- function(edw_ver, micro_path, ep_dsn, epmap_dsn,
     select(all_of(keep_vars))
   
   # Fewer than 4 antibiotic days allowed if antibiotics are given up to <=1 day before transition to comfort care
-  cmftcare <- fread(file.path(edw_data_dir,paste0("daily_",edw_ver,".csv")), colClasses = 'character', data.table = FALSE) %>% 
+  cmftcare <- fread(file.path(input_data_dir,paste0("daily_",input_data_ver,".csv")), colClasses = 'character', data.table = FALSE) %>% 
     filter(comfortCare==1) %>%
     select(patientID,eventDate,comfortCare) %>% 
     mutate(cmftcare_date=ymd(eventDate)) %>% 

@@ -12,10 +12,12 @@
 ##               consecutive med days because of windowing around anchor days.
 ## ------------------------------------------------------------------------
 
-ase_2 <- function(edw_ver,
+ase_2 <- function(input_data_dir,
+                  input_data_ver,
                   micro_path,
                   ep_dsn,
                   epmap_dsn,
+                  ase_mapping_dir = "./mapping",
                   days_co_ho = 7,
                   days_ho_ho = 14,
                   save_paths = list(
@@ -30,10 +32,12 @@ ase_2 <- function(edw_ver,
 
   # 1) Build PSI (saves any requested artifacts via save_paths)
   psi <- ase_2_psi(
-    edw_ver    = edw_ver,
-    micro_path = micro_path,
-    ep_dsn     = ep_dsn,
-    epmap_dsn  = epmap_dsn,
+    input_data_dir = input_data_dir,
+    input_data_ver = input_data_ver,
+    micro_path     = micro_path,
+    ep_dsn         = ep_dsn,
+    ase_mapping_dir = ase_mapping_dir,
+    epmap_dsn       = epmap_dsn,
     save_paths = save_paths
   )
   
@@ -43,7 +47,8 @@ ase_2 <- function(edw_ver,
   
   message("▶ Running Organ Dysfunction…")
   ase_final <- ase_2_od(
-    edw_ver    = edw_ver,
+    input_data_dir,
+    input_data_ver,
     psi_dsn    = psi, # pass the in-memory PSI cohort
     days_co_ho = days_co_ho,
     days_ho_ho = days_ho_ho
