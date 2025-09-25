@@ -1,8 +1,7 @@
-# READ_ME-ASE2.0
 
 09/25/2025
 
-This folder contains all of the information needed for the Adult Sepsis Event (ASE) 2.0 algorithm.  Step-by-step instructions are included below:
+This folder contains all of the information needed to run the SAS programs for the Adult Sepsis Event (ASE) 2.0 algorithm.  Step-by-step instructions are included below:
 
 1. Reference the document “ASE_2.0_Overview of SAS Programs and Input Datasets_092425.xlsx” to ensure that all input datasets are structured correctly for the analysis.  See the Cover Sheet tab of the workbook for more information and clarifications about the input datasets and their expected structures.
 
